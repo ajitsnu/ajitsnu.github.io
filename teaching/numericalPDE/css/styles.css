@@ -1,0 +1,21 @@
+.bg-dark {
+    color: #fff;
+}
+
+
+#header {
+    text-align: center;
+    padding: 20px;
+}
+
+#laplaceEq {
+    padding: 20px 10% 10px 10%;
+    text-align: justify;
+    justify-content: space-evenly;
+    }
+
+.exercise-image {
+    position: relative;
+    left: 30%;
+    width: 40%;
+}
