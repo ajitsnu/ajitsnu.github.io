@@ -9,9 +9,9 @@
 }
 
 #laplaceEq {
-    padding: 20px 10% 10px 10%;
+    padding: 20px;
     text-align: justify;
-    justify-content: space-evenly;
+    justify-content: space-evenly; 
     }
 
 .exercise-image {
@@ -19,3 +19,14 @@
     left: 30%;
     width: 40%;
 }
+
+.side-navigation {
+    text-align: center;
+    padding: 20px;    
+}
+
+
+.sidebar{
+    background-color: blanchedalmond;
+}
+
