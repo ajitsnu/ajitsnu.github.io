@@ -7,8 +7,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS"
-        crossorigin="anonymous">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css"
+        integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
 
     <!-- custom CSS -->
     <link rel="stylesheet" href="/css/styles.css">
@@ -24,11 +24,13 @@
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-130040333-2"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
         gtag('js', new Date());
 
         gtag('config', 'UA-130040333-2');
-
     </script>
 
 
@@ -38,10 +40,10 @@
 
     <section id="navigationBar" class="bg-dark">
 
-        <nav class="navbar navbar-expand-sm navbar-dark bg-dark container">
+        <nav class="navbar navbar-expand-sm navbar-dark bg-dark container navbar-default navbar-fixed-top">
             <a class="navbar-brand" href="#">Ajit Kumar</a>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav"
-                aria-expanded="false" aria-label="Toggle navigation">
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarNav">
@@ -56,7 +58,8 @@
                         <a class="nav-link" href="#publications">Publications</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="https://drive.google.com/file/d/1bjxH5Zd09T1FdE0yW672ZFRKkrKoWJyX/view"
+                        <a class="nav-link"
+                            href="https://drive.google.com/file/d/1bjxH5Zd09T1FdE0yW672ZFRKkrKoWJyX/view"
                             target="_blank">CV</a>
                     </li>
 
@@ -113,17 +116,78 @@
         <div class="container">
             <hr>
             <div class="row">
-                <div class="col-md-8">
-                    <h5><a href="windTurbineSimulations/">CFD Simulations of Wind Turbines</a></h5>
-                    <p>We are developing a simulation framework where it would be possible for aerodynamics engineers
-                        to easily test the efficiency of their wind turbines<a href="windTurbineSimulations/"> ... read
-                            more</a> </p>
+                <div class="col-md-12">
+                    <h5><a href="https://github.com/krajit/dynamicRefine2DFvMesh">Adaptive mesh refinement in
+                            OpenFoam-v1812 for 2-dimensional problems</a></h5>
+                    <p>
+                        Standard OpenFOAM-v1812 has a module called dynamicRefineFvMesh. This adaptive mesh refinement
+                        tool does not seem to be applicable for two dimensional problems. <a
+                            href="https://www.academia.edu/16217705/Two-dimensional_adaptive_meshing_in_OpenFOAM">Shonibare</a>
+                        and <a
+                            href="https://digitalcommons.mtu.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=2008&context=etds">Ahmad
+                            Baniabedalruhman</a> recently described how to adapt this adaptive mesh tools for two
+                        dimensional problems. However, CFD community struggled to implement their ideas. See this <a
+                            href="https://www.cfd-online.com/Forums/openfoam-community-contributions/118870-2d-adaptive-mesh-refinement.html">cfd-online
+                            forum</a>.
+                    </p>
+                    <p>
+                        Eventually, <a
+                            href="https://www.cfd-online.com/Forums/openfoam-community-contributions/118870-2d-adaptive-mesh-refinement.html">Luca
+                            Cornolti </a> shared a working for code for adaptive mesh refinement for 2d problems. His
+                        initial code were for foam-extend. This repository is simple adaptation Luca's work for
+                        OpenFOAM-v1812. The animated screenshot clearly shows that it works.
+
+                    </p>
 
                 </div>
-                <div class="col-md-4 projectImageContainer">
-                    <img class="projectImage ml-auto" src="/windTurbineSimulations/images/velocityField.gif" alt="Wind turbine simulation with OpenFoam">
-                </div>
             </div>
+
+            <div class="row">
+                <div class="col-md-3"></div>
+                <div class="col-md-2">
+                    <img class="projectImage ml-auto"
+                        src="https://github.com/krajit/dynamicRefine2DFvMesh/blob/master/tutorial/interFoam/damBreak/meshRefinement-2d.gif?raw=true?raw=true"
+                        alt="Adaptive mesh refinement in
+                        OpenFoam-v1812">
+                </div>
+
+                <div class="col-md-2">
+                    <img class="projectImage ml-auto"
+                        src="https://github.com/krajit/dynamicRefine2DFvMesh/blob/master/tutorial/interFoam/damBreak/alpha-with-refinement.gif?raw=true"
+                        alt="Adaptive mesh refinement in
+                        OpenFoam-v1812">
+                </div>
+
+                <div class="col-md-2">
+                    <img class="projectImage ml-auto"
+                        src="https://github.com/krajit/dynamicRefine2DFvMesh/blob/master/tutorial/interFoam/damBreak/meshRefinement-3d.gif?raw=true?raw=true"
+                        alt="Adaptive mesh refinement in
+                        OpenFoam-v1812">
+                </div>
+                <div class="col-md-3"></div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-10"> </div>
+                <div class="col-md-2"> <a href="https://github.com/krajit/dynamicRefine2DFvMesh"> ... code link. </div>
+            </div>
+
+
+
+        <hr>
+        <div class="row">
+            <div class="col-md-8">
+                <h5><a href="windTurbineSimulations/">CFD Simulations of Wind Turbines</a></h5>
+                <p>We are developing a simulation framework where it would be possible for aerodynamics engineers
+                    to easily test the efficiency of their wind turbines<a href="windTurbineSimulations/"> ... read
+                        more</a> </p>
+
+            </div>
+            <div class="col-md-4 projectImageContainer">
+                <img class="projectImage ml-auto" src="/windTurbineSimulations/images/velocityField.gif"
+                    alt="Wind turbine simulation with OpenFoam">
+            </div>
+        </div>
         </div>
 
     </section>
@@ -217,8 +281,9 @@
             <hr>
             <h4>Publications</h4>
             <ul class="list-unstyled">
-                <li>A. Veliz-Cuba, A. Kumar, K. Josic. <a href="https://link.springer.com/article/10.1007/s11538-014-0040-x"
-                        target="_blank">Piecewise linear and boolean models of chemical reaction
+                <li>A. Veliz-Cuba, A. Kumar, K. Josic. <a
+                        href="https://link.springer.com/article/10.1007/s11538-014-0040-x" target="_blank">Piecewise
+                        linear and boolean models of chemical reaction
                         networks</a>.
                     <em>Bulletin of Mathematical Biology</em>. Volume 76-12. Pages 2945-2984. 2014</li>
                 <li>A. Kumar and K. Josic. <a href="https://www.sciencedirect.com/science/article/pii/S0022519311001275"
@@ -232,10 +297,12 @@
 
             <h4>Conference Papers</h4>
             <ul class="list-unstyled">
-                <li>A. Kumar. <a href="http://www.google.com/url?q=http%3A%2F%2Fwww.nal.res.in%2FCFDsympo17%2Fcfdfullpaperfinal%2FNumerical%2520simulation%2520of%2520cricket%2520ball%2520swings%2520using%2520OpenFOAM.pdf&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNF1shmfmxVBhfowNrAnGjVEW1nOiQ"
+                <li>A. Kumar. <a
+                        href="http://www.google.com/url?q=http%3A%2F%2Fwww.nal.res.in%2FCFDsympo17%2Fcfdfullpaperfinal%2FNumerical%2520simulation%2520of%2520cricket%2520ball%2520swings%2520using%2520OpenFOAM.pdf&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNF1shmfmxVBhfowNrAnGjVEW1nOiQ"
                         target="_blank" rel="noopener">Numerical simulation of cricket ball swings using OpenFOAM</a>.
                     <em>17th Annual CFD Symposium. National Aerospace Lab. Bangalore. India</em>. 2015</li>
-                <li>P. Laws, J. S. Saini, A. Kumar. <a href="https://www.google.com/url?q=https%3A%2F%2Fwww.nal.res.in%2FFullPapers%2FP19-PERFORMANCE%2520ANALYSIS%2520OF%2520TWO-DIMENSIONAL%2520NACA%25200018.pdf&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHXBVParlNsdw9DqhuAHzZ7avhUAQ"
+                <li>P. Laws, J. S. Saini, A. Kumar. <a
+                        href="https://www.google.com/url?q=https%3A%2F%2Fwww.nal.res.in%2FFullPapers%2FP19-PERFORMANCE%2520ANALYSIS%2520OF%2520TWO-DIMENSIONAL%2520NACA%25200018.pdf&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHXBVParlNsdw9DqhuAHzZ7avhUAQ"
                         target="_blank" rel="noopener">Performance analysis of two-dimensional NACA 0018 airfoil using
                         an overset grid solver</a>. 20th Annual CFD Symposium, National Aerospace Laboratories,
                     Bangalore. 2018</li>
@@ -263,12 +330,15 @@
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
-        crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut"
-        crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k"
-        crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous">
+    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js"
+        integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous">
+    </script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js"
+        integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous">
+    </script>
 </body>
 
 </html>
