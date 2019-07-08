@@ -1,0 +1,10 @@
+﻿Soft conflicts of snu-timetable.fet
+Generated with FET 5.37.5 on 7/8/19 12:20 PM
+
+Number of broken soft constraints: 0
+Total soft conflicts: 0
+
+Soft conflicts list (in decreasing order):
+
+
+End of file.
