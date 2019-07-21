@@ -3164,6 +3164,13 @@
 	</Qualified_Subjects>
 	<Comments></Comments>
 </Teacher>
+<Teacher>
+	<Name>Dolly Sharma</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
 </Teachers_List>
 
 <Students_List>
@@ -4535,7 +4542,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Sweta Mishra</Teacher>
+	<Teacher>Rajeev Kumar Singh[20500026]</Teacher>
 	<Subject>CSD304</Subject>
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Students>CSE32</Students>
@@ -4548,7 +4555,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Sweta Mishra</Teacher>
+	<Teacher>Rajeev Kumar Singh[20500026]</Teacher>
 	<Subject>CSD304</Subject>
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Students>CSE32</Students>
@@ -9468,7 +9475,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Debopam  Acharya[20500192]</Teacher>
+	<Teacher>Dolly Sharma</Teacher>
 	<Subject>CSD402</Subject>
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>LargeClass</Activity_Tag>
@@ -9481,7 +9488,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Debopam  Acharya[20500192]</Teacher>
+	<Teacher>Dolly Sharma</Teacher>
 	<Subject>CSD402</Subject>
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>LargeClass</Activity_Tag>
@@ -9494,7 +9501,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Debopam  Acharya[20500192]</Teacher>
+	<Teacher>Dolly Sharma</Teacher>
 	<Subject>CSD402</Subject>
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>LargeClass</Activity_Tag>
@@ -9507,7 +9514,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Debopam  Acharya[20500192]</Teacher>
+	<Teacher>Dolly Sharma</Teacher>
 	<Subject>CSD402</Subject>
 	<Activity_Tag>D313</Activity_Tag>
 	<Students>CSE4</Students>
@@ -10377,6 +10384,7 @@
 	<Subject>CSD301</Subject>
 	<Activity_Tag>C309</Activity_Tag>
 	<Students>CSE31</Students>
+	<Students>CSE32</Students>
 	<Duration>2</Duration>
 	<Total_Duration>2</Total_Duration>
 	<Id>532</Id>
@@ -10389,6 +10397,7 @@
 	<Subject>CSD301</Subject>
 	<Activity_Tag>C309</Activity_Tag>
 	<Students>CSE32</Students>
+	<Students>CSE31</Students>
 	<Duration>2</Duration>
 	<Total_Duration>2</Total_Duration>
 	<Id>533</Id>
@@ -20979,7 +20988,7 @@
 <ConstraintTeacherMaxGapsPerDay>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Teacher_Name>Sweta Mishra</Teacher_Name>
-	<Max_Gaps>1</Max_Gaps>
+	<Max_Gaps>20</Max_Gaps>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintTeacherMaxGapsPerDay>
@@ -21700,7 +21709,7 @@
 <ConstraintTeacherMaxGapsPerDay>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Teacher_Name>Rajeev Kumar Singh[20500026]</Teacher_Name>
-	<Max_Gaps>1</Max_Gaps>
+	<Max_Gaps>20</Max_Gaps>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintTeacherMaxGapsPerDay>
@@ -22085,14 +22094,14 @@
 <ConstraintTeacherMaxGapsPerDay>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Teacher_Name>Saroj Kaushik</Teacher_Name>
-	<Max_Gaps>1</Max_Gaps>
+	<Max_Gaps>20</Max_Gaps>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintTeacherMaxGapsPerDay>
 <ConstraintTeacherMaxGapsPerDay>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Teacher_Name>Divya  Lohani[20500325]</Teacher_Name>
-	<Max_Gaps>1</Max_Gaps>
+	<Max_Gaps>20</Max_Gaps>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintTeacherMaxGapsPerDay>
@@ -22400,7 +22409,7 @@
 <ConstraintTeacherMaxGapsPerDay>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Teacher_Name>Karmeshu  .[20500800]</Teacher_Name>
-	<Max_Gaps>1</Max_Gaps>
+	<Max_Gaps>20</Max_Gaps>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintTeacherMaxGapsPerDay>
@@ -22736,7 +22745,7 @@
 <ConstraintTeacherMaxGapsPerDay>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Teacher_Name>Harish Chandra Karnick[20500537]</Teacher_Name>
-	<Max_Gaps>1</Max_Gaps>
+	<Max_Gaps>20</Max_Gaps>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintTeacherMaxGapsPerDay>
@@ -22750,7 +22759,7 @@
 <ConstraintTeacherMaxGapsPerDay>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Teacher_Name>Sonia  Khetarpaul[20500730]</Teacher_Name>
-	<Max_Gaps>1</Max_Gaps>
+	<Max_Gaps>20</Max_Gaps>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintTeacherMaxGapsPerDay>
@@ -30963,19 +30972,7 @@
 <ConstraintTeacherNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Teacher>Pooja  Malik[20500448]</Teacher>
-	<Number_of_Not_Available_Times>30</Number_of_Not_Available_Times>
-	<Not_Available_Time>
-		<Day>M</Day>
-		<Hour>17:30</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>M</Day>
-		<Hour>13:30</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>M</Day>
-		<Hour>13:00</Hour>
-	</Not_Available_Time>
+	<Number_of_Not_Available_Times>20</Number_of_Not_Available_Times>
 	<Not_Available_Time>
 		<Day>M</Day>
 		<Hour>08:00</Hour>
@@ -30989,16 +30986,8 @@
 		<Hour>17:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
-		<Day>T</Day>
+		<Day>M</Day>
 		<Hour>17:30</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>T</Day>
-		<Hour>13:30</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>T</Day>
-		<Hour>13:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>T</Day>
@@ -31013,16 +31002,8 @@
 		<Hour>17:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
-		<Day>W</Day>
+		<Day>T</Day>
 		<Hour>17:30</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>W</Day>
-		<Hour>13:30</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>W</Day>
-		<Hour>13:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>W</Day>
@@ -31037,16 +31018,8 @@
 		<Hour>17:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
-		<Day>Th</Day>
+		<Day>W</Day>
 		<Hour>17:30</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Th</Day>
-		<Hour>13:30</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Th</Day>
-		<Hour>13:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Th</Day>
@@ -31061,16 +31034,8 @@
 		<Hour>17:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
-		<Day>F</Day>
+		<Day>Th</Day>
 		<Hour>17:30</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>F</Day>
-		<Hour>13:30</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>F</Day>
-		<Hour>13:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>F</Day>
@@ -31083,6 +31048,10 @@
 	<Not_Available_Time>
 		<Day>F</Day>
 		<Hour>17:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>F</Day>
+		<Hour>17:30</Hour>
 	</Not_Available_Time>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -34852,14 +34821,10 @@
 <ConstraintTeacherNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Teacher>Saroj Kaushik</Teacher>
-	<Number_of_Not_Available_Times>20</Number_of_Not_Available_Times>
+	<Number_of_Not_Available_Times>44</Number_of_Not_Available_Times>
 	<Not_Available_Time>
 		<Day>M</Day>
 		<Hour>08:00</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>M</Day>
-		<Hour>17:30</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>M</Day>
@@ -34867,7 +34832,19 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>M</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>M</Day>
+		<Hour>09:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>M</Day>
 		<Hour>17:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>M</Day>
+		<Hour>17:30</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>T</Day>
@@ -34875,15 +34852,23 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>T</Day>
-		<Hour>17:30</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>T</Day>
 		<Hour>08:30</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>T</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>T</Day>
+		<Hour>09:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>T</Day>
 		<Hour>17:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>T</Day>
+		<Hour>17:30</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>W</Day>
@@ -34891,15 +34876,23 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>W</Day>
-		<Hour>17:30</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>W</Day>
 		<Hour>08:30</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>W</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>W</Day>
+		<Hour>09:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>W</Day>
 		<Hour>17:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>W</Day>
+		<Hour>17:30</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Th</Day>
@@ -34907,15 +34900,23 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Th</Day>
-		<Hour>17:30</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Th</Day>
 		<Hour>08:30</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Th</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Th</Day>
+		<Hour>09:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Th</Day>
 		<Hour>17:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Th</Day>
+		<Hour>17:30</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>F</Day>
@@ -34923,15 +34924,79 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>F</Day>
-		<Hour>17:30</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>F</Day>
 		<Hour>08:30</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>F</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>F</Day>
+		<Hour>09:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>F</Day>
+		<Hour>10:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>F</Day>
+		<Hour>10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>F</Day>
+		<Hour>11:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>F</Day>
+		<Hour>11:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>F</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>F</Day>
+		<Hour>12:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>F</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>F</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>F</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>F</Day>
+		<Hour>14:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>F</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>F</Day>
+		<Hour>15:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>F</Day>
+		<Hour>16:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>F</Day>
+		<Hour>16:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>F</Day>
 		<Hour>17:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>F</Day>
+		<Hour>17:30</Hour>
 	</Not_Available_Time>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -38756,14 +38821,10 @@
 <ConstraintTeacherNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Teacher>Sandeep Sen</Teacher>
-	<Number_of_Not_Available_Times>50</Number_of_Not_Available_Times>
+	<Number_of_Not_Available_Times>20</Number_of_Not_Available_Times>
 	<Not_Available_Time>
 		<Day>M</Day>
-		<Hour>17:30</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>M</Day>
-		<Hour>16:00</Hour>
+		<Hour>08:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>M</Day>
@@ -38771,39 +38832,15 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>M</Day>
-		<Hour>14:00</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>M</Day>
-		<Hour>15:30</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>M</Day>
-		<Hour>16:30</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>M</Day>
-		<Hour>08:00</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>M</Day>
-		<Hour>14:30</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>M</Day>
-		<Hour>15:00</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>M</Day>
 		<Hour>17:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
-		<Day>T</Day>
+		<Day>M</Day>
 		<Hour>17:30</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>T</Day>
-		<Hour>16:00</Hour>
+		<Hour>08:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>T</Day>
@@ -38811,39 +38848,15 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>T</Day>
-		<Hour>14:00</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>T</Day>
-		<Hour>15:30</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>T</Day>
-		<Hour>16:30</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>T</Day>
-		<Hour>08:00</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>T</Day>
-		<Hour>14:30</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>T</Day>
-		<Hour>15:00</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>T</Day>
 		<Hour>17:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
-		<Day>W</Day>
+		<Day>T</Day>
 		<Hour>17:30</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>W</Day>
-		<Hour>16:00</Hour>
+		<Hour>08:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>W</Day>
@@ -38851,39 +38864,15 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>W</Day>
-		<Hour>14:00</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>W</Day>
-		<Hour>15:30</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>W</Day>
-		<Hour>16:30</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>W</Day>
-		<Hour>08:00</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>W</Day>
-		<Hour>14:30</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>W</Day>
-		<Hour>15:00</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>W</Day>
 		<Hour>17:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
-		<Day>Th</Day>
+		<Day>W</Day>
 		<Hour>17:30</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Th</Day>
-		<Hour>16:00</Hour>
+		<Hour>08:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Th</Day>
@@ -38891,39 +38880,15 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Th</Day>
-		<Hour>14:00</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Th</Day>
-		<Hour>15:30</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Th</Day>
-		<Hour>16:30</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Th</Day>
-		<Hour>08:00</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Th</Day>
-		<Hour>14:30</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Th</Day>
-		<Hour>15:00</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Th</Day>
 		<Hour>17:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
-		<Day>F</Day>
+		<Day>Th</Day>
 		<Hour>17:30</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>F</Day>
-		<Hour>16:00</Hour>
+		<Hour>08:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>F</Day>
@@ -38931,31 +38896,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>F</Day>
-		<Hour>14:00</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>F</Day>
-		<Hour>15:30</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>F</Day>
-		<Hour>16:30</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>F</Day>
-		<Hour>08:00</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>F</Day>
-		<Hour>14:30</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>F</Day>
-		<Hour>15:00</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>F</Day>
 		<Hour>17:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>F</Day>
+		<Hour>17:30</Hour>
 	</Not_Available_Time>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -44662,33 +44607,6 @@
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>76</Activity_Id>
-	<Preferred_Day>Th</Preferred_Day>
-	<Preferred_Hour>15:30</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>77</Activity_Id>
-	<Preferred_Day>T</Preferred_Day>
-	<Preferred_Hour>15:30</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>78</Activity_Id>
-	<Preferred_Day>W</Preferred_Day>
-	<Preferred_Hour>15:00</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>79</Activity_Id>
 	<Preferred_Day>W</Preferred_Day>
 	<Preferred_Hour>08:00</Preferred_Hour>
@@ -45463,87 +45381,6 @@
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>206</Activity_Id>
-	<Preferred_Day>W</Preferred_Day>
-	<Preferred_Hour>15:00</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>207</Activity_Id>
-	<Preferred_Day>F</Preferred_Day>
-	<Preferred_Hour>15:00</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>208</Activity_Id>
-	<Preferred_Day>T</Preferred_Day>
-	<Preferred_Hour>15:30</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>209</Activity_Id>
-	<Preferred_Day>Th</Preferred_Day>
-	<Preferred_Hour>14:00</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>210</Activity_Id>
-	<Preferred_Day>W</Preferred_Day>
-	<Preferred_Hour>11:30</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>211</Activity_Id>
-	<Preferred_Day>M</Preferred_Day>
-	<Preferred_Hour>11:30</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>212</Activity_Id>
-	<Preferred_Day>F</Preferred_Day>
-	<Preferred_Hour>11:30</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>213</Activity_Id>
-	<Preferred_Day>T</Preferred_Day>
-	<Preferred_Hour>11:00</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>214</Activity_Id>
-	<Preferred_Day>T</Preferred_Day>
-	<Preferred_Hour>12:30</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>215</Activity_Id>
 	<Preferred_Day>F</Preferred_Day>
 	<Preferred_Hour>09:00</Preferred_Hour>
@@ -46246,15 +46083,6 @@
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>309</Activity_Id>
-	<Preferred_Day>Th</Preferred_Day>
-	<Preferred_Hour>08:00</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>311</Activity_Id>
 	<Preferred_Day>F</Preferred_Day>
 	<Preferred_Hour>15:30</Preferred_Hour>
@@ -46339,42 +46167,6 @@
 	<Activity_Id>327</Activity_Id>
 	<Preferred_Day>M</Preferred_Day>
 	<Preferred_Hour>09:30</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>328</Activity_Id>
-	<Preferred_Day>M</Preferred_Day>
-	<Preferred_Hour>14:00</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>329</Activity_Id>
-	<Preferred_Day>W</Preferred_Day>
-	<Preferred_Hour>08:00</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>330</Activity_Id>
-	<Preferred_Day>W</Preferred_Day>
-	<Preferred_Hour>17:00</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>331</Activity_Id>
-	<Preferred_Day>Th</Preferred_Day>
-	<Preferred_Hour>17:00</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -47218,132 +47010,6 @@
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>461</Activity_Id>
-	<Preferred_Day>F</Preferred_Day>
-	<Preferred_Hour>14:00</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>462</Activity_Id>
-	<Preferred_Day>W</Preferred_Day>
-	<Preferred_Hour>14:00</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>463</Activity_Id>
-	<Preferred_Day>M</Preferred_Day>
-	<Preferred_Hour>14:00</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>464</Activity_Id>
-	<Preferred_Day>F</Preferred_Day>
-	<Preferred_Hour>15:00</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>465</Activity_Id>
-	<Preferred_Day>M</Preferred_Day>
-	<Preferred_Hour>15:00</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>466</Activity_Id>
-	<Preferred_Day>Th</Preferred_Day>
-	<Preferred_Hour>15:00</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>467</Activity_Id>
-	<Preferred_Day>F</Preferred_Day>
-	<Preferred_Hour>09:00</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>468</Activity_Id>
-	<Preferred_Day>W</Preferred_Day>
-	<Preferred_Hour>09:00</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>469</Activity_Id>
-	<Preferred_Day>M</Preferred_Day>
-	<Preferred_Hour>10:00</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>470</Activity_Id>
-	<Preferred_Day>F</Preferred_Day>
-	<Preferred_Hour>10:00</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>471</Activity_Id>
-	<Preferred_Day>T</Preferred_Day>
-	<Preferred_Hour>15:00</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>472</Activity_Id>
-	<Preferred_Day>F</Preferred_Day>
-	<Preferred_Hour>14:00</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>475</Activity_Id>
-	<Preferred_Day>F</Preferred_Day>
-	<Preferred_Hour>11:00</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>476</Activity_Id>
-	<Preferred_Day>M</Preferred_Day>
-	<Preferred_Hour>11:00</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>477</Activity_Id>
 	<Preferred_Day>F</Preferred_Day>
 	<Preferred_Hour>15:30</Preferred_Hour>
@@ -47392,51 +47058,6 @@
 	<Activity_Id>482</Activity_Id>
 	<Preferred_Day>Th</Preferred_Day>
 	<Preferred_Hour>14:00</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>486</Activity_Id>
-	<Preferred_Day>M</Preferred_Day>
-	<Preferred_Hour>15:00</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>487</Activity_Id>
-	<Preferred_Day>F</Preferred_Day>
-	<Preferred_Hour>15:00</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>491</Activity_Id>
-	<Preferred_Day>W</Preferred_Day>
-	<Preferred_Hour>12:30</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>492</Activity_Id>
-	<Preferred_Day>F</Preferred_Day>
-	<Preferred_Hour>12:30</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>493</Activity_Id>
-	<Preferred_Day>M</Preferred_Day>
-	<Preferred_Hour>15:00</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -47716,51 +47337,6 @@
 	<Activity_Id>528</Activity_Id>
 	<Preferred_Day>Th</Preferred_Day>
 	<Preferred_Hour>15:30</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>529</Activity_Id>
-	<Preferred_Day>F</Preferred_Day>
-	<Preferred_Hour>11:00</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>530</Activity_Id>
-	<Preferred_Day>M</Preferred_Day>
-	<Preferred_Hour>11:00</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>531</Activity_Id>
-	<Preferred_Day>W</Preferred_Day>
-	<Preferred_Hour>11:00</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>532</Activity_Id>
-	<Preferred_Day>F</Preferred_Day>
-	<Preferred_Hour>12:00</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>533</Activity_Id>
-	<Preferred_Day>W</Preferred_Day>
-	<Preferred_Hour>12:00</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -48091,33 +47667,6 @@
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>570</Activity_Id>
-	<Preferred_Day>W</Preferred_Day>
-	<Preferred_Hour>09:00</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>571</Activity_Id>
-	<Preferred_Day>M</Preferred_Day>
-	<Preferred_Hour>09:00</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>572</Activity_Id>
-	<Preferred_Day>F</Preferred_Day>
-	<Preferred_Hour>09:00</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>573</Activity_Id>
 	<Preferred_Day>W</Preferred_Day>
 	<Preferred_Hour>12:00</Preferred_Hour>
@@ -48337,42 +47886,6 @@
 	<Activity_Id>597</Activity_Id>
 	<Preferred_Day>W</Preferred_Day>
 	<Preferred_Hour>17:00</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>598</Activity_Id>
-	<Preferred_Day>F</Preferred_Day>
-	<Preferred_Hour>16:00</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>599</Activity_Id>
-	<Preferred_Day>W</Preferred_Day>
-	<Preferred_Hour>12:00</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>600</Activity_Id>
-	<Preferred_Day>Th</Preferred_Day>
-	<Preferred_Hour>14:30</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>601</Activity_Id>
-	<Preferred_Day>Th</Preferred_Day>
-	<Preferred_Hour>15:00</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -48874,33 +48387,6 @@
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>657</Activity_Id>
-	<Preferred_Day>M</Preferred_Day>
-	<Preferred_Hour>10:00</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>658</Activity_Id>
-	<Preferred_Day>F</Preferred_Day>
-	<Preferred_Hour>10:00</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>659</Activity_Id>
-	<Preferred_Day>T</Preferred_Day>
-	<Preferred_Hour>13:30</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>660</Activity_Id>
 	<Preferred_Day>F</Preferred_Day>
 	<Preferred_Hour>16:00</Preferred_Hour>
@@ -48976,15 +48462,6 @@
 	<Activity_Id>668</Activity_Id>
 	<Preferred_Day>Th</Preferred_Day>
 	<Preferred_Hour>14:30</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>669</Activity_Id>
-	<Preferred_Day>W</Preferred_Day>
-	<Preferred_Hour>10:00</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -49153,78 +48630,6 @@
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>688</Activity_Id>
-	<Preferred_Day>T</Preferred_Day>
-	<Preferred_Hour>13:00</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>689</Activity_Id>
-	<Preferred_Day>M</Preferred_Day>
-	<Preferred_Hour>13:00</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>690</Activity_Id>
-	<Preferred_Day>W</Preferred_Day>
-	<Preferred_Hour>14:00</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>691</Activity_Id>
-	<Preferred_Day>F</Preferred_Day>
-	<Preferred_Hour>12:30</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>692</Activity_Id>
-	<Preferred_Day>T</Preferred_Day>
-	<Preferred_Hour>13:00</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>693</Activity_Id>
-	<Preferred_Day>M</Preferred_Day>
-	<Preferred_Hour>14:00</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>694</Activity_Id>
-	<Preferred_Day>W</Preferred_Day>
-	<Preferred_Hour>14:00</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>695</Activity_Id>
-	<Preferred_Day>F</Preferred_Day>
-	<Preferred_Hour>13:00</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>696</Activity_Id>
 	<Preferred_Day>W</Preferred_Day>
 	<Preferred_Hour>14:00</Preferred_Hour>
@@ -49325,78 +48730,6 @@
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>707</Activity_Id>
-	<Preferred_Day>F</Preferred_Day>
-	<Preferred_Hour>13:00</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>712</Activity_Id>
-	<Preferred_Day>M</Preferred_Day>
-	<Preferred_Hour>12:30</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>713</Activity_Id>
-	<Preferred_Day>T</Preferred_Day>
-	<Preferred_Hour>14:00</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>714</Activity_Id>
-	<Preferred_Day>F</Preferred_Day>
-	<Preferred_Hour>12:30</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>715</Activity_Id>
-	<Preferred_Day>W</Preferred_Day>
-	<Preferred_Hour>12:30</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>716</Activity_Id>
-	<Preferred_Day>T</Preferred_Day>
-	<Preferred_Hour>13:30</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>717</Activity_Id>
-	<Preferred_Day>M</Preferred_Day>
-	<Preferred_Hour>12:30</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>718</Activity_Id>
-	<Preferred_Day>W</Preferred_Day>
-	<Preferred_Hour>13:30</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>719</Activity_Id>
 	<Preferred_Day>F</Preferred_Day>
 	<Preferred_Hour>13:00</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
@@ -49837,42 +49170,6 @@
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>784</Activity_Id>
-	<Preferred_Day>W</Preferred_Day>
-	<Preferred_Hour>14:00</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>785</Activity_Id>
-	<Preferred_Day>M</Preferred_Day>
-	<Preferred_Hour>13:30</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>786</Activity_Id>
-	<Preferred_Day>F</Preferred_Day>
-	<Preferred_Hour>14:00</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>787</Activity_Id>
-	<Preferred_Day>T</Preferred_Day>
-	<Preferred_Hour>13:30</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>788</Activity_Id>
 	<Preferred_Day>W</Preferred_Day>
 	<Preferred_Hour>13:00</Preferred_Hour>
@@ -50233,42 +49530,6 @@
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>828</Activity_Id>
-	<Preferred_Day>T</Preferred_Day>
-	<Preferred_Hour>13:30</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>829</Activity_Id>
-	<Preferred_Day>M</Preferred_Day>
-	<Preferred_Hour>13:00</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>830</Activity_Id>
-	<Preferred_Day>W</Preferred_Day>
-	<Preferred_Hour>14:00</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>831</Activity_Id>
-	<Preferred_Day>F</Preferred_Day>
-	<Preferred_Hour>14:00</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>832</Activity_Id>
 	<Preferred_Day>T</Preferred_Day>
 	<Preferred_Hour>12:30</Preferred_Hour>
@@ -50515,78 +49776,6 @@
 	<Activity_Id>859</Activity_Id>
 	<Preferred_Day>T</Preferred_Day>
 	<Preferred_Hour>12:30</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>860</Activity_Id>
-	<Preferred_Day>W</Preferred_Day>
-	<Preferred_Hour>14:00</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>861</Activity_Id>
-	<Preferred_Day>T</Preferred_Day>
-	<Preferred_Hour>13:30</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>862</Activity_Id>
-	<Preferred_Day>F</Preferred_Day>
-	<Preferred_Hour>14:00</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>863</Activity_Id>
-	<Preferred_Day>M</Preferred_Day>
-	<Preferred_Hour>14:00</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>864</Activity_Id>
-	<Preferred_Day>M</Preferred_Day>
-	<Preferred_Hour>14:00</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>865</Activity_Id>
-	<Preferred_Day>W</Preferred_Day>
-	<Preferred_Hour>14:00</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>866</Activity_Id>
-	<Preferred_Day>T</Preferred_Day>
-	<Preferred_Hour>13:00</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>867</Activity_Id>
-	<Preferred_Day>F</Preferred_Day>
-	<Preferred_Hour>14:00</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -51493,42 +50682,6 @@
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>992</Activity_Id>
-	<Preferred_Day>F</Preferred_Day>
-	<Preferred_Hour>13:00</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>993</Activity_Id>
-	<Preferred_Day>W</Preferred_Day>
-	<Preferred_Hour>13:00</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>994</Activity_Id>
-	<Preferred_Day>M</Preferred_Day>
-	<Preferred_Hour>12:30</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>995</Activity_Id>
-	<Preferred_Day>T</Preferred_Day>
-	<Preferred_Hour>12:30</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>11</Activity_Id>
 	<Preferred_Day>W</Preferred_Day>
 	<Preferred_Hour>10:00</Preferred_Hour>
@@ -52365,15 +51518,6 @@
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>71</Activity_Id>
-	<Preferred_Day>Th</Preferred_Day>
-	<Preferred_Hour>14:00</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>41</Activity_Id>
 	<Preferred_Day>M</Preferred_Day>
 	<Preferred_Hour>16:00</Preferred_Hour>
@@ -52950,15 +52094,6 @@
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>66</Activity_Id>
-	<Preferred_Day>M</Preferred_Day>
-	<Preferred_Hour>10:30</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>69</Activity_Id>
 	<Preferred_Day>T</Preferred_Day>
 	<Preferred_Hour>15:00</Preferred_Hour>
@@ -53133,24 +52268,6 @@
 	<Activity_Id>335</Activity_Id>
 	<Preferred_Day>M</Preferred_Day>
 	<Preferred_Hour>08:30</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>473</Activity_Id>
-	<Preferred_Day>W</Preferred_Day>
-	<Preferred_Hour>14:00</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>474</Activity_Id>
-	<Preferred_Day>Th</Preferred_Day>
-	<Preferred_Hour>14:00</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -53580,24 +52697,6 @@
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>55</Activity_Id>
-	<Preferred_Day>T</Preferred_Day>
-	<Preferred_Hour>14:30</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>56</Activity_Id>
-	<Preferred_Day>Th</Preferred_Day>
-	<Preferred_Hour>14:30</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>57</Activity_Id>
 	<Preferred_Day>T</Preferred_Day>
 	<Preferred_Hour>16:00</Preferred_Hour>
@@ -53619,6 +52718,946 @@
 	<Activity_Id>59</Activity_Id>
 	<Preferred_Day>Th</Preferred_Day>
 	<Preferred_Hour>15:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Dolly Sharma</Teacher>
+	<Number_of_Not_Available_Times>20</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>M</Day>
+		<Hour>08:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>M</Day>
+		<Hour>08:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>M</Day>
+		<Hour>17:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>M</Day>
+		<Hour>17:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>T</Day>
+		<Hour>08:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>T</Day>
+		<Hour>08:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>T</Day>
+		<Hour>17:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>T</Day>
+		<Hour>17:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>W</Day>
+		<Hour>08:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>W</Day>
+		<Hour>08:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>W</Day>
+		<Hour>17:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>W</Day>
+		<Hour>17:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Th</Day>
+		<Hour>08:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Th</Day>
+		<Hour>08:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Th</Day>
+		<Hour>17:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Th</Day>
+		<Hour>17:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>F</Day>
+		<Hour>08:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>F</Day>
+		<Hour>08:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>F</Day>
+		<Hour>17:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>F</Day>
+		<Hour>17:30</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTwoActivitiesConsecutive>
+	<Weight_Percentage>100</Weight_Percentage>
+	<First_Activity_Id>532</First_Activity_Id>
+	<Second_Activity_Id>533</Second_Activity_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTwoActivitiesConsecutive>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>77</Activity_Id>
+	<Preferred_Day>M</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>76</Activity_Id>
+	<Preferred_Day>F</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>209</Activity_Id>
+	<Preferred_Day>T</Preferred_Day>
+	<Preferred_Hour>11:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>465</Activity_Id>
+	<Preferred_Day>T</Preferred_Day>
+	<Preferred_Hour>15:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>466</Activity_Id>
+	<Preferred_Day>Th</Preferred_Day>
+	<Preferred_Hour>15:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>206</Activity_Id>
+	<Preferred_Day>M</Preferred_Day>
+	<Preferred_Hour>15:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>207</Activity_Id>
+	<Preferred_Day>F</Preferred_Day>
+	<Preferred_Hour>15:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>208</Activity_Id>
+	<Preferred_Day>W</Preferred_Day>
+	<Preferred_Hour>16:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>461</Activity_Id>
+	<Preferred_Day>M</Preferred_Day>
+	<Preferred_Hour>12:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>463</Activity_Id>
+	<Preferred_Day>W</Preferred_Day>
+	<Preferred_Hour>12:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>462</Activity_Id>
+	<Preferred_Day>F</Preferred_Day>
+	<Preferred_Hour>12:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>464</Activity_Id>
+	<Preferred_Day>F</Preferred_Day>
+	<Preferred_Hour>15:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>571</Activity_Id>
+	<Preferred_Day>M</Preferred_Day>
+	<Preferred_Hour>11:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>570</Activity_Id>
+	<Preferred_Day>W</Preferred_Day>
+	<Preferred_Hour>11:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>572</Activity_Id>
+	<Preferred_Day>Th</Preferred_Day>
+	<Preferred_Hour>15:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>470</Activity_Id>
+	<Preferred_Day>M</Preferred_Day>
+	<Preferred_Hour>09:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>469</Activity_Id>
+	<Preferred_Day>F</Preferred_Day>
+	<Preferred_Hour>09:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>78</Activity_Id>
+	<Preferred_Day>M</Preferred_Day>
+	<Preferred_Hour>15:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>214</Activity_Id>
+	<Preferred_Day>F</Preferred_Day>
+	<Preferred_Hour>10:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>210</Activity_Id>
+	<Preferred_Day>M</Preferred_Day>
+	<Preferred_Hour>11:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>211</Activity_Id>
+	<Preferred_Day>W</Preferred_Day>
+	<Preferred_Hour>11:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>212</Activity_Id>
+	<Preferred_Day>F</Preferred_Day>
+	<Preferred_Hour>11:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>658</Activity_Id>
+	<Preferred_Day>M</Preferred_Day>
+	<Preferred_Hour>13:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>657</Activity_Id>
+	<Preferred_Day>W</Preferred_Day>
+	<Preferred_Hour>13:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>659</Activity_Id>
+	<Preferred_Day>W</Preferred_Day>
+	<Preferred_Hour>15:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>213</Activity_Id>
+	<Preferred_Day>T</Preferred_Day>
+	<Preferred_Hour>16:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>492</Activity_Id>
+	<Preferred_Day>M</Preferred_Day>
+	<Preferred_Hour>14:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>493</Activity_Id>
+	<Preferred_Day>W</Preferred_Day>
+	<Preferred_Hour>14:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>491</Activity_Id>
+	<Preferred_Day>F</Preferred_Day>
+	<Preferred_Hour>14:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>486</Activity_Id>
+	<Preferred_Day>T</Preferred_Day>
+	<Preferred_Hour>15:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>487</Activity_Id>
+	<Preferred_Day>F</Preferred_Day>
+	<Preferred_Hour>15:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>476</Activity_Id>
+	<Preferred_Day>M</Preferred_Day>
+	<Preferred_Hour>10:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>475</Activity_Id>
+	<Preferred_Day>F</Preferred_Day>
+	<Preferred_Hour>10:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>669</Activity_Id>
+	<Preferred_Day>W</Preferred_Day>
+	<Preferred_Hour>10:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>55</Activity_Id>
+	<Preferred_Day>Th</Preferred_Day>
+	<Preferred_Hour>14:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>56</Activity_Id>
+	<Preferred_Day>F</Preferred_Day>
+	<Preferred_Hour>11:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>66</Activity_Id>
+	<Preferred_Day>M</Preferred_Day>
+	<Preferred_Hour>10:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>71</Activity_Id>
+	<Preferred_Day>Th</Preferred_Day>
+	<Preferred_Hour>14:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>309</Activity_Id>
+	<Preferred_Day>T</Preferred_Day>
+	<Preferred_Hour>08:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>328</Activity_Id>
+	<Preferred_Day>Th</Preferred_Day>
+	<Preferred_Hour>14:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>329</Activity_Id>
+	<Preferred_Day>M</Preferred_Day>
+	<Preferred_Hour>15:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>330</Activity_Id>
+	<Preferred_Day>M</Preferred_Day>
+	<Preferred_Hour>12:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>331</Activity_Id>
+	<Preferred_Day>M</Preferred_Day>
+	<Preferred_Hour>12:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>467</Activity_Id>
+	<Preferred_Day>M</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>468</Activity_Id>
+	<Preferred_Day>F</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>471</Activity_Id>
+	<Preferred_Day>T</Preferred_Day>
+	<Preferred_Hour>14:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>472</Activity_Id>
+	<Preferred_Day>W</Preferred_Day>
+	<Preferred_Hour>11:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>473</Activity_Id>
+	<Preferred_Day>W</Preferred_Day>
+	<Preferred_Hour>14:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>474</Activity_Id>
+	<Preferred_Day>Th</Preferred_Day>
+	<Preferred_Hour>14:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>529</Activity_Id>
+	<Preferred_Day>W</Preferred_Day>
+	<Preferred_Hour>10:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>530</Activity_Id>
+	<Preferred_Day>M</Preferred_Day>
+	<Preferred_Hour>10:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>531</Activity_Id>
+	<Preferred_Day>F</Preferred_Day>
+	<Preferred_Hour>10:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>532</Activity_Id>
+	<Preferred_Day>T</Preferred_Day>
+	<Preferred_Hour>12:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>533</Activity_Id>
+	<Preferred_Day>T</Preferred_Day>
+	<Preferred_Hour>13:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>598</Activity_Id>
+	<Preferred_Day>F</Preferred_Day>
+	<Preferred_Hour>15:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>599</Activity_Id>
+	<Preferred_Day>M</Preferred_Day>
+	<Preferred_Hour>12:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>600</Activity_Id>
+	<Preferred_Day>W</Preferred_Day>
+	<Preferred_Hour>16:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>601</Activity_Id>
+	<Preferred_Day>Th</Preferred_Day>
+	<Preferred_Hour>14:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>688</Activity_Id>
+	<Preferred_Day>W</Preferred_Day>
+	<Preferred_Hour>12:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>689</Activity_Id>
+	<Preferred_Day>M</Preferred_Day>
+	<Preferred_Hour>13:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>690</Activity_Id>
+	<Preferred_Day>T</Preferred_Day>
+	<Preferred_Hour>13:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>691</Activity_Id>
+	<Preferred_Day>F</Preferred_Day>
+	<Preferred_Hour>13:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>692</Activity_Id>
+	<Preferred_Day>W</Preferred_Day>
+	<Preferred_Hour>14:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>693</Activity_Id>
+	<Preferred_Day>F</Preferred_Day>
+	<Preferred_Hour>12:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>694</Activity_Id>
+	<Preferred_Day>T</Preferred_Day>
+	<Preferred_Hour>14:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>695</Activity_Id>
+	<Preferred_Day>M</Preferred_Day>
+	<Preferred_Hour>14:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>712</Activity_Id>
+	<Preferred_Day>W</Preferred_Day>
+	<Preferred_Hour>12:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>713</Activity_Id>
+	<Preferred_Day>F</Preferred_Day>
+	<Preferred_Hour>12:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>714</Activity_Id>
+	<Preferred_Day>M</Preferred_Day>
+	<Preferred_Hour>14:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>715</Activity_Id>
+	<Preferred_Day>T</Preferred_Day>
+	<Preferred_Hour>12:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>716</Activity_Id>
+	<Preferred_Day>T</Preferred_Day>
+	<Preferred_Hour>12:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>717</Activity_Id>
+	<Preferred_Day>M</Preferred_Day>
+	<Preferred_Hour>13:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>718</Activity_Id>
+	<Preferred_Day>W</Preferred_Day>
+	<Preferred_Hour>14:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>719</Activity_Id>
+	<Preferred_Day>F</Preferred_Day>
+	<Preferred_Hour>13:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>784</Activity_Id>
+	<Preferred_Day>M</Preferred_Day>
+	<Preferred_Hour>12:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>785</Activity_Id>
+	<Preferred_Day>F</Preferred_Day>
+	<Preferred_Hour>13:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>786</Activity_Id>
+	<Preferred_Day>W</Preferred_Day>
+	<Preferred_Hour>12:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>787</Activity_Id>
+	<Preferred_Day>T</Preferred_Day>
+	<Preferred_Hour>13:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>828</Activity_Id>
+	<Preferred_Day>W</Preferred_Day>
+	<Preferred_Hour>13:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>829</Activity_Id>
+	<Preferred_Day>T</Preferred_Day>
+	<Preferred_Hour>13:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>830</Activity_Id>
+	<Preferred_Day>M</Preferred_Day>
+	<Preferred_Hour>13:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>831</Activity_Id>
+	<Preferred_Day>F</Preferred_Day>
+	<Preferred_Hour>13:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>860</Activity_Id>
+	<Preferred_Day>M</Preferred_Day>
+	<Preferred_Hour>14:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>861</Activity_Id>
+	<Preferred_Day>F</Preferred_Day>
+	<Preferred_Hour>14:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>862</Activity_Id>
+	<Preferred_Day>W</Preferred_Day>
+	<Preferred_Hour>14:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>863</Activity_Id>
+	<Preferred_Day>T</Preferred_Day>
+	<Preferred_Hour>14:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>864</Activity_Id>
+	<Preferred_Day>T</Preferred_Day>
+	<Preferred_Hour>14:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>865</Activity_Id>
+	<Preferred_Day>F</Preferred_Day>
+	<Preferred_Hour>14:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>866</Activity_Id>
+	<Preferred_Day>M</Preferred_Day>
+	<Preferred_Hour>14:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>867</Activity_Id>
+	<Preferred_Day>W</Preferred_Day>
+	<Preferred_Hour>14:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>992</Activity_Id>
+	<Preferred_Day>W</Preferred_Day>
+	<Preferred_Hour>14:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>993</Activity_Id>
+	<Preferred_Day>M</Preferred_Day>
+	<Preferred_Hour>14:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>994</Activity_Id>
+	<Preferred_Day>T</Preferred_Day>
+	<Preferred_Hour>12:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>995</Activity_Id>
+	<Preferred_Day>F</Preferred_Day>
+	<Preferred_Hour>13:00</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -53854,14 +53893,6 @@
 </ConstraintActivityPreferredRoom>
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>78</Activity_Id>
-	<Room>D313</Room>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRoom>
-<ConstraintActivityPreferredRoom>
-	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>84</Activity_Id>
 	<Room>D013</Room>
 	<Permanently_Locked>false</Permanently_Locked>
@@ -53974,30 +54005,6 @@
 </ConstraintActivityPreferredRoom>
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>464</Activity_Id>
-	<Room>D313</Room>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRoom>
-<ConstraintActivityPreferredRoom>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>471</Activity_Id>
-	<Room>D317</Room>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRoom>
-<ConstraintActivityPreferredRoom>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>472</Activity_Id>
-	<Room>D317</Room>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRoom>
-<ConstraintActivityPreferredRoom>
-	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>479</Activity_Id>
 	<Room>B004</Room>
 	<Permanently_Locked>false</Permanently_Locked>
@@ -54008,14 +54015,6 @@
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>482</Activity_Id>
 	<Room>B004</Room>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRoom>
-<ConstraintActivityPreferredRoom>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>493</Activity_Id>
-	<Room>D313</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -54120,14 +54119,6 @@
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>569</Activity_Id>
 	<Room>A303</Room>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRoom>
-<ConstraintActivityPreferredRoom>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>572</Activity_Id>
-	<Room>D313</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -54318,14 +54309,6 @@
 </ConstraintActivityPreferredRoom>
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>71</Activity_Id>
-	<Room>C205</Room>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRoom>
-<ConstraintActivityPreferredRoom>
-	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>72</Activity_Id>
 	<Room>C205</Room>
 	<Permanently_Locked>false</Permanently_Locked>
@@ -54422,6 +54405,54 @@
 </ConstraintActivityPreferredRoom>
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>490</Activity_Id>
+	<Room>C217</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>71</Activity_Id>
+	<Room>C205</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>78</Activity_Id>
+	<Room>D313</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>464</Activity_Id>
+	<Room>D313</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>471</Activity_Id>
+	<Room>D317</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>472</Activity_Id>
+	<Room>D317</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>473</Activity_Id>
 	<Room>D317</Room>
 	<Permanently_Locked>false</Permanently_Locked>
@@ -54438,8 +54469,16 @@
 </ConstraintActivityPreferredRoom>
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>490</Activity_Id>
-	<Room>C217</Room>
+	<Activity_Id>493</Activity_Id>
+	<Room>D313</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>572</Activity_Id>
+	<Room>D313</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
