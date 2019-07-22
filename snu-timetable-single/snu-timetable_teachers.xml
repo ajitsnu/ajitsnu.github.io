@@ -2514,10 +2514,10 @@
      
     </Hour>
     <Hour name="10:30">
-     
+     <Subject name="MAT390"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT3"></Students>
     </Hour>
     <Hour name="11:00">
-     
+     <Subject name="MAT390"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT3"></Students>
     </Hour>
     <Hour name="11:30">
      
@@ -2535,22 +2535,22 @@
      
     </Hour>
     <Hour name="14:00">
-     <Subject name="MAT390"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT3"></Students>
+     
     </Hour>
     <Hour name="14:30">
-     <Subject name="MAT390"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT3"></Students>
+     
     </Hour>
     <Hour name="15:00">
-     <Subject name="MAT390"></Subject><Activity_Tag name="B113"></Activity_Tag><Students name="MAT3"></Students><Room name="B113"></Room>
+     
     </Hour>
     <Hour name="15:30">
-     <Subject name="MAT390"></Subject><Activity_Tag name="B113"></Activity_Tag><Students name="MAT3"></Students><Room name="B113"></Room>
+     
     </Hour>
     <Hour name="16:00">
-     <Subject name="MAT390"></Subject><Activity_Tag name="B113"></Activity_Tag><Students name="MAT3"></Students><Room name="B113"></Room>
+     
     </Hour>
     <Hour name="16:30">
-     <Subject name="MAT390"></Subject><Activity_Tag name="B113"></Activity_Tag><Students name="MAT3"></Students><Room name="B113"></Room>
+     
     </Hour>
     <Hour name="17:00">
      
@@ -2638,10 +2638,10 @@
      
     </Hour>
     <Hour name="10:30">
-     
+     <Subject name="MAT390"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT3"></Students>
     </Hour>
     <Hour name="11:00">
-     
+     <Subject name="MAT390"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT3"></Students>
     </Hour>
     <Hour name="11:30">
      
@@ -2659,10 +2659,10 @@
      
     </Hour>
     <Hour name="14:00">
-     <Subject name="MAT390"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT3"></Students>
+     
     </Hour>
     <Hour name="14:30">
-     <Subject name="MAT390"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT3"></Students>
+     
     </Hour>
     <Hour name="15:00">
      
@@ -2727,16 +2727,16 @@
      
     </Hour>
     <Hour name="15:00">
-     
+     <Subject name="MAT390"></Subject><Activity_Tag name="B113"></Activity_Tag><Students name="MAT3"></Students><Room name="B113"></Room>
     </Hour>
     <Hour name="15:30">
-     
+     <Subject name="MAT390"></Subject><Activity_Tag name="B113"></Activity_Tag><Students name="MAT3"></Students><Room name="B113"></Room>
     </Hour>
     <Hour name="16:00">
-     
+     <Subject name="MAT390"></Subject><Activity_Tag name="B113"></Activity_Tag><Students name="MAT3"></Students><Room name="B113"></Room>
     </Hour>
     <Hour name="16:30">
-     
+     <Subject name="MAT390"></Subject><Activity_Tag name="B113"></Activity_Tag><Students name="MAT3"></Students><Room name="B113"></Room>
     </Hour>
     <Hour name="17:00">
      
@@ -2762,10 +2762,10 @@
      
     </Hour>
     <Hour name="10:30">
-     
+     <Subject name="MAT390"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT3"></Students>
     </Hour>
     <Hour name="11:00">
-     
+     <Subject name="MAT390"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT3"></Students>
     </Hour>
     <Hour name="11:30">
      
@@ -2783,10 +2783,10 @@
      
     </Hour>
     <Hour name="14:00">
-     <Subject name="MAT390"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT3"></Students>
+     
     </Hour>
     <Hour name="14:30">
-     <Subject name="MAT390"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT3"></Students>
+     
     </Hour>
     <Hour name="15:00">
      
@@ -10662,13 +10662,13 @@
      
     </Hour>
     <Hour name="16:30">
-     <Subject name="MAT184"></Subject><Activity_Tag name="TUT1"></Activity_Tag><Students name="MAT2"></Students>
+     
     </Hour>
     <Hour name="17:00">
      <Subject name="MAT184"></Subject><Activity_Tag name="TUT1"></Activity_Tag><Students name="MAT2"></Students>
     </Hour>
     <Hour name="17:30">
-     
+     <Subject name="MAT184"></Subject><Activity_Tag name="TUT1"></Activity_Tag><Students name="MAT2"></Students>
     </Hour>
    </Day>
    <Day name="T">
@@ -10688,13 +10688,13 @@
      
     </Hour>
     <Hour name="10:30">
-     
+     <Subject name="MAT184"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT2"></Students>
     </Hour>
     <Hour name="11:00">
-     
+     <Subject name="MAT184"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT2"></Students>
     </Hour>
     <Hour name="11:30">
-     
+     <Subject name="MAT184"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT2"></Students>
     </Hour>
     <Hour name="12:00">
      
@@ -10783,13 +10783,13 @@
      
     </Hour>
     <Hour name="16:00">
-     <Subject name="MAT184"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT2"></Students>
+     
     </Hour>
     <Hour name="16:30">
-     <Subject name="MAT184"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT2"></Students>
+     
     </Hour>
     <Hour name="17:00">
-     <Subject name="MAT184"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT2"></Students>
+     
     </Hour>
     <Hour name="17:30">
      
@@ -10812,13 +10812,13 @@
      
     </Hour>
     <Hour name="10:30">
-     
+     <Subject name="MAT184"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT2"></Students>
     </Hour>
     <Hour name="11:00">
-     
+     <Subject name="MAT184"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT2"></Students>
     </Hour>
     <Hour name="11:30">
-     
+     <Subject name="MAT184"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT2"></Students>
     </Hour>
     <Hour name="12:00">
      
@@ -10907,13 +10907,13 @@
      
     </Hour>
     <Hour name="16:00">
-     <Subject name="MAT184"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT2"></Students>
+     
     </Hour>
     <Hour name="16:30">
-     <Subject name="MAT184"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT2"></Students>
+     
     </Hour>
     <Hour name="17:00">
-     <Subject name="MAT184"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT2"></Students>
+     
     </Hour>
     <Hour name="17:30">
      
@@ -13641,10 +13641,10 @@
      
     </Hour>
     <Hour name="14:00">
-     <Subject name="PHY101"></Subject><Activity_Tag name="TUT4"></Activity_Tag><Students name="CSE14"></Students>
+     
     </Hour>
     <Hour name="14:30">
-     <Subject name="PHY101"></Subject><Activity_Tag name="TUT4"></Activity_Tag><Students name="CSE14"></Students>
+     
     </Hour>
     <Hour name="15:00">
      
@@ -13703,10 +13703,10 @@
      
     </Hour>
     <Hour name="14:00">
-     
+     <Subject name="PHY101"></Subject><Activity_Tag name="TUT4"></Activity_Tag><Students name="CSE14"></Students>
     </Hour>
     <Hour name="14:30">
-     
+     <Subject name="PHY101"></Subject><Activity_Tag name="TUT4"></Activity_Tag><Students name="CSE14"></Students>
     </Hour>
     <Hour name="15:00">
      
@@ -15621,13 +15621,13 @@
      
     </Hour>
     <Hour name="11:00">
-     <Subject name="ECO301"></Subject><Activity_Tag name="TUT1"></Activity_Tag><Students name="MAT3"></Students><Students name="ECO2"></Students><Students name="MAT4"></Students><Students name="MED32"></Students><Students name="CED4"></Students><Students name="MED31"></Students>
+     
     </Hour>
     <Hour name="11:30">
      <Subject name="ECO301"></Subject><Activity_Tag name="TUT1"></Activity_Tag><Students name="MAT3"></Students><Students name="ECO2"></Students><Students name="MAT4"></Students><Students name="MED32"></Students><Students name="CED4"></Students><Students name="MED31"></Students>
     </Hour>
     <Hour name="12:00">
-     
+     <Subject name="ECO301"></Subject><Activity_Tag name="TUT1"></Activity_Tag><Students name="MAT3"></Students><Students name="ECO2"></Students><Students name="MAT4"></Students><Students name="MED32"></Students><Students name="CED4"></Students><Students name="MED31"></Students>
     </Hour>
     <Hour name="12:30">
      
@@ -23739,10 +23739,10 @@
      
     </Hour>
     <Hour name="12:00">
-     <Subject name="PHY101"></Subject><Activity_Tag name="TUT2"></Activity_Tag><Students name="CSE12"></Students>
+     
     </Hour>
     <Hour name="12:30">
-     <Subject name="PHY101"></Subject><Activity_Tag name="TUT2"></Activity_Tag><Students name="CSE12"></Students>
+     
     </Hour>
     <Hour name="13:00">
      
@@ -23881,10 +23881,10 @@
      
     </Hour>
     <Hour name="15:00">
-     
+     <Subject name="PHY101"></Subject><Activity_Tag name="TUT2"></Activity_Tag><Students name="CSE12"></Students>
     </Hour>
     <Hour name="15:30">
-     
+     <Subject name="PHY101"></Subject><Activity_Tag name="TUT2"></Activity_Tag><Students name="CSE12"></Students>
     </Hour>
     <Hour name="16:00">
      
@@ -28410,10 +28410,10 @@
      
     </Hour>
     <Hour name="10:30">
-     <Subject name="MAT280"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT2"></Students>
+     
     </Hour>
     <Hour name="11:00">
-     <Subject name="MAT280"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT2"></Students>
+     
     </Hour>
     <Hour name="11:30">
      
@@ -28431,10 +28431,10 @@
      
     </Hour>
     <Hour name="14:00">
-     
+     <Subject name="MAT280"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT2"></Students>
     </Hour>
     <Hour name="14:30">
-     
+     <Subject name="MAT280"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT2"></Students>
     </Hour>
     <Hour name="15:00">
      
@@ -28478,10 +28478,10 @@
      
     </Hour>
     <Hour name="11:30">
-     <Subject name="MAT020"></Subject><Activity_Tag name="TUT1"></Activity_Tag><Students name="BIO1"></Students>
+     
     </Hour>
     <Hour name="12:00">
-     <Subject name="MAT020"></Subject><Activity_Tag name="TUT1"></Activity_Tag><Students name="BIO1"></Students>
+     
     </Hour>
     <Hour name="12:30">
      
@@ -28534,10 +28534,10 @@
      
     </Hour>
     <Hour name="10:30">
-     <Subject name="MAT280"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT2"></Students>
+     
     </Hour>
     <Hour name="11:00">
-     <Subject name="MAT280"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT2"></Students>
+     
     </Hour>
     <Hour name="11:30">
      
@@ -28555,22 +28555,22 @@
      
     </Hour>
     <Hour name="14:00">
-     
+     <Subject name="MAT280"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT2"></Students>
     </Hour>
     <Hour name="14:30">
-     
+     <Subject name="MAT280"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT2"></Students>
     </Hour>
     <Hour name="15:00">
-     
+     <Subject name="MAT280"></Subject><Activity_Tag name="B113"></Activity_Tag><Students name="MAT2"></Students><Room name="B113"></Room>
     </Hour>
     <Hour name="15:30">
-     
+     <Subject name="MAT280"></Subject><Activity_Tag name="B113"></Activity_Tag><Students name="MAT2"></Students><Room name="B113"></Room>
     </Hour>
     <Hour name="16:00">
-     
+     <Subject name="MAT280"></Subject><Activity_Tag name="B113"></Activity_Tag><Students name="MAT2"></Students><Room name="B113"></Room>
     </Hour>
     <Hour name="16:30">
-     
+     <Subject name="MAT280"></Subject><Activity_Tag name="B113"></Activity_Tag><Students name="MAT2"></Students><Room name="B113"></Room>
     </Hour>
     <Hour name="17:00">
      
@@ -28623,16 +28623,16 @@
      
     </Hour>
     <Hour name="15:00">
-     <Subject name="MAT280"></Subject><Activity_Tag name="B113"></Activity_Tag><Students name="MAT2"></Students><Room name="B113"></Room>
+     
     </Hour>
     <Hour name="15:30">
-     <Subject name="MAT280"></Subject><Activity_Tag name="B113"></Activity_Tag><Students name="MAT2"></Students><Room name="B113"></Room>
+     
     </Hour>
     <Hour name="16:00">
-     <Subject name="MAT280"></Subject><Activity_Tag name="B113"></Activity_Tag><Students name="MAT2"></Students><Room name="B113"></Room>
+     
     </Hour>
     <Hour name="16:30">
-     <Subject name="MAT280"></Subject><Activity_Tag name="B113"></Activity_Tag><Students name="MAT2"></Students><Room name="B113"></Room>
+     
     </Hour>
     <Hour name="17:00">
      
@@ -28658,10 +28658,10 @@
      
     </Hour>
     <Hour name="10:30">
-     <Subject name="MAT280"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT2"></Students>
+     
     </Hour>
     <Hour name="11:00">
-     <Subject name="MAT280"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT2"></Students>
+     
     </Hour>
     <Hour name="11:30">
      
@@ -28679,19 +28679,19 @@
      
     </Hour>
     <Hour name="14:00">
-     
+     <Subject name="MAT280"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT2"></Students>
     </Hour>
     <Hour name="14:30">
-     
+     <Subject name="MAT280"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT2"></Students>
     </Hour>
     <Hour name="15:00">
      
     </Hour>
     <Hour name="15:30">
-     
+     <Subject name="MAT020"></Subject><Activity_Tag name="TUT1"></Activity_Tag><Students name="BIO1"></Students>
     </Hour>
     <Hour name="16:00">
-     
+     <Subject name="MAT020"></Subject><Activity_Tag name="TUT1"></Activity_Tag><Students name="BIO1"></Students>
     </Hour>
     <Hour name="16:30">
      
@@ -35286,19 +35286,19 @@
      
     </Hour>
     <Hour name="12:30">
-     
+     <Subject name="Lunch"></Subject><Students name="CSE11"></Students>
     </Hour>
     <Hour name="13:00">
-     
+     <Subject name="Lunch"></Subject><Students name="CSE11"></Students>
     </Hour>
     <Hour name="13:30">
      
     </Hour>
     <Hour name="14:00">
-     <Subject name="Lunch"></Subject><Students name="CSE11"></Students>
+     
     </Hour>
     <Hour name="14:30">
-     <Subject name="Lunch"></Subject><Students name="CSE11"></Students>
+     
     </Hour>
     <Hour name="15:00">
      
@@ -35348,16 +35348,16 @@
      
     </Hour>
     <Hour name="12:30">
-     <Subject name="Lunch"></Subject><Students name="CSE11"></Students>
+     
     </Hour>
     <Hour name="13:00">
-     <Subject name="Lunch"></Subject><Students name="CSE11"></Students>
+     
     </Hour>
     <Hour name="13:30">
-     
+     <Subject name="Lunch"></Subject><Students name="CSE11"></Students>
     </Hour>
     <Hour name="14:00">
-     
+     <Subject name="Lunch"></Subject><Students name="CSE11"></Students>
     </Hour>
     <Hour name="14:30">
      
@@ -35534,13 +35534,13 @@
      
     </Hour>
     <Hour name="12:30">
-     <Subject name="Lunch"></Subject><Students name="CSE11"></Students>
+     
     </Hour>
     <Hour name="13:00">
      <Subject name="Lunch"></Subject><Students name="CSE11"></Students>
     </Hour>
     <Hour name="13:30">
-     
+     <Subject name="Lunch"></Subject><Students name="CSE11"></Students>
     </Hour>
     <Hour name="14:00">
      
@@ -35598,13 +35598,13 @@
      
     </Hour>
     <Hour name="12:30">
-     
+     <Subject name="Lunch"></Subject><Students name="CSE12"></Students>
     </Hour>
     <Hour name="13:00">
      <Subject name="Lunch"></Subject><Students name="CSE12"></Students>
     </Hour>
     <Hour name="13:30">
-     <Subject name="Lunch"></Subject><Students name="CSE12"></Students>
+     
     </Hour>
     <Hour name="14:00">
      
@@ -35722,13 +35722,13 @@
      
     </Hour>
     <Hour name="12:30">
-     <Subject name="Lunch"></Subject><Students name="CSE12"></Students>
+     
     </Hour>
     <Hour name="13:00">
      <Subject name="Lunch"></Subject><Students name="CSE12"></Students>
     </Hour>
     <Hour name="13:30">
-     
+     <Subject name="Lunch"></Subject><Students name="CSE12"></Students>
     </Hour>
     <Hour name="14:00">
      
@@ -35846,13 +35846,13 @@
      
     </Hour>
     <Hour name="12:30">
-     
+     <Subject name="Lunch"></Subject><Students name="CSE12"></Students>
     </Hour>
     <Hour name="13:00">
      <Subject name="Lunch"></Subject><Students name="CSE12"></Students>
     </Hour>
     <Hour name="13:30">
-     <Subject name="Lunch"></Subject><Students name="CSE12"></Students>
+     
     </Hour>
     <Hour name="14:00">
      
@@ -35916,13 +35916,13 @@
      
     </Hour>
     <Hour name="13:30">
-     
+     <Subject name="Lunch"></Subject><Students name="CSE13"></Students>
     </Hour>
     <Hour name="14:00">
      <Subject name="Lunch"></Subject><Students name="CSE13"></Students>
     </Hour>
     <Hour name="14:30">
-     <Subject name="Lunch"></Subject><Students name="CSE13"></Students>
+     
     </Hour>
     <Hour name="15:00">
      
@@ -35975,16 +35975,16 @@
      
     </Hour>
     <Hour name="13:00">
-     
+     <Subject name="Lunch"></Subject><Students name="CSE13"></Students>
     </Hour>
     <Hour name="13:30">
-     
+     <Subject name="Lunch"></Subject><Students name="CSE13"></Students>
     </Hour>
     <Hour name="14:00">
-     <Subject name="Lunch"></Subject><Students name="CSE13"></Students>
+     
     </Hour>
     <Hour name="14:30">
-     <Subject name="Lunch"></Subject><Students name="CSE13"></Students>
+     
     </Hour>
     <Hour name="15:00">
      
@@ -36158,16 +36158,16 @@
      
     </Hour>
     <Hour name="12:30">
-     <Subject name="Lunch"></Subject><Students name="CSE13"></Students>
+     
     </Hour>
     <Hour name="13:00">
-     <Subject name="Lunch"></Subject><Students name="CSE13"></Students>
+     
     </Hour>
     <Hour name="13:30">
-     
+     <Subject name="Lunch"></Subject><Students name="CSE13"></Students>
     </Hour>
     <Hour name="14:00">
-     
+     <Subject name="Lunch"></Subject><Students name="CSE13"></Students>
     </Hour>
     <Hour name="14:30">
      
@@ -36228,13 +36228,13 @@
      
     </Hour>
     <Hour name="13:30">
-     <Subject name="Lunch"></Subject><Students name="CSE14"></Students>
+     
     </Hour>
     <Hour name="14:00">
      <Subject name="Lunch"></Subject><Students name="CSE14"></Students>
     </Hour>
     <Hour name="14:30">
-     
+     <Subject name="Lunch"></Subject><Students name="CSE14"></Students>
     </Hour>
     <Hour name="15:00">
      
@@ -36284,13 +36284,13 @@
      
     </Hour>
     <Hour name="12:30">
-     <Subject name="Lunch"></Subject><Students name="CSE14"></Students>
+     
     </Hour>
     <Hour name="13:00">
      <Subject name="Lunch"></Subject><Students name="CSE14"></Students>
     </Hour>
     <Hour name="13:30">
-     
+     <Subject name="Lunch"></Subject><Students name="CSE14"></Students>
     </Hour>
     <Hour name="14:00">
      
@@ -36470,16 +36470,16 @@
      
     </Hour>
     <Hour name="12:30">
-     
+     <Subject name="Lunch"></Subject><Students name="CSE14"></Students>
     </Hour>
     <Hour name="13:00">
-     
+     <Subject name="Lunch"></Subject><Students name="CSE14"></Students>
     </Hour>
     <Hour name="13:30">
-     <Subject name="Lunch"></Subject><Students name="CSE14"></Students>
+     
     </Hour>
     <Hour name="14:00">
-     <Subject name="Lunch"></Subject><Students name="CSE14"></Students>
+     
     </Hour>
     <Hour name="14:30">
      
@@ -36534,13 +36534,13 @@
      
     </Hour>
     <Hour name="12:30">
-     
+     <Subject name="Lunch"></Subject><Students name="CSE21"></Students>
     </Hour>
     <Hour name="13:00">
      <Subject name="Lunch"></Subject><Students name="CSE21"></Students>
     </Hour>
     <Hour name="13:30">
-     <Subject name="Lunch"></Subject><Students name="CSE21"></Students>
+     
     </Hour>
     <Hour name="14:00">
      
@@ -36599,13 +36599,13 @@
      
     </Hour>
     <Hour name="13:00">
-     
+     <Subject name="Lunch"></Subject><Students name="CSE21"></Students>
     </Hour>
     <Hour name="13:30">
      <Subject name="Lunch"></Subject><Students name="CSE21"></Students>
     </Hour>
     <Hour name="14:00">
-     <Subject name="Lunch"></Subject><Students name="CSE21"></Students>
+     
     </Hour>
     <Hour name="14:30">
      
@@ -36658,13 +36658,13 @@
      
     </Hour>
     <Hour name="12:30">
-     
+     <Subject name="Lunch"></Subject><Students name="CSE21"></Students>
     </Hour>
     <Hour name="13:00">
      <Subject name="Lunch"></Subject><Students name="CSE21"></Students>
     </Hour>
     <Hour name="13:30">
-     <Subject name="Lunch"></Subject><Students name="CSE21"></Students>
+     
     </Hour>
     <Hour name="14:00">
      
@@ -36908,16 +36908,16 @@
      
     </Hour>
     <Hour name="12:30">
-     
+     <Subject name="Lunch"></Subject><Students name="CSE22"></Students>
     </Hour>
     <Hour name="13:00">
-     
+     <Subject name="Lunch"></Subject><Students name="CSE22"></Students>
     </Hour>
     <Hour name="13:30">
-     <Subject name="Lunch"></Subject><Students name="CSE22"></Students>
+     
     </Hour>
     <Hour name="14:00">
-     <Subject name="Lunch"></Subject><Students name="CSE22"></Students>
+     
     </Hour>
     <Hour name="14:30">
      
@@ -47148,13 +47148,13 @@
      
     </Hour>
     <Hour name="13:30">
-     <Subject name="Lunch"></Subject><Students name="MAT1"></Students>
+     
     </Hour>
     <Hour name="14:00">
      <Subject name="Lunch"></Subject><Students name="MAT1"></Students>
     </Hour>
     <Hour name="14:30">
-     
+     <Subject name="Lunch"></Subject><Students name="MAT1"></Students>
     </Hour>
     <Hour name="15:00">
      
@@ -47393,16 +47393,16 @@
      
     </Hour>
     <Hour name="13:00">
-     
+     <Subject name="Lunch"></Subject><Students name="MAT1"></Students>
     </Hour>
     <Hour name="13:30">
-     
+     <Subject name="Lunch"></Subject><Students name="MAT1"></Students>
     </Hour>
     <Hour name="14:00">
-     <Subject name="Lunch"></Subject><Students name="MAT1"></Students>
+     
     </Hour>
     <Hour name="14:30">
-     <Subject name="Lunch"></Subject><Students name="MAT1"></Students>
+     
     </Hour>
     <Hour name="15:00">
      
@@ -47454,13 +47454,13 @@
      
     </Hour>
     <Hour name="12:30">
-     <Subject name="Lunch"></Subject><Students name="MAT2"></Students>
+     
     </Hour>
     <Hour name="13:00">
      <Subject name="Lunch"></Subject><Students name="MAT2"></Students>
     </Hour>
     <Hour name="13:30">
-     
+     <Subject name="Lunch"></Subject><Students name="MAT2"></Students>
     </Hour>
     <Hour name="14:00">
      
@@ -47516,13 +47516,13 @@
      
     </Hour>
     <Hour name="12:30">
-     <Subject name="Lunch"></Subject><Students name="MAT2"></Students>
+     
     </Hour>
     <Hour name="13:00">
      <Subject name="Lunch"></Subject><Students name="MAT2"></Students>
     </Hour>
     <Hour name="13:30">
-     
+     <Subject name="Lunch"></Subject><Students name="MAT2"></Students>
     </Hour>
     <Hour name="14:00">
      
@@ -47766,13 +47766,13 @@
      
     </Hour>
     <Hour name="12:30">
-     
+     <Subject name="Lunch"></Subject><Students name="MAT3"></Students>
     </Hour>
     <Hour name="13:00">
      <Subject name="Lunch"></Subject><Students name="MAT3"></Students>
     </Hour>
     <Hour name="13:30">
-     <Subject name="Lunch"></Subject><Students name="MAT3"></Students>
+     
     </Hour>
     <Hour name="14:00">
      
@@ -47831,16 +47831,16 @@
      
     </Hour>
     <Hour name="13:00">
-     <Subject name="Lunch"></Subject><Students name="MAT3"></Students>
+     
     </Hour>
     <Hour name="13:30">
-     <Subject name="Lunch"></Subject><Students name="MAT3"></Students>
+     
     </Hour>
     <Hour name="14:00">
-     
+     <Subject name="Lunch"></Subject><Students name="MAT3"></Students>
     </Hour>
     <Hour name="14:30">
-     
+     <Subject name="Lunch"></Subject><Students name="MAT3"></Students>
     </Hour>
     <Hour name="15:00">
      
@@ -48081,16 +48081,16 @@
      
     </Hour>
     <Hour name="13:00">
-     
+     <Subject name="Lunch"></Subject><Students name="MAT4"></Students>
     </Hour>
     <Hour name="13:30">
-     
+     <Subject name="Lunch"></Subject><Students name="MAT4"></Students>
     </Hour>
     <Hour name="14:00">
-     <Subject name="Lunch"></Subject><Students name="MAT4"></Students>
+     
     </Hour>
     <Hour name="14:30">
-     <Subject name="Lunch"></Subject><Students name="MAT4"></Students>
+     
     </Hour>
     <Hour name="15:00">
      
@@ -48140,13 +48140,13 @@
      
     </Hour>
     <Hour name="12:30">
-     
+     <Subject name="Lunch"></Subject><Students name="MAT4"></Students>
     </Hour>
     <Hour name="13:00">
      <Subject name="Lunch"></Subject><Students name="MAT4"></Students>
     </Hour>
     <Hour name="13:30">
-     <Subject name="Lunch"></Subject><Students name="MAT4"></Students>
+     
     </Hour>
     <Hour name="14:00">
      
@@ -48205,13 +48205,13 @@
      
     </Hour>
     <Hour name="13:00">
-     <Subject name="Lunch"></Subject><Students name="MAT4"></Students>
+     
     </Hour>
     <Hour name="13:30">
      <Subject name="Lunch"></Subject><Students name="MAT4"></Students>
     </Hour>
     <Hour name="14:00">
-     
+     <Subject name="Lunch"></Subject><Students name="MAT4"></Students>
     </Hour>
     <Hour name="14:30">
      
@@ -48326,19 +48326,19 @@
      
     </Hour>
     <Hour name="12:30">
-     
+     <Subject name="Lunch"></Subject><Students name="MAT4"></Students>
     </Hour>
     <Hour name="13:00">
-     
+     <Subject name="Lunch"></Subject><Students name="MAT4"></Students>
     </Hour>
     <Hour name="13:30">
      
     </Hour>
     <Hour name="14:00">
-     <Subject name="Lunch"></Subject><Students name="MAT4"></Students>
+     
     </Hour>
     <Hour name="14:30">
-     <Subject name="Lunch"></Subject><Students name="MAT4"></Students>
+     
     </Hour>
     <Hour name="15:00">
      
@@ -54342,10 +54342,10 @@
      
     </Hour>
     <Hour name="16:30">
-     
+     <Subject name="MAT101"></Subject><Activity_Tag name="TUT3"></Activity_Tag><Students name="CHY1"></Students><Students name="MAT1"></Students>
     </Hour>
     <Hour name="17:00">
-     
+     <Subject name="MAT101"></Subject><Activity_Tag name="TUT3"></Activity_Tag><Students name="CHY1"></Students><Students name="MAT1"></Students>
     </Hour>
     <Hour name="17:30">
      
@@ -54528,10 +54528,10 @@
      
     </Hour>
     <Hour name="16:30">
-     <Subject name="MAT101"></Subject><Activity_Tag name="TUT3"></Activity_Tag><Students name="CHY1"></Students><Students name="MAT1"></Students>
+     
     </Hour>
     <Hour name="17:00">
-     <Subject name="MAT101"></Subject><Activity_Tag name="TUT3"></Activity_Tag><Students name="CHY1"></Students><Students name="MAT1"></Students>
+     
     </Hour>
     <Hour name="17:30">
      
@@ -56529,10 +56529,10 @@
      
     </Hour>
     <Hour name="17:00">
-     
+     <Subject name="MAT103"></Subject><Activity_Tag name="TUT3"></Activity_Tag><Students name="CSE11"></Students>
     </Hour>
     <Hour name="17:30">
-     
+     <Subject name="MAT103"></Subject><Activity_Tag name="TUT3"></Activity_Tag><Students name="CSE11"></Students>
     </Hour>
    </Day>
    <Day name="T">
@@ -56697,10 +56697,10 @@
      
     </Hour>
     <Hour name="14:00">
-     <Subject name="MAT103"></Subject><Activity_Tag name="TUT3"></Activity_Tag><Students name="CSE11"></Students>
+     
     </Hour>
     <Hour name="14:30">
-     <Subject name="MAT103"></Subject><Activity_Tag name="TUT3"></Activity_Tag><Students name="CSE11"></Students>
+     
     </Hour>
     <Hour name="15:00">
      
@@ -56832,19 +56832,19 @@
      
     </Hour>
     <Hour name="15:30">
-     <Subject name="MAT103"></Subject><Activity_Tag name="TUT4"></Activity_Tag><Students name="CSE12"></Students>
+     
     </Hour>
     <Hour name="16:00">
-     <Subject name="MAT103"></Subject><Activity_Tag name="TUT4"></Activity_Tag><Students name="CSE12"></Students>
+     
     </Hour>
     <Hour name="16:30">
      
     </Hour>
     <Hour name="17:00">
-     
+     <Subject name="MAT103"></Subject><Activity_Tag name="TUT4"></Activity_Tag><Students name="CSE12"></Students>
     </Hour>
     <Hour name="17:30">
-     
+     <Subject name="MAT103"></Subject><Activity_Tag name="TUT4"></Activity_Tag><Students name="CSE12"></Students>
     </Hour>
    </Day>
    <Day name="T">
@@ -57126,10 +57126,10 @@
      
     </Hour>
     <Hour name="12:30">
-     <Subject name="MAT103"></Subject><Activity_Tag name="TUT5"></Activity_Tag><Students name="CSE13"></Students>
+     
     </Hour>
     <Hour name="13:00">
-     <Subject name="MAT103"></Subject><Activity_Tag name="TUT5"></Activity_Tag><Students name="CSE13"></Students>
+     
     </Hour>
     <Hour name="13:30">
      
@@ -57274,10 +57274,10 @@
      
     </Hour>
     <Hour name="16:30">
-     
+     <Subject name="MAT103"></Subject><Activity_Tag name="TUT5"></Activity_Tag><Students name="CSE13"></Students>
     </Hour>
     <Hour name="17:00">
-     
+     <Subject name="MAT103"></Subject><Activity_Tag name="TUT5"></Activity_Tag><Students name="CSE13"></Students>
     </Hour>
     <Hour name="17:30">
      
@@ -57438,10 +57438,10 @@
      
     </Hour>
     <Hour name="12:30">
-     <Subject name="MAT103"></Subject><Activity_Tag name="TUT6"></Activity_Tag><Students name="CSE14"></Students>
+     
     </Hour>
     <Hour name="13:00">
-     <Subject name="MAT103"></Subject><Activity_Tag name="TUT6"></Activity_Tag><Students name="CSE14"></Students>
+     
     </Hour>
     <Hour name="13:30">
      
@@ -57642,10 +57642,10 @@
      
     </Hour>
     <Hour name="15:30">
-     
+     <Subject name="MAT103"></Subject><Activity_Tag name="TUT6"></Activity_Tag><Students name="CSE14"></Students>
     </Hour>
     <Hour name="16:00">
-     
+     <Subject name="MAT103"></Subject><Activity_Tag name="TUT6"></Activity_Tag><Students name="CSE14"></Students>
     </Hour>
     <Hour name="16:30">
      
@@ -61491,10 +61491,10 @@
      
     </Hour>
     <Hour name="12:00">
-     <Subject name="MAT360"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT3"></Students>
+     
     </Hour>
     <Hour name="12:30">
-     <Subject name="MAT360"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT3"></Students>
+     
     </Hour>
     <Hour name="13:00">
      
@@ -61503,19 +61503,19 @@
      
     </Hour>
     <Hour name="14:00">
-     
+     <Subject name="MAT360"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT3"></Students>
     </Hour>
     <Hour name="14:30">
-     
+     <Subject name="MAT360"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT3"></Students>
     </Hour>
     <Hour name="15:00">
      
     </Hour>
     <Hour name="15:30">
-     
+     <Subject name="MAT360"></Subject><Activity_Tag name="TUT1"></Activity_Tag><Students name="MAT3"></Students>
     </Hour>
     <Hour name="16:00">
-     
+     <Subject name="MAT360"></Subject><Activity_Tag name="TUT1"></Activity_Tag><Students name="MAT3"></Students>
     </Hour>
     <Hour name="16:30">
      
@@ -61615,10 +61615,10 @@
      
     </Hour>
     <Hour name="12:00">
-     <Subject name="MAT360"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT3"></Students>
+     
     </Hour>
     <Hour name="12:30">
-     <Subject name="MAT360"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT3"></Students>
+     
     </Hour>
     <Hour name="13:00">
      
@@ -61627,10 +61627,10 @@
      
     </Hour>
     <Hour name="14:00">
-     
+     <Subject name="MAT360"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT3"></Students>
     </Hour>
     <Hour name="14:30">
-     
+     <Subject name="MAT360"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT3"></Students>
     </Hour>
     <Hour name="15:00">
      
@@ -61733,16 +61733,16 @@
      
     </Hour>
     <Hour name="11:00">
-     <Subject name="MAT360"></Subject><Activity_Tag name="TUT1"></Activity_Tag><Students name="MAT3"></Students>
+     
     </Hour>
     <Hour name="11:30">
-     <Subject name="MAT360"></Subject><Activity_Tag name="TUT1"></Activity_Tag><Students name="MAT3"></Students>
+     
     </Hour>
     <Hour name="12:00">
-     <Subject name="MAT360"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT3"></Students>
+     
     </Hour>
     <Hour name="12:30">
-     <Subject name="MAT360"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT3"></Students>
+     
     </Hour>
     <Hour name="13:00">
      
@@ -61751,10 +61751,10 @@
      
     </Hour>
     <Hour name="14:00">
-     
+     <Subject name="MAT360"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT3"></Students>
     </Hour>
     <Hour name="14:30">
-     
+     <Subject name="MAT360"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT3"></Students>
     </Hour>
     <Hour name="15:00">
      
@@ -62168,13 +62168,13 @@
      
     </Hour>
     <Hour name="10:30">
-     <Subject name="MAT494"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="CSE4"></Students><Students name="MAT3"></Students><Students name="MAT4"></Students>
+     <Subject name="MAT494"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="CSE4"></Students><Students name="MAT4"></Students>
     </Hour>
     <Hour name="11:00">
-     <Subject name="MAT494"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="CSE4"></Students><Students name="MAT3"></Students><Students name="MAT4"></Students>
+     <Subject name="MAT494"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="CSE4"></Students><Students name="MAT4"></Students>
     </Hour>
     <Hour name="11:30">
-     <Subject name="MAT494"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="CSE4"></Students><Students name="MAT3"></Students><Students name="MAT4"></Students>
+     <Subject name="MAT494"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="CSE4"></Students><Students name="MAT4"></Students>
     </Hour>
     <Hour name="12:00">
      
@@ -62227,16 +62227,16 @@
      
     </Hour>
     <Hour name="10:00">
-     <Subject name="MAT494"></Subject><Activity_Tag name="D313"></Activity_Tag><Students name="CSE4"></Students><Students name="MAT3"></Students><Students name="MAT4"></Students><Room name="D313"></Room>
+     <Subject name="MAT494"></Subject><Activity_Tag name="D313"></Activity_Tag><Students name="CSE4"></Students><Students name="MAT4"></Students><Room name="D313"></Room>
     </Hour>
     <Hour name="10:30">
-     <Subject name="MAT494"></Subject><Activity_Tag name="D313"></Activity_Tag><Students name="CSE4"></Students><Students name="MAT3"></Students><Students name="MAT4"></Students><Room name="D313"></Room>
+     <Subject name="MAT494"></Subject><Activity_Tag name="D313"></Activity_Tag><Students name="CSE4"></Students><Students name="MAT4"></Students><Room name="D313"></Room>
     </Hour>
     <Hour name="11:00">
-     <Subject name="MAT494"></Subject><Activity_Tag name="D313"></Activity_Tag><Students name="CSE4"></Students><Students name="MAT3"></Students><Students name="MAT4"></Students><Room name="D313"></Room>
+     <Subject name="MAT494"></Subject><Activity_Tag name="D313"></Activity_Tag><Students name="CSE4"></Students><Students name="MAT4"></Students><Room name="D313"></Room>
     </Hour>
     <Hour name="11:30">
-     <Subject name="MAT494"></Subject><Activity_Tag name="D313"></Activity_Tag><Students name="CSE4"></Students><Students name="MAT3"></Students><Students name="MAT4"></Students><Room name="D313"></Room>
+     <Subject name="MAT494"></Subject><Activity_Tag name="D313"></Activity_Tag><Students name="CSE4"></Students><Students name="MAT4"></Students><Room name="D313"></Room>
     </Hour>
     <Hour name="12:00">
      
@@ -62292,13 +62292,13 @@
      
     </Hour>
     <Hour name="10:30">
-     <Subject name="MAT494"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="CSE4"></Students><Students name="MAT3"></Students><Students name="MAT4"></Students>
+     <Subject name="MAT494"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="CSE4"></Students><Students name="MAT4"></Students>
     </Hour>
     <Hour name="11:00">
-     <Subject name="MAT494"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="CSE4"></Students><Students name="MAT3"></Students><Students name="MAT4"></Students>
+     <Subject name="MAT494"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="CSE4"></Students><Students name="MAT4"></Students>
     </Hour>
     <Hour name="11:30">
-     <Subject name="MAT494"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="CSE4"></Students><Students name="MAT3"></Students><Students name="MAT4"></Students>
+     <Subject name="MAT494"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="CSE4"></Students><Students name="MAT4"></Students>
     </Hour>
     <Hour name="12:00">
      
@@ -64593,13 +64593,13 @@
      
     </Hour>
     <Hour name="09:00">
-     
+     <Subject name="MAT160"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT1"></Students><Students name="ECO2"></Students><Students name="CSE22"></Students><Students name="CSE21"></Students><Students name="PHY3"></Students>
     </Hour>
     <Hour name="09:30">
      <Subject name="MAT160"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT1"></Students><Students name="ECO2"></Students><Students name="CSE22"></Students><Students name="CSE21"></Students><Students name="PHY3"></Students>
     </Hour>
     <Hour name="10:00">
-     <Subject name="MAT160"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT1"></Students><Students name="ECO2"></Students><Students name="CSE22"></Students><Students name="CSE21"></Students><Students name="PHY3"></Students>
+     
     </Hour>
     <Hour name="10:30">
      
@@ -64717,13 +64717,13 @@
      
     </Hour>
     <Hour name="09:00">
-     
+     <Subject name="MAT160"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT1"></Students><Students name="ECO2"></Students><Students name="CSE22"></Students><Students name="CSE21"></Students><Students name="PHY3"></Students>
     </Hour>
     <Hour name="09:30">
      <Subject name="MAT160"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT1"></Students><Students name="ECO2"></Students><Students name="CSE22"></Students><Students name="CSE21"></Students><Students name="PHY3"></Students>
     </Hour>
     <Hour name="10:00">
-     <Subject name="MAT160"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT1"></Students><Students name="ECO2"></Students><Students name="CSE22"></Students><Students name="CSE21"></Students><Students name="PHY3"></Students>
+     
     </Hour>
     <Hour name="10:30">
      <Subject name="MAT160"></Subject><Activity_Tag name="TUT1"></Activity_Tag><Students name="MAT1"></Students><Students name="ECO2"></Students><Students name="CSE22"></Students><Students name="CSE21"></Students><Students name="PHY3"></Students>
@@ -64841,13 +64841,13 @@
      
     </Hour>
     <Hour name="09:00">
-     
+     <Subject name="MAT160"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT1"></Students><Students name="ECO2"></Students><Students name="CSE22"></Students><Students name="CSE21"></Students><Students name="PHY3"></Students>
     </Hour>
     <Hour name="09:30">
      <Subject name="MAT160"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT1"></Students><Students name="ECO2"></Students><Students name="CSE22"></Students><Students name="CSE21"></Students><Students name="PHY3"></Students>
     </Hour>
     <Hour name="10:00">
-     <Subject name="MAT160"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT1"></Students><Students name="ECO2"></Students><Students name="CSE22"></Students><Students name="CSE21"></Students><Students name="PHY3"></Students>
+     
     </Hour>
     <Hour name="10:30">
      
@@ -66162,13 +66162,13 @@
      
     </Hour>
     <Hour name="10:30">
-     
+     <Subject name="MAT100"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT1"></Students>
     </Hour>
     <Hour name="11:00">
-     
+     <Subject name="MAT100"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT1"></Students>
     </Hour>
     <Hour name="11:30">
-     
+     <Subject name="MAT100"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT1"></Students>
     </Hour>
     <Hour name="12:00">
      
@@ -66189,13 +66189,13 @@
      
     </Hour>
     <Hour name="15:00">
-     <Subject name="MAT100"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT1"></Students>
+     
     </Hour>
     <Hour name="15:30">
-     <Subject name="MAT100"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT1"></Students>
+     
     </Hour>
     <Hour name="16:00">
-     <Subject name="MAT100"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT1"></Students>
+     
     </Hour>
     <Hour name="16:30">
      
@@ -66224,19 +66224,19 @@
      
     </Hour>
     <Hour name="10:30">
-     
+     <Subject name="MAT399"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT3"></Students>
     </Hour>
     <Hour name="11:00">
-     
+     <Subject name="MAT399"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT3"></Students>
     </Hour>
     <Hour name="11:30">
-     
+     <Subject name="MAT399"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT3"></Students>
     </Hour>
     <Hour name="12:00">
-     
+     <Subject name="MAT100"></Subject><Activity_Tag name="TUT1"></Activity_Tag><Students name="MAT1"></Students>
     </Hour>
     <Hour name="12:30">
-     
+     <Subject name="MAT100"></Subject><Activity_Tag name="TUT1"></Activity_Tag><Students name="MAT1"></Students>
     </Hour>
     <Hour name="13:00">
      
@@ -66245,13 +66245,13 @@
      
     </Hour>
     <Hour name="14:00">
-     <Subject name="MAT399"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="14:30">
-     <Subject name="MAT399"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="15:00">
-     <Subject name="MAT399"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="15:30">
      
@@ -66313,13 +66313,13 @@
      
     </Hour>
     <Hour name="15:00">
-     <Subject name="MAT100"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT1"></Students>
+     
     </Hour>
     <Hour name="15:30">
-     <Subject name="MAT100"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT1"></Students>
+     
     </Hour>
     <Hour name="16:00">
-     <Subject name="MAT100"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT1"></Students>
+     
     </Hour>
     <Hour name="16:30">
      
@@ -66348,13 +66348,13 @@
      
     </Hour>
     <Hour name="10:30">
-     
+     <Subject name="MAT399"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT3"></Students>
     </Hour>
     <Hour name="11:00">
-     
+     <Subject name="MAT399"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT3"></Students>
     </Hour>
     <Hour name="11:30">
-     
+     <Subject name="MAT399"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT3"></Students>
     </Hour>
     <Hour name="12:00">
      
@@ -66369,13 +66369,13 @@
      
     </Hour>
     <Hour name="14:00">
-     <Subject name="MAT399"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="14:30">
-     <Subject name="MAT399"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="15:00">
-     <Subject name="MAT399"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="15:30">
      
@@ -66410,13 +66410,13 @@
      
     </Hour>
     <Hour name="10:30">
-     
+     <Subject name="MAT100"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT1"></Students>
     </Hour>
     <Hour name="11:00">
-     <Subject name="MAT100"></Subject><Activity_Tag name="TUT1"></Activity_Tag><Students name="MAT1"></Students>
+     <Subject name="MAT100"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT1"></Students>
     </Hour>
     <Hour name="11:30">
-     <Subject name="MAT100"></Subject><Activity_Tag name="TUT1"></Activity_Tag><Students name="MAT1"></Students>
+     <Subject name="MAT100"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT1"></Students>
     </Hour>
     <Hour name="12:00">
      
@@ -69282,10 +69282,10 @@
      
     </Hour>
     <Hour name="10:30">
-     <Subject name="EED206"></Subject><Activity_Tag name="TUT1"></Activity_Tag><Students name="CSE21"></Students>
+     
     </Hour>
     <Hour name="11:00">
-     <Subject name="EED206"></Subject><Activity_Tag name="TUT1"></Activity_Tag><Students name="CSE21"></Students>
+     
     </Hour>
     <Hour name="11:30">
      
@@ -69471,10 +69471,10 @@
      
     </Hour>
     <Hour name="11:00">
-     
+     <Subject name="EED206"></Subject><Activity_Tag name="TUT1"></Activity_Tag><Students name="CSE21"></Students>
     </Hour>
     <Hour name="11:30">
-     
+     <Subject name="EED206"></Subject><Activity_Tag name="TUT1"></Activity_Tag><Students name="CSE21"></Students>
     </Hour>
     <Hour name="12:00">
      
@@ -70021,10 +70021,10 @@
      
     </Hour>
     <Hour name="09:00">
-     
+     <Subject name="PHY101"></Subject><Activity_Tag name="TUT3"></Activity_Tag><Students name="CSE13"></Students>
     </Hour>
     <Hour name="09:30">
-     
+     <Subject name="PHY101"></Subject><Activity_Tag name="TUT3"></Activity_Tag><Students name="CSE13"></Students>
     </Hour>
     <Hour name="10:00">
      
@@ -70063,10 +70063,10 @@
      
     </Hour>
     <Hour name="16:00">
-     <Subject name="PHY101"></Subject><Activity_Tag name="TUT3"></Activity_Tag><Students name="CSE13"></Students>
+     
     </Hour>
     <Hour name="16:30">
-     <Subject name="PHY101"></Subject><Activity_Tag name="TUT3"></Activity_Tag><Students name="CSE13"></Students>
+     
     </Hour>
     <Hour name="17:00">
      
@@ -71528,13 +71528,13 @@
      
     </Hour>
     <Hour name="10:30">
-     
+     <Subject name="MAT150"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT1"></Students>
     </Hour>
     <Hour name="11:00">
-     
+     <Subject name="MAT150"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT1"></Students>
     </Hour>
     <Hour name="11:30">
-     
+     <Subject name="MAT150"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT1"></Students>
     </Hour>
     <Hour name="12:00">
      
@@ -71549,13 +71549,13 @@
      
     </Hour>
     <Hour name="14:00">
-     <Subject name="MAT150"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT1"></Students>
+     
     </Hour>
     <Hour name="14:30">
-     <Subject name="MAT150"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT1"></Students>
+     
     </Hour>
     <Hour name="15:00">
-     <Subject name="MAT150"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT1"></Students>
+     
     </Hour>
     <Hour name="15:30">
      
@@ -71652,13 +71652,13 @@
      
     </Hour>
     <Hour name="10:30">
-     <Subject name="MAT150"></Subject><Activity_Tag name="TUT1"></Activity_Tag><Students name="MAT1"></Students>
+     <Subject name="MAT150"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT1"></Students>
     </Hour>
     <Hour name="11:00">
-     <Subject name="MAT150"></Subject><Activity_Tag name="TUT1"></Activity_Tag><Students name="MAT1"></Students>
+     <Subject name="MAT150"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT1"></Students>
     </Hour>
     <Hour name="11:30">
-     
+     <Subject name="MAT150"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT1"></Students>
     </Hour>
     <Hour name="12:00">
      
@@ -71673,16 +71673,16 @@
      
     </Hour>
     <Hour name="14:00">
-     <Subject name="MAT150"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT1"></Students>
+     <Subject name="MAT330"></Subject><Activity_Tag name="TUT1"></Activity_Tag><Students name="MAT3"></Students>
     </Hour>
     <Hour name="14:30">
-     <Subject name="MAT150"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT1"></Students>
+     <Subject name="MAT330"></Subject><Activity_Tag name="TUT1"></Activity_Tag><Students name="MAT3"></Students>
     </Hour>
     <Hour name="15:00">
-     <Subject name="MAT150"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT1"></Students>
+     <Subject name="MAT150"></Subject><Activity_Tag name="TUT1"></Activity_Tag><Students name="MAT1"></Students>
     </Hour>
     <Hour name="15:30">
-     
+     <Subject name="MAT150"></Subject><Activity_Tag name="TUT1"></Activity_Tag><Students name="MAT1"></Students>
     </Hour>
     <Hour name="16:00">
      
@@ -71711,10 +71711,10 @@
      <Subject name="MAT330"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT3"></Students><Students name="CSE4"></Students>
     </Hour>
     <Hour name="10:00">
-     <Subject name="MAT330"></Subject><Activity_Tag name="TUT1"></Activity_Tag><Students name="MAT3"></Students>
+     
     </Hour>
     <Hour name="10:30">
-     <Subject name="MAT330"></Subject><Activity_Tag name="TUT1"></Activity_Tag><Students name="MAT3"></Students>
+     
     </Hour>
     <Hour name="11:00">
      
@@ -75210,10 +75210,10 @@
      
     </Hour>
     <Hour name="10:30">
-     
+     <Subject name="MAT440"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT2"></Students>
     </Hour>
     <Hour name="11:00">
-     
+     <Subject name="MAT440"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT2"></Students>
     </Hour>
     <Hour name="11:30">
      
@@ -75231,16 +75231,16 @@
      
     </Hour>
     <Hour name="14:00">
-     <Subject name="MAT440"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT2"></Students>
+     
     </Hour>
     <Hour name="14:30">
-     <Subject name="MAT440"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT2"></Students>
+     
     </Hour>
     <Hour name="15:00">
-     <Subject name="MAT440"></Subject><Activity_Tag name="TUT1"></Activity_Tag><Students name="MAT2"></Students>
+     
     </Hour>
     <Hour name="15:30">
-     <Subject name="MAT440"></Subject><Activity_Tag name="TUT1"></Activity_Tag><Students name="MAT2"></Students>
+     
     </Hour>
     <Hour name="16:00">
      
@@ -75334,10 +75334,10 @@
      
     </Hour>
     <Hour name="10:30">
-     
+     <Subject name="MAT440"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT2"></Students>
     </Hour>
     <Hour name="11:00">
-     
+     <Subject name="MAT440"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT2"></Students>
     </Hour>
     <Hour name="11:30">
      
@@ -75355,10 +75355,10 @@
      
     </Hour>
     <Hour name="14:00">
-     <Subject name="MAT440"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT2"></Students>
+     
     </Hour>
     <Hour name="14:30">
-     <Subject name="MAT440"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT2"></Students>
+     
     </Hour>
     <Hour name="15:00">
      
@@ -75423,10 +75423,10 @@
      
     </Hour>
     <Hour name="15:00">
-     
+     <Subject name="MAT440"></Subject><Activity_Tag name="TUT1"></Activity_Tag><Students name="MAT2"></Students>
     </Hour>
     <Hour name="15:30">
-     
+     <Subject name="MAT440"></Subject><Activity_Tag name="TUT1"></Activity_Tag><Students name="MAT2"></Students>
     </Hour>
     <Hour name="16:00">
      
@@ -75458,10 +75458,10 @@
      
     </Hour>
     <Hour name="10:30">
-     
+     <Subject name="MAT440"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT2"></Students>
     </Hour>
     <Hour name="11:00">
-     
+     <Subject name="MAT440"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT2"></Students>
     </Hour>
     <Hour name="11:30">
      
@@ -75479,10 +75479,10 @@
      
     </Hour>
     <Hour name="14:00">
-     <Subject name="MAT440"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT2"></Students>
+     
     </Hour>
     <Hour name="14:30">
-     <Subject name="MAT440"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT2"></Students>
+     
     </Hour>
     <Hour name="15:00">
      
@@ -80229,13 +80229,13 @@
      
     </Hour>
     <Hour name="15:00">
-     
+     <Subject name="MAT240"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT2"></Students>
     </Hour>
     <Hour name="15:30">
-     
+     <Subject name="MAT240"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT2"></Students>
     </Hour>
     <Hour name="16:00">
-     
+     <Subject name="MAT240"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT2"></Students>
     </Hour>
     <Hour name="16:30">
      
@@ -80264,34 +80264,34 @@
      
     </Hour>
     <Hour name="10:30">
-     <Subject name="MAT240"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT2"></Students>
+     <Subject name="MAT442"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="11:00">
-     <Subject name="MAT240"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT2"></Students>
+     <Subject name="MAT442"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="11:30">
-     <Subject name="MAT240"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT2"></Students>
+     <Subject name="MAT442"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="12:00">
      
     </Hour>
     <Hour name="12:30">
-     
+     <Subject name="MAT442"></Subject><Activity_Tag name="TUT1"></Activity_Tag><Students name="MAT3"></Students>
     </Hour>
     <Hour name="13:00">
-     
+     <Subject name="MAT442"></Subject><Activity_Tag name="TUT1"></Activity_Tag><Students name="MAT3"></Students>
     </Hour>
     <Hour name="13:30">
      
     </Hour>
     <Hour name="14:00">
-     <Subject name="MAT442"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT3"></Students>
+     
     </Hour>
     <Hour name="14:30">
-     <Subject name="MAT442"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT3"></Students>
+     
     </Hour>
     <Hour name="15:00">
-     <Subject name="MAT442"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT3"></Students>
+     
     </Hour>
     <Hour name="15:30">
      
@@ -80388,13 +80388,13 @@
      
     </Hour>
     <Hour name="10:30">
-     <Subject name="MAT240"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT2"></Students>
+     <Subject name="MAT442"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="11:00">
-     <Subject name="MAT240"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT2"></Students>
+     <Subject name="MAT442"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="11:30">
-     <Subject name="MAT240"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT2"></Students>
+     <Subject name="MAT442"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="12:00">
      
@@ -80409,22 +80409,22 @@
      
     </Hour>
     <Hour name="14:00">
-     <Subject name="MAT442"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT3"></Students>
+     
     </Hour>
     <Hour name="14:30">
-     <Subject name="MAT442"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT3"></Students>
+     
     </Hour>
     <Hour name="15:00">
-     <Subject name="MAT442"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT3"></Students>
+     
     </Hour>
     <Hour name="15:30">
-     <Subject name="MAT442"></Subject><Activity_Tag name="TUT1"></Activity_Tag><Students name="MAT3"></Students>
+     
     </Hour>
     <Hour name="16:00">
-     <Subject name="MAT442"></Subject><Activity_Tag name="TUT1"></Activity_Tag><Students name="MAT3"></Students>
+     <Subject name="MAT240"></Subject><Activity_Tag name="TUT1"></Activity_Tag><Students name="MAT2"></Students>
     </Hour>
     <Hour name="16:30">
-     
+     <Subject name="MAT240"></Subject><Activity_Tag name="TUT1"></Activity_Tag><Students name="MAT2"></Students>
     </Hour>
     <Hour name="17:00">
      
@@ -80477,13 +80477,13 @@
      
     </Hour>
     <Hour name="15:00">
-     <Subject name="MAT240"></Subject><Activity_Tag name="TUT1"></Activity_Tag><Students name="MAT2"></Students>
+     <Subject name="MAT240"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT2"></Students>
     </Hour>
     <Hour name="15:30">
-     <Subject name="MAT240"></Subject><Activity_Tag name="TUT1"></Activity_Tag><Students name="MAT2"></Students>
+     <Subject name="MAT240"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT2"></Students>
     </Hour>
     <Hour name="16:00">
-     
+     <Subject name="MAT240"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="MAT2"></Students>
     </Hour>
     <Hour name="16:30">
      
@@ -84264,10 +84264,10 @@
      
     </Hour>
     <Hour name="11:30">
-     
+     <Subject name="PHY101"></Subject><Activity_Tag name="TUT1"></Activity_Tag><Students name="CSE11"></Students>
     </Hour>
     <Hour name="12:00">
-     
+     <Subject name="PHY101"></Subject><Activity_Tag name="TUT1"></Activity_Tag><Students name="CSE11"></Students>
     </Hour>
     <Hour name="12:30">
      
@@ -84536,10 +84536,10 @@
      
     </Hour>
     <Hour name="15:30">
-     <Subject name="PHY101"></Subject><Activity_Tag name="TUT1"></Activity_Tag><Students name="CSE11"></Students>
+     
     </Hour>
     <Hour name="16:00">
-     <Subject name="PHY101"></Subject><Activity_Tag name="TUT1"></Activity_Tag><Students name="CSE11"></Students>
+     
     </Hour>
     <Hour name="16:30">
      

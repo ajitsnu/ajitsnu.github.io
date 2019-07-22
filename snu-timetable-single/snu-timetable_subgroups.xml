@@ -86,10 +86,10 @@
       <Teacher name="Rohini  Garg[20500633]"></Teacher> <Teacher name="Manasi  Mishra[20500573]"></Teacher><Subject name="BIO102"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="11:30">
-      <Teacher name="Lal Mohan Saha[20500014]"></Teacher><Subject name="MAT020"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
+     
     </Hour>
     <Hour name="12:00">
-      <Teacher name="Lal Mohan Saha[20500014]"></Teacher><Subject name="MAT020"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
+     
     </Hour>
     <Hour name="12:30">
       <Teacher name="LunchBIO1"></Teacher><Subject name="Lunch"></Subject>
@@ -296,10 +296,10 @@
       <Teacher name="Bimlesh  Lochab[20500076]"></Teacher> <Teacher name="Gouriprasanna  Roy[20500138]"></Teacher> <Teacher name="Parthapratim  Munshi[20500205]"></Teacher><Subject name="CHY111"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag>
     </Hour>
     <Hour name="15:30">
-     
+      <Teacher name="Lal Mohan Saha[20500014]"></Teacher><Subject name="MAT020"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
     </Hour>
     <Hour name="16:00">
-     
+      <Teacher name="Lal Mohan Saha[20500014]"></Teacher><Subject name="MAT020"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
     </Hour>
     <Hour name="16:30">
       <Teacher name="Seema  Sehrawat[20500119]"></Teacher><Subject name="BIO104"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
@@ -1614,10 +1614,10 @@
       <Teacher name="Bhaskar  Kaviraj[20500244]"></Teacher><Subject name="PHY103"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="16:30">
-     
+      <Teacher name="MAT101TA3"></Teacher><Subject name="MAT101"></Subject><Activity_Tag name="TUT3"></Activity_Tag>
     </Hour>
     <Hour name="17:00">
-     
+      <Teacher name="MAT101TA3"></Teacher><Subject name="MAT101"></Subject><Activity_Tag name="TUT3"></Activity_Tag>
     </Hour>
     <Hour name="17:30">
      
@@ -1800,10 +1800,10 @@
       <Teacher name="Gouriprasanna  Roy[20500138]"></Teacher><Subject name="CHY111"></Subject><Activity_Tag name="TUT2"></Activity_Tag>
     </Hour>
     <Hour name="16:30">
-      <Teacher name="MAT101TA3"></Teacher><Subject name="MAT101"></Subject><Activity_Tag name="TUT3"></Activity_Tag>
+     
     </Hour>
     <Hour name="17:00">
-      <Teacher name="MAT101TA3"></Teacher><Subject name="MAT101"></Subject><Activity_Tag name="TUT3"></Activity_Tag>
+     
     </Hour>
     <Hour name="17:30">
      
@@ -1896,25 +1896,25 @@
       <Teacher name="Sajal Kumar Ghosh[20500246]"></Teacher><Subject name="PHY101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag>
     </Hour>
     <Hour name="11:30">
-     
+      <Teacher name="VIKASH SHARMA[1810120102]"></Teacher><Subject name="PHY101"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
     </Hour>
     <Hour name="12:00">
-     
+      <Teacher name="VIKASH SHARMA[1810120102]"></Teacher><Subject name="PHY101"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
     </Hour>
     <Hour name="12:30">
-     
+      <Teacher name="LunchCSE11"></Teacher><Subject name="Lunch"></Subject>
     </Hour>
     <Hour name="13:00">
-     
+      <Teacher name="LunchCSE11"></Teacher><Subject name="Lunch"></Subject>
     </Hour>
     <Hour name="13:30">
      
     </Hour>
     <Hour name="14:00">
-      <Teacher name="LunchCSE11"></Teacher><Subject name="Lunch"></Subject>
+     
     </Hour>
     <Hour name="14:30">
-      <Teacher name="LunchCSE11"></Teacher><Subject name="Lunch"></Subject>
+     
     </Hour>
     <Hour name="15:00">
      
@@ -1929,10 +1929,10 @@
      
     </Hour>
     <Hour name="17:00">
-     
+      <Teacher name="MAT103TA3"></Teacher><Subject name="MAT103"></Subject><Activity_Tag name="TUT3"></Activity_Tag>
     </Hour>
     <Hour name="17:30">
-     
+      <Teacher name="MAT103TA3"></Teacher><Subject name="MAT103"></Subject><Activity_Tag name="TUT3"></Activity_Tag>
     </Hour>
    </Day>
    <Day name="T">
@@ -1964,16 +1964,16 @@
      
     </Hour>
     <Hour name="12:30">
-      <Teacher name="LunchCSE11"></Teacher><Subject name="Lunch"></Subject>
+     
     </Hour>
     <Hour name="13:00">
-      <Teacher name="LunchCSE11"></Teacher><Subject name="Lunch"></Subject>
+     
     </Hour>
     <Hour name="13:30">
-     
+      <Teacher name="LunchCSE11"></Teacher><Subject name="Lunch"></Subject>
     </Hour>
     <Hour name="14:00">
-     
+      <Teacher name="LunchCSE11"></Teacher><Subject name="Lunch"></Subject>
     </Hour>
     <Hour name="14:30">
       <Teacher name="Pooja  Malik[20500448]"></Teacher><Subject name="CSD101"></Subject><Activity_Tag name="D317"></Activity_Tag><Room name="D317"></Room>
@@ -2097,10 +2097,10 @@
      
     </Hour>
     <Hour name="14:00">
-      <Teacher name="MAT103TA3"></Teacher><Subject name="MAT103"></Subject><Activity_Tag name="TUT3"></Activity_Tag>
+     
     </Hour>
     <Hour name="14:30">
-      <Teacher name="MAT103TA3"></Teacher><Subject name="MAT103"></Subject><Activity_Tag name="TUT3"></Activity_Tag>
+     
     </Hour>
     <Hour name="15:00">
      
@@ -2150,13 +2150,13 @@
      
     </Hour>
     <Hour name="12:30">
-      <Teacher name="LunchCSE11"></Teacher><Subject name="Lunch"></Subject>
+     
     </Hour>
     <Hour name="13:00">
       <Teacher name="LunchCSE11"></Teacher><Subject name="Lunch"></Subject>
     </Hour>
     <Hour name="13:30">
-     
+      <Teacher name="LunchCSE11"></Teacher><Subject name="Lunch"></Subject>
     </Hour>
     <Hour name="14:00">
      
@@ -2168,10 +2168,10 @@
      
     </Hour>
     <Hour name="15:30">
-      <Teacher name="VIKASH SHARMA[1810120102]"></Teacher><Subject name="PHY101"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
+     
     </Hour>
     <Hour name="16:00">
-      <Teacher name="VIKASH SHARMA[1810120102]"></Teacher><Subject name="PHY101"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
+     
     </Hour>
     <Hour name="16:30">
      
@@ -2211,16 +2211,16 @@
      
     </Hour>
     <Hour name="12:00">
-      <Teacher name="JOSHUA ASIRVATHAM[1710120064]"></Teacher><Subject name="PHY101"></Subject><Activity_Tag name="TUT2"></Activity_Tag>
+     
     </Hour>
     <Hour name="12:30">
-      <Teacher name="JOSHUA ASIRVATHAM[1710120064]"></Teacher><Subject name="PHY101"></Subject><Activity_Tag name="TUT2"></Activity_Tag>
+      <Teacher name="LunchCSE12"></Teacher><Subject name="Lunch"></Subject>
     </Hour>
     <Hour name="13:00">
       <Teacher name="LunchCSE12"></Teacher><Subject name="Lunch"></Subject>
     </Hour>
     <Hour name="13:30">
-      <Teacher name="LunchCSE12"></Teacher><Subject name="Lunch"></Subject>
+     
     </Hour>
     <Hour name="14:00">
      
@@ -2232,19 +2232,19 @@
      
     </Hour>
     <Hour name="15:30">
-      <Teacher name="MAT103TA4"></Teacher><Subject name="MAT103"></Subject><Activity_Tag name="TUT4"></Activity_Tag>
+     
     </Hour>
     <Hour name="16:00">
-      <Teacher name="MAT103TA4"></Teacher><Subject name="MAT103"></Subject><Activity_Tag name="TUT4"></Activity_Tag>
+     
     </Hour>
     <Hour name="16:30">
      
     </Hour>
     <Hour name="17:00">
-     
+      <Teacher name="MAT103TA4"></Teacher><Subject name="MAT103"></Subject><Activity_Tag name="TUT4"></Activity_Tag>
     </Hour>
     <Hour name="17:30">
-     
+      <Teacher name="MAT103TA4"></Teacher><Subject name="MAT103"></Subject><Activity_Tag name="TUT4"></Activity_Tag>
     </Hour>
    </Day>
    <Day name="T">
@@ -2338,13 +2338,13 @@
      
     </Hour>
     <Hour name="12:30">
-      <Teacher name="LunchCSE12"></Teacher><Subject name="Lunch"></Subject>
+     
     </Hour>
     <Hour name="13:00">
       <Teacher name="LunchCSE12"></Teacher><Subject name="Lunch"></Subject>
     </Hour>
     <Hour name="13:30">
-     
+      <Teacher name="LunchCSE12"></Teacher><Subject name="Lunch"></Subject>
     </Hour>
     <Hour name="14:00">
      
@@ -2353,10 +2353,10 @@
      
     </Hour>
     <Hour name="15:00">
-     
+      <Teacher name="JOSHUA ASIRVATHAM[1710120064]"></Teacher><Subject name="PHY101"></Subject><Activity_Tag name="TUT2"></Activity_Tag>
     </Hour>
     <Hour name="15:30">
-     
+      <Teacher name="JOSHUA ASIRVATHAM[1710120064]"></Teacher><Subject name="PHY101"></Subject><Activity_Tag name="TUT2"></Activity_Tag>
     </Hour>
     <Hour name="16:00">
      
@@ -2462,13 +2462,13 @@
      
     </Hour>
     <Hour name="12:30">
-     
+      <Teacher name="LunchCSE12"></Teacher><Subject name="Lunch"></Subject>
     </Hour>
     <Hour name="13:00">
       <Teacher name="LunchCSE12"></Teacher><Subject name="Lunch"></Subject>
     </Hour>
     <Hour name="13:30">
-      <Teacher name="LunchCSE12"></Teacher><Subject name="Lunch"></Subject>
+     
     </Hour>
     <Hour name="14:00">
      
@@ -2526,19 +2526,19 @@
      
     </Hour>
     <Hour name="12:30">
-      <Teacher name="MAT103TA5"></Teacher><Subject name="MAT103"></Subject><Activity_Tag name="TUT5"></Activity_Tag>
+     
     </Hour>
     <Hour name="13:00">
-      <Teacher name="MAT103TA5"></Teacher><Subject name="MAT103"></Subject><Activity_Tag name="TUT5"></Activity_Tag>
+     
     </Hour>
     <Hour name="13:30">
-     
+      <Teacher name="LunchCSE13"></Teacher><Subject name="Lunch"></Subject>
     </Hour>
     <Hour name="14:00">
       <Teacher name="LunchCSE13"></Teacher><Subject name="Lunch"></Subject>
     </Hour>
     <Hour name="14:30">
-      <Teacher name="LunchCSE13"></Teacher><Subject name="Lunch"></Subject>
+     
     </Hour>
     <Hour name="15:00">
      
@@ -2591,16 +2591,16 @@
      
     </Hour>
     <Hour name="13:00">
-     
+      <Teacher name="LunchCSE13"></Teacher><Subject name="Lunch"></Subject>
     </Hour>
     <Hour name="13:30">
-     
+      <Teacher name="LunchCSE13"></Teacher><Subject name="Lunch"></Subject>
     </Hour>
     <Hour name="14:00">
-      <Teacher name="LunchCSE13"></Teacher><Subject name="Lunch"></Subject>
+     
     </Hour>
     <Hour name="14:30">
-      <Teacher name="LunchCSE13"></Teacher><Subject name="Lunch"></Subject>
+     
     </Hour>
     <Hour name="15:00">
      
@@ -2629,10 +2629,10 @@
      
     </Hour>
     <Hour name="09:00">
-     
+      <Teacher name="Saheli Mitra[1510120113]"></Teacher><Subject name="PHY101"></Subject><Activity_Tag name="TUT3"></Activity_Tag>
     </Hour>
     <Hour name="09:30">
-     
+      <Teacher name="Saheli Mitra[1510120113]"></Teacher><Subject name="PHY101"></Subject><Activity_Tag name="TUT3"></Activity_Tag>
     </Hour>
     <Hour name="10:00">
      
@@ -2671,13 +2671,13 @@
      
     </Hour>
     <Hour name="16:00">
-      <Teacher name="Saheli Mitra[1510120113]"></Teacher><Subject name="PHY101"></Subject><Activity_Tag name="TUT3"></Activity_Tag>
+     
     </Hour>
     <Hour name="16:30">
-      <Teacher name="Saheli Mitra[1510120113]"></Teacher><Subject name="PHY101"></Subject><Activity_Tag name="TUT3"></Activity_Tag>
+      <Teacher name="MAT103TA5"></Teacher><Subject name="MAT103"></Subject><Activity_Tag name="TUT5"></Activity_Tag>
     </Hour>
     <Hour name="17:00">
-     
+      <Teacher name="MAT103TA5"></Teacher><Subject name="MAT103"></Subject><Activity_Tag name="TUT5"></Activity_Tag>
     </Hour>
     <Hour name="17:30">
      
@@ -2774,16 +2774,16 @@
      
     </Hour>
     <Hour name="12:30">
-      <Teacher name="LunchCSE13"></Teacher><Subject name="Lunch"></Subject>
+     
     </Hour>
     <Hour name="13:00">
-      <Teacher name="LunchCSE13"></Teacher><Subject name="Lunch"></Subject>
+     
     </Hour>
     <Hour name="13:30">
-     
+      <Teacher name="LunchCSE13"></Teacher><Subject name="Lunch"></Subject>
     </Hour>
     <Hour name="14:00">
-     
+      <Teacher name="LunchCSE13"></Teacher><Subject name="Lunch"></Subject>
     </Hour>
     <Hour name="14:30">
      
@@ -2838,19 +2838,19 @@
      
     </Hour>
     <Hour name="12:30">
-      <Teacher name="MAT103TA6"></Teacher><Subject name="MAT103"></Subject><Activity_Tag name="TUT6"></Activity_Tag>
+     
     </Hour>
     <Hour name="13:00">
-      <Teacher name="MAT103TA6"></Teacher><Subject name="MAT103"></Subject><Activity_Tag name="TUT6"></Activity_Tag>
+     
     </Hour>
     <Hour name="13:30">
-      <Teacher name="LunchCSE14"></Teacher><Subject name="Lunch"></Subject>
+     
     </Hour>
     <Hour name="14:00">
       <Teacher name="LunchCSE14"></Teacher><Subject name="Lunch"></Subject>
     </Hour>
     <Hour name="14:30">
-     
+      <Teacher name="LunchCSE14"></Teacher><Subject name="Lunch"></Subject>
     </Hour>
     <Hour name="15:00">
      
@@ -2900,13 +2900,13 @@
      
     </Hour>
     <Hour name="12:30">
-      <Teacher name="LunchCSE14"></Teacher><Subject name="Lunch"></Subject>
+     
     </Hour>
     <Hour name="13:00">
       <Teacher name="LunchCSE14"></Teacher><Subject name="Lunch"></Subject>
     </Hour>
     <Hour name="13:30">
-     
+      <Teacher name="LunchCSE14"></Teacher><Subject name="Lunch"></Subject>
     </Hour>
     <Hour name="14:00">
      
@@ -3033,19 +3033,19 @@
      
     </Hour>
     <Hour name="14:00">
-      <Teacher name="Dip Das[1610120055]"></Teacher><Subject name="PHY101"></Subject><Activity_Tag name="TUT4"></Activity_Tag>
+     
     </Hour>
     <Hour name="14:30">
-      <Teacher name="Dip Das[1610120055]"></Teacher><Subject name="PHY101"></Subject><Activity_Tag name="TUT4"></Activity_Tag>
+     
     </Hour>
     <Hour name="15:00">
      
     </Hour>
     <Hour name="15:30">
-     
+      <Teacher name="MAT103TA6"></Teacher><Subject name="MAT103"></Subject><Activity_Tag name="TUT6"></Activity_Tag>
     </Hour>
     <Hour name="16:00">
-     
+      <Teacher name="MAT103TA6"></Teacher><Subject name="MAT103"></Subject><Activity_Tag name="TUT6"></Activity_Tag>
     </Hour>
     <Hour name="16:30">
      
@@ -3086,19 +3086,19 @@
      
     </Hour>
     <Hour name="12:30">
-     
+      <Teacher name="LunchCSE14"></Teacher><Subject name="Lunch"></Subject>
     </Hour>
     <Hour name="13:00">
-     
+      <Teacher name="LunchCSE14"></Teacher><Subject name="Lunch"></Subject>
     </Hour>
     <Hour name="13:30">
-      <Teacher name="LunchCSE14"></Teacher><Subject name="Lunch"></Subject>
+     
     </Hour>
     <Hour name="14:00">
-      <Teacher name="LunchCSE14"></Teacher><Subject name="Lunch"></Subject>
+      <Teacher name="Dip Das[1610120055]"></Teacher><Subject name="PHY101"></Subject><Activity_Tag name="TUT4"></Activity_Tag>
     </Hour>
     <Hour name="14:30">
-     
+      <Teacher name="Dip Das[1610120055]"></Teacher><Subject name="PHY101"></Subject><Activity_Tag name="TUT4"></Activity_Tag>
     </Hour>
     <Hour name="15:00">
      
@@ -5937,22 +5937,22 @@
      
     </Hour>
     <Hour name="09:00">
-     
+      <Teacher name="Pradip  Kumar[20500271]"></Teacher><Subject name="MAT160"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="09:30">
       <Teacher name="Pradip  Kumar[20500271]"></Teacher><Subject name="MAT160"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="Pradip  Kumar[20500271]"></Teacher><Subject name="MAT160"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:30">
-     
+      <Teacher name="Priyanka  Grover[20500411]"></Teacher><Subject name="MAT100"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="11:00">
-     
+      <Teacher name="Priyanka  Grover[20500411]"></Teacher><Subject name="MAT100"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="11:30">
-     
+      <Teacher name="Priyanka  Grover[20500411]"></Teacher><Subject name="MAT100"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="12:00">
       <Teacher name="Amber  Habib[20500009]"></Teacher><Subject name="MAT101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag>
@@ -5964,28 +5964,28 @@
      
     </Hour>
     <Hour name="13:30">
-      <Teacher name="LunchMAT1"></Teacher><Subject name="Lunch"></Subject>
+     
     </Hour>
     <Hour name="14:00">
       <Teacher name="LunchMAT1"></Teacher><Subject name="Lunch"></Subject>
     </Hour>
     <Hour name="14:30">
-     
+      <Teacher name="LunchMAT1"></Teacher><Subject name="Lunch"></Subject>
     </Hour>
     <Hour name="15:00">
-      <Teacher name="Priyanka  Grover[20500411]"></Teacher><Subject name="MAT100"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="15:30">
-      <Teacher name="Priyanka  Grover[20500411]"></Teacher><Subject name="MAT100"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="16:00">
-      <Teacher name="Priyanka  Grover[20500411]"></Teacher><Subject name="MAT100"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="16:30">
-     
+      <Teacher name="MAT101TA3"></Teacher><Subject name="MAT101"></Subject><Activity_Tag name="TUT3"></Activity_Tag>
     </Hour>
     <Hour name="17:00">
-     
+      <Teacher name="MAT101TA3"></Teacher><Subject name="MAT101"></Subject><Activity_Tag name="TUT3"></Activity_Tag>
     </Hour>
     <Hour name="17:30">
      
@@ -6008,19 +6008,19 @@
       <Teacher name="Aakash  Kishore Sinha[20500738]"></Teacher> <Teacher name="Meera  visvanathan[20500357]"></Teacher> <Teacher name="Sudeshna  Guha[20500519]"></Teacher> <Teacher name="Anita  Sharma[20501003]"></Teacher> <Teacher name="Sailesh Narayan Behera[20500422]"></Teacher> <Teacher name="Jagabandhu  Dixit[20500135]"></Teacher> <Teacher name="Debopam  Acharya[20500192]"></Teacher> <Teacher name="Charu  Sharma[20500010]"></Teacher> <Teacher name="Neha  Gupta[20500087]"></Teacher> <Teacher name="Jyoti Singh Kirar[20500802]"></Teacher> <Teacher name="Deepak  Sehgal[20500085]"></Teacher> <Teacher name="Soumya   Pati[20500398]"></Teacher> <Teacher name="Naga Suresh Veerapu[20500209]"></Teacher> <Teacher name="Richa  Priyadarshini[20500150]"></Teacher> <Teacher name="Susanta Sinha Roy[20500095]"></Teacher> <Teacher name="Jyoti Shharma"></Teacher><Subject name="CCC515"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="CCC"></Activity_Tag>
     </Hour>
     <Hour name="10:30">
-     
+      <Teacher name="Samit   Bhattacharyya[20500432]"></Teacher><Subject name="MAT150"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="11:00">
-     
+      <Teacher name="Samit   Bhattacharyya[20500432]"></Teacher><Subject name="MAT150"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="11:30">
-     
+      <Teacher name="Samit   Bhattacharyya[20500432]"></Teacher><Subject name="MAT150"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="12:00">
-     
+      <Teacher name="Priyanka  Grover[20500411]"></Teacher><Subject name="MAT100"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
     </Hour>
     <Hour name="12:30">
-     
+      <Teacher name="Priyanka  Grover[20500411]"></Teacher><Subject name="MAT100"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
     </Hour>
     <Hour name="13:00">
       <Teacher name="LunchMAT1"></Teacher><Subject name="Lunch"></Subject>
@@ -6029,13 +6029,13 @@
       <Teacher name="LunchMAT1"></Teacher><Subject name="Lunch"></Subject>
     </Hour>
     <Hour name="14:00">
-      <Teacher name="Samit   Bhattacharyya[20500432]"></Teacher><Subject name="MAT150"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="14:30">
-      <Teacher name="Samit   Bhattacharyya[20500432]"></Teacher><Subject name="MAT150"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="15:00">
-      <Teacher name="Samit   Bhattacharyya[20500432]"></Teacher><Subject name="MAT150"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="15:30">
      
@@ -6061,13 +6061,13 @@
      
     </Hour>
     <Hour name="09:00">
-     
+      <Teacher name="Pradip  Kumar[20500271]"></Teacher><Subject name="MAT160"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="09:30">
       <Teacher name="Pradip  Kumar[20500271]"></Teacher><Subject name="MAT160"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="Pradip  Kumar[20500271]"></Teacher><Subject name="MAT160"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:30">
       <Teacher name="Pradip  Kumar[20500271]"></Teacher><Subject name="MAT160"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
@@ -6097,13 +6097,13 @@
      
     </Hour>
     <Hour name="15:00">
-      <Teacher name="Priyanka  Grover[20500411]"></Teacher><Subject name="MAT100"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="15:30">
-      <Teacher name="Priyanka  Grover[20500411]"></Teacher><Subject name="MAT100"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="16:00">
-      <Teacher name="Priyanka  Grover[20500411]"></Teacher><Subject name="MAT100"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="16:30">
      
@@ -6132,13 +6132,13 @@
       <Teacher name="Aakash  Kishore Sinha[20500738]"></Teacher> <Teacher name="Meera  visvanathan[20500357]"></Teacher> <Teacher name="Sudeshna  Guha[20500519]"></Teacher> <Teacher name="Anita  Sharma[20501003]"></Teacher> <Teacher name="Sailesh Narayan Behera[20500422]"></Teacher> <Teacher name="Jagabandhu  Dixit[20500135]"></Teacher> <Teacher name="Debopam  Acharya[20500192]"></Teacher> <Teacher name="Charu  Sharma[20500010]"></Teacher> <Teacher name="Neha  Gupta[20500087]"></Teacher> <Teacher name="Jyoti Singh Kirar[20500802]"></Teacher> <Teacher name="Deepak  Sehgal[20500085]"></Teacher> <Teacher name="Soumya   Pati[20500398]"></Teacher> <Teacher name="Naga Suresh Veerapu[20500209]"></Teacher> <Teacher name="Richa  Priyadarshini[20500150]"></Teacher> <Teacher name="Susanta Sinha Roy[20500095]"></Teacher> <Teacher name="Jyoti Shharma"></Teacher><Subject name="CCC515"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="CCC"></Activity_Tag>
     </Hour>
     <Hour name="10:30">
-      <Teacher name="Samit   Bhattacharyya[20500432]"></Teacher><Subject name="MAT150"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
+      <Teacher name="Samit   Bhattacharyya[20500432]"></Teacher><Subject name="MAT150"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="Samit   Bhattacharyya[20500432]"></Teacher><Subject name="MAT150"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
+      <Teacher name="Samit   Bhattacharyya[20500432]"></Teacher><Subject name="MAT150"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="11:30">
-     
+      <Teacher name="Samit   Bhattacharyya[20500432]"></Teacher><Subject name="MAT150"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="12:00">
      
@@ -6153,25 +6153,25 @@
      
     </Hour>
     <Hour name="14:00">
-      <Teacher name="Samit   Bhattacharyya[20500432]"></Teacher><Subject name="MAT150"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="14:30">
-      <Teacher name="Samit   Bhattacharyya[20500432]"></Teacher><Subject name="MAT150"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="15:00">
-      <Teacher name="Samit   Bhattacharyya[20500432]"></Teacher><Subject name="MAT150"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Samit   Bhattacharyya[20500432]"></Teacher><Subject name="MAT150"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
     </Hour>
     <Hour name="15:30">
-     
+      <Teacher name="Samit   Bhattacharyya[20500432]"></Teacher><Subject name="MAT150"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
     </Hour>
     <Hour name="16:00">
      
     </Hour>
     <Hour name="16:30">
-      <Teacher name="MAT101TA3"></Teacher><Subject name="MAT101"></Subject><Activity_Tag name="TUT3"></Activity_Tag>
+     
     </Hour>
     <Hour name="17:00">
-      <Teacher name="MAT101TA3"></Teacher><Subject name="MAT101"></Subject><Activity_Tag name="TUT3"></Activity_Tag>
+     
     </Hour>
     <Hour name="17:30">
      
@@ -6185,22 +6185,22 @@
      
     </Hour>
     <Hour name="09:00">
-     
+      <Teacher name="Pradip  Kumar[20500271]"></Teacher><Subject name="MAT160"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="09:30">
       <Teacher name="Pradip  Kumar[20500271]"></Teacher><Subject name="MAT160"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="Pradip  Kumar[20500271]"></Teacher><Subject name="MAT160"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
-    </Hour>
-    <Hour name="10:30">
      
     </Hour>
+    <Hour name="10:30">
+      <Teacher name="Priyanka  Grover[20500411]"></Teacher><Subject name="MAT100"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+    </Hour>
     <Hour name="11:00">
-      <Teacher name="Priyanka  Grover[20500411]"></Teacher><Subject name="MAT100"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
+      <Teacher name="Priyanka  Grover[20500411]"></Teacher><Subject name="MAT100"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="11:30">
-      <Teacher name="Priyanka  Grover[20500411]"></Teacher><Subject name="MAT100"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
+      <Teacher name="Priyanka  Grover[20500411]"></Teacher><Subject name="MAT100"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="12:00">
       <Teacher name="Amber  Habib[20500009]"></Teacher><Subject name="MAT101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag>
@@ -6209,16 +6209,16 @@
       <Teacher name="Amber  Habib[20500009]"></Teacher><Subject name="MAT101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag>
     </Hour>
     <Hour name="13:00">
-     
+      <Teacher name="LunchMAT1"></Teacher><Subject name="Lunch"></Subject>
     </Hour>
     <Hour name="13:30">
-     
+      <Teacher name="LunchMAT1"></Teacher><Subject name="Lunch"></Subject>
     </Hour>
     <Hour name="14:00">
-      <Teacher name="LunchMAT1"></Teacher><Subject name="Lunch"></Subject>
+     
     </Hour>
     <Hour name="14:30">
-      <Teacher name="LunchMAT1"></Teacher><Subject name="Lunch"></Subject>
+     
     </Hour>
     <Hour name="15:00">
      
@@ -9057,19 +9057,19 @@
       <Teacher name="Ranendra Narayan Biswas[20500321]"></Teacher><Subject name="EED206"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag>
     </Hour>
     <Hour name="09:00">
-     
+      <Teacher name="Pradip  Kumar[20500271]"></Teacher><Subject name="MAT160"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="09:30">
       <Teacher name="Pradip  Kumar[20500271]"></Teacher><Subject name="MAT160"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="Pradip  Kumar[20500271]"></Teacher><Subject name="MAT160"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:30">
-      <Teacher name="Rohit  Singh[20501073]"></Teacher><Subject name="EED206"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:00">
-      <Teacher name="Rohit  Singh[20501073]"></Teacher><Subject name="EED206"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:30">
       <Teacher name="Divya  Lohani[20500325]"></Teacher><Subject name="CSD206"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
@@ -9078,13 +9078,13 @@
       <Teacher name="Divya  Lohani[20500325]"></Teacher><Subject name="CSD206"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="12:30">
-     
+      <Teacher name="LunchCSE21"></Teacher><Subject name="Lunch"></Subject>
     </Hour>
     <Hour name="13:00">
       <Teacher name="LunchCSE21"></Teacher><Subject name="Lunch"></Subject>
     </Hour>
     <Hour name="13:30">
-      <Teacher name="LunchCSE21"></Teacher><Subject name="Lunch"></Subject>
+     
     </Hour>
     <Hour name="14:00">
       <Teacher name="Sonia  Khetarpaul[20500730]"></Teacher><Subject name="CSD207"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
@@ -9143,13 +9143,13 @@
      
     </Hour>
     <Hour name="13:00">
-     
+      <Teacher name="LunchCSE21"></Teacher><Subject name="Lunch"></Subject>
     </Hour>
     <Hour name="13:30">
       <Teacher name="LunchCSE21"></Teacher><Subject name="Lunch"></Subject>
     </Hour>
     <Hour name="14:00">
-      <Teacher name="LunchCSE21"></Teacher><Subject name="Lunch"></Subject>
+     
     </Hour>
     <Hour name="14:30">
      
@@ -9181,13 +9181,13 @@
       <Teacher name="Ranendra Narayan Biswas[20500321]"></Teacher><Subject name="EED206"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag>
     </Hour>
     <Hour name="09:00">
-     
+      <Teacher name="Pradip  Kumar[20500271]"></Teacher><Subject name="MAT160"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="09:30">
       <Teacher name="Pradip  Kumar[20500271]"></Teacher><Subject name="MAT160"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="Pradip  Kumar[20500271]"></Teacher><Subject name="MAT160"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:30">
       <Teacher name="Pradip  Kumar[20500271]"></Teacher><Subject name="MAT160"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
@@ -9202,13 +9202,13 @@
       <Teacher name="Divya  Lohani[20500325]"></Teacher><Subject name="CSD206"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="12:30">
-     
+      <Teacher name="LunchCSE21"></Teacher><Subject name="Lunch"></Subject>
     </Hour>
     <Hour name="13:00">
       <Teacher name="LunchCSE21"></Teacher><Subject name="Lunch"></Subject>
     </Hour>
     <Hour name="13:30">
-      <Teacher name="LunchCSE21"></Teacher><Subject name="Lunch"></Subject>
+     
     </Hour>
     <Hour name="14:00">
       <Teacher name="Sonia  Khetarpaul[20500730]"></Teacher><Subject name="CSD207"></Subject><Activity_Tag name="D313"></Activity_Tag><Room name="D313"></Room>
@@ -9255,10 +9255,10 @@
      
     </Hour>
     <Hour name="11:00">
-     
+      <Teacher name="Rohit  Singh[20501073]"></Teacher><Subject name="EED206"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
     </Hour>
     <Hour name="11:30">
-     
+      <Teacher name="Rohit  Singh[20501073]"></Teacher><Subject name="EED206"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
     </Hour>
     <Hour name="12:00">
      
@@ -9305,13 +9305,13 @@
       <Teacher name="Ranendra Narayan Biswas[20500321]"></Teacher><Subject name="EED206"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag>
     </Hour>
     <Hour name="09:00">
-     
+      <Teacher name="Pradip  Kumar[20500271]"></Teacher><Subject name="MAT160"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="09:30">
       <Teacher name="Pradip  Kumar[20500271]"></Teacher><Subject name="MAT160"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="Pradip  Kumar[20500271]"></Teacher><Subject name="MAT160"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:30">
      
@@ -9369,13 +9369,13 @@
       <Teacher name="Ranendra Narayan Biswas[20500321]"></Teacher><Subject name="EED206"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag>
     </Hour>
     <Hour name="09:00">
-     
+      <Teacher name="Pradip  Kumar[20500271]"></Teacher><Subject name="MAT160"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="09:30">
       <Teacher name="Pradip  Kumar[20500271]"></Teacher><Subject name="MAT160"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="Pradip  Kumar[20500271]"></Teacher><Subject name="MAT160"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:30">
      
@@ -9452,16 +9452,16 @@
       <Teacher name="Rajeev Kumar Singh[20500026]"></Teacher><Subject name="CSD205"></Subject><Activity_Tag name="TUT2"></Activity_Tag>
     </Hour>
     <Hour name="12:30">
-     
+      <Teacher name="LunchCSE22"></Teacher><Subject name="Lunch"></Subject>
     </Hour>
     <Hour name="13:00">
-     
+      <Teacher name="LunchCSE22"></Teacher><Subject name="Lunch"></Subject>
     </Hour>
     <Hour name="13:30">
-      <Teacher name="LunchCSE22"></Teacher><Subject name="Lunch"></Subject>
+     
     </Hour>
     <Hour name="14:00">
-      <Teacher name="LunchCSE22"></Teacher><Subject name="Lunch"></Subject>
+     
     </Hour>
     <Hour name="14:30">
      
@@ -9493,13 +9493,13 @@
       <Teacher name="Ranendra Narayan Biswas[20500321]"></Teacher><Subject name="EED206"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag>
     </Hour>
     <Hour name="09:00">
-     
+      <Teacher name="Pradip  Kumar[20500271]"></Teacher><Subject name="MAT160"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="09:30">
       <Teacher name="Pradip  Kumar[20500271]"></Teacher><Subject name="MAT160"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="Pradip  Kumar[20500271]"></Teacher><Subject name="MAT160"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:30">
       <Teacher name="Pradip  Kumar[20500271]"></Teacher><Subject name="MAT160"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
@@ -9617,13 +9617,13 @@
       <Teacher name="Ranendra Narayan Biswas[20500321]"></Teacher><Subject name="EED206"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag>
     </Hour>
     <Hour name="09:00">
-     
+      <Teacher name="Pradip  Kumar[20500271]"></Teacher><Subject name="MAT160"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="09:30">
       <Teacher name="Pradip  Kumar[20500271]"></Teacher><Subject name="MAT160"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="Pradip  Kumar[20500271]"></Teacher><Subject name="MAT160"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:30">
       <Teacher name="Divya  Lohani[20500325]"></Teacher><Subject name="CSD206"></Subject><Activity_Tag name="TUT2"></Activity_Tag>
@@ -10305,25 +10305,25 @@
      
     </Hour>
     <Hour name="09:00">
-     
+      <Teacher name="Pradip  Kumar[20500271]"></Teacher><Subject name="MAT160"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="09:30">
       <Teacher name="Pradip  Kumar[20500271]"></Teacher><Subject name="MAT160"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="Pradip  Kumar[20500271]"></Teacher><Subject name="MAT160"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:30">
      
     </Hour>
     <Hour name="11:00">
-      <Teacher name="ECO301Instructor"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:30">
       <Teacher name="ECO301Instructor"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
     </Hour>
     <Hour name="12:00">
-     
+      <Teacher name="ECO301Instructor"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
     </Hour>
     <Hour name="12:30">
      
@@ -10429,13 +10429,13 @@
      
     </Hour>
     <Hour name="09:00">
-     
+      <Teacher name="Pradip  Kumar[20500271]"></Teacher><Subject name="MAT160"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="09:30">
       <Teacher name="Pradip  Kumar[20500271]"></Teacher><Subject name="MAT160"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="Pradip  Kumar[20500271]"></Teacher><Subject name="MAT160"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:30">
       <Teacher name="Pradip  Kumar[20500271]"></Teacher><Subject name="MAT160"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
@@ -10553,13 +10553,13 @@
      
     </Hour>
     <Hour name="09:00">
-     
+      <Teacher name="Pradip  Kumar[20500271]"></Teacher><Subject name="MAT160"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="09:30">
       <Teacher name="Pradip  Kumar[20500271]"></Teacher><Subject name="MAT160"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="Pradip  Kumar[20500271]"></Teacher><Subject name="MAT160"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:30">
      
@@ -11874,10 +11874,10 @@
       <Teacher name="Pooja  Malik[20500448]"></Teacher><Subject name="CSD101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag>
     </Hour>
     <Hour name="10:30">
-      <Teacher name="Lal Mohan Saha[20500014]"></Teacher><Subject name="MAT280"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Satyanarayana  Reddy[20500099]"></Teacher><Subject name="MAT440"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="Lal Mohan Saha[20500014]"></Teacher><Subject name="MAT280"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Satyanarayana  Reddy[20500099]"></Teacher><Subject name="MAT440"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="11:30">
      
@@ -11886,37 +11886,37 @@
      
     </Hour>
     <Hour name="12:30">
-      <Teacher name="LunchMAT2"></Teacher><Subject name="Lunch"></Subject>
+     
     </Hour>
     <Hour name="13:00">
       <Teacher name="LunchMAT2"></Teacher><Subject name="Lunch"></Subject>
     </Hour>
     <Hour name="13:30">
-     
+      <Teacher name="LunchMAT2"></Teacher><Subject name="Lunch"></Subject>
     </Hour>
     <Hour name="14:00">
-      <Teacher name="Satyanarayana  Reddy[20500099]"></Teacher><Subject name="MAT440"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Lal Mohan Saha[20500014]"></Teacher><Subject name="MAT280"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="14:30">
-      <Teacher name="Satyanarayana  Reddy[20500099]"></Teacher><Subject name="MAT440"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Lal Mohan Saha[20500014]"></Teacher><Subject name="MAT280"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="15:00">
-      <Teacher name="Satyanarayana  Reddy[20500099]"></Teacher><Subject name="MAT440"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
+      <Teacher name="Sudeepto  Bhattacharya[20500090]"></Teacher><Subject name="MAT240"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="15:30">
-      <Teacher name="Satyanarayana  Reddy[20500099]"></Teacher><Subject name="MAT440"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
+      <Teacher name="Sudeepto  Bhattacharya[20500090]"></Teacher><Subject name="MAT240"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="16:00">
-     
+      <Teacher name="Sudeepto  Bhattacharya[20500090]"></Teacher><Subject name="MAT240"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="16:30">
-      <Teacher name="Debashish   Bose[20500200]"></Teacher><Subject name="MAT184"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
+     
     </Hour>
     <Hour name="17:00">
       <Teacher name="Debashish   Bose[20500200]"></Teacher><Subject name="MAT184"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
     </Hour>
     <Hour name="17:30">
-     
+      <Teacher name="Debashish   Bose[20500200]"></Teacher><Subject name="MAT184"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
     </Hour>
    </Day>
    <Day name="T">
@@ -11936,25 +11936,25 @@
       <Teacher name="Aakash  Kishore Sinha[20500738]"></Teacher> <Teacher name="Meera  visvanathan[20500357]"></Teacher> <Teacher name="Sudeshna  Guha[20500519]"></Teacher> <Teacher name="Anita  Sharma[20501003]"></Teacher> <Teacher name="Sailesh Narayan Behera[20500422]"></Teacher> <Teacher name="Jagabandhu  Dixit[20500135]"></Teacher> <Teacher name="Debopam  Acharya[20500192]"></Teacher> <Teacher name="Charu  Sharma[20500010]"></Teacher> <Teacher name="Neha  Gupta[20500087]"></Teacher> <Teacher name="Jyoti Singh Kirar[20500802]"></Teacher> <Teacher name="Deepak  Sehgal[20500085]"></Teacher> <Teacher name="Soumya   Pati[20500398]"></Teacher> <Teacher name="Naga Suresh Veerapu[20500209]"></Teacher> <Teacher name="Richa  Priyadarshini[20500150]"></Teacher> <Teacher name="Susanta Sinha Roy[20500095]"></Teacher> <Teacher name="Jyoti Shharma"></Teacher><Subject name="CCC515"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="CCC"></Activity_Tag>
     </Hour>
     <Hour name="10:30">
-      <Teacher name="Sudeepto  Bhattacharya[20500090]"></Teacher><Subject name="MAT240"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Debashish   Bose[20500200]"></Teacher><Subject name="MAT184"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="Sudeepto  Bhattacharya[20500090]"></Teacher><Subject name="MAT240"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Debashish   Bose[20500200]"></Teacher><Subject name="MAT184"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="11:30">
-      <Teacher name="Sudeepto  Bhattacharya[20500090]"></Teacher><Subject name="MAT240"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Debashish   Bose[20500200]"></Teacher><Subject name="MAT184"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="12:00">
      
     </Hour>
     <Hour name="12:30">
-      <Teacher name="LunchMAT2"></Teacher><Subject name="Lunch"></Subject>
+     
     </Hour>
     <Hour name="13:00">
       <Teacher name="LunchMAT2"></Teacher><Subject name="Lunch"></Subject>
     </Hour>
     <Hour name="13:30">
-     
+      <Teacher name="LunchMAT2"></Teacher><Subject name="Lunch"></Subject>
     </Hour>
     <Hour name="14:00">
      
@@ -11998,10 +11998,10 @@
      
     </Hour>
     <Hour name="10:30">
-      <Teacher name="Lal Mohan Saha[20500014]"></Teacher><Subject name="MAT280"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Satyanarayana  Reddy[20500099]"></Teacher><Subject name="MAT440"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="Lal Mohan Saha[20500014]"></Teacher><Subject name="MAT280"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Satyanarayana  Reddy[20500099]"></Teacher><Subject name="MAT440"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="11:30">
       <Teacher name="Sanjeev  Agrawal[20500033]"></Teacher><Subject name="MAT220"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
@@ -12019,25 +12019,25 @@
       <Teacher name="LunchMAT2"></Teacher><Subject name="Lunch"></Subject>
     </Hour>
     <Hour name="14:00">
-      <Teacher name="Satyanarayana  Reddy[20500099]"></Teacher><Subject name="MAT440"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Lal Mohan Saha[20500014]"></Teacher><Subject name="MAT280"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="14:30">
-      <Teacher name="Satyanarayana  Reddy[20500099]"></Teacher><Subject name="MAT440"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Lal Mohan Saha[20500014]"></Teacher><Subject name="MAT280"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="15:00">
-     
+      <Teacher name="Lal Mohan Saha[20500014]"></Teacher><Subject name="MAT280"></Subject><Activity_Tag name="B113"></Activity_Tag><Room name="B113"></Room>
     </Hour>
     <Hour name="15:30">
-     
+      <Teacher name="Lal Mohan Saha[20500014]"></Teacher><Subject name="MAT280"></Subject><Activity_Tag name="B113"></Activity_Tag><Room name="B113"></Room>
     </Hour>
     <Hour name="16:00">
-      <Teacher name="Debashish   Bose[20500200]"></Teacher><Subject name="MAT184"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Lal Mohan Saha[20500014]"></Teacher><Subject name="MAT280"></Subject><Activity_Tag name="B113"></Activity_Tag><Room name="B113"></Room>
     </Hour>
     <Hour name="16:30">
-      <Teacher name="Debashish   Bose[20500200]"></Teacher><Subject name="MAT184"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Lal Mohan Saha[20500014]"></Teacher><Subject name="MAT280"></Subject><Activity_Tag name="B113"></Activity_Tag><Room name="B113"></Room>
     </Hour>
     <Hour name="17:00">
-      <Teacher name="Debashish   Bose[20500200]"></Teacher><Subject name="MAT184"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="17:30">
      
@@ -12060,13 +12060,13 @@
       <Teacher name="Aakash  Kishore Sinha[20500738]"></Teacher> <Teacher name="Meera  visvanathan[20500357]"></Teacher> <Teacher name="Sudeshna  Guha[20500519]"></Teacher> <Teacher name="Anita  Sharma[20501003]"></Teacher> <Teacher name="Sailesh Narayan Behera[20500422]"></Teacher> <Teacher name="Jagabandhu  Dixit[20500135]"></Teacher> <Teacher name="Debopam  Acharya[20500192]"></Teacher> <Teacher name="Charu  Sharma[20500010]"></Teacher> <Teacher name="Neha  Gupta[20500087]"></Teacher> <Teacher name="Jyoti Singh Kirar[20500802]"></Teacher> <Teacher name="Deepak  Sehgal[20500085]"></Teacher> <Teacher name="Soumya   Pati[20500398]"></Teacher> <Teacher name="Naga Suresh Veerapu[20500209]"></Teacher> <Teacher name="Richa  Priyadarshini[20500150]"></Teacher> <Teacher name="Susanta Sinha Roy[20500095]"></Teacher> <Teacher name="Jyoti Shharma"></Teacher><Subject name="CCC515"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="CCC"></Activity_Tag>
     </Hour>
     <Hour name="10:30">
-      <Teacher name="Sudeepto  Bhattacharya[20500090]"></Teacher><Subject name="MAT240"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Debashish   Bose[20500200]"></Teacher><Subject name="MAT184"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="Sudeepto  Bhattacharya[20500090]"></Teacher><Subject name="MAT240"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Debashish   Bose[20500200]"></Teacher><Subject name="MAT184"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="11:30">
-      <Teacher name="Sudeepto  Bhattacharya[20500090]"></Teacher><Subject name="MAT240"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Debashish   Bose[20500200]"></Teacher><Subject name="MAT184"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="12:00">
      
@@ -12087,16 +12087,16 @@
       <Teacher name="Sanjeev  Agrawal[20500033]"></Teacher><Subject name="MAT220"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
     </Hour>
     <Hour name="15:00">
-      <Teacher name="Lal Mohan Saha[20500014]"></Teacher><Subject name="MAT280"></Subject><Activity_Tag name="B113"></Activity_Tag><Room name="B113"></Room>
+      <Teacher name="Satyanarayana  Reddy[20500099]"></Teacher><Subject name="MAT440"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
     </Hour>
     <Hour name="15:30">
-      <Teacher name="Lal Mohan Saha[20500014]"></Teacher><Subject name="MAT280"></Subject><Activity_Tag name="B113"></Activity_Tag><Room name="B113"></Room>
+      <Teacher name="Satyanarayana  Reddy[20500099]"></Teacher><Subject name="MAT440"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
     </Hour>
     <Hour name="16:00">
-      <Teacher name="Lal Mohan Saha[20500014]"></Teacher><Subject name="MAT280"></Subject><Activity_Tag name="B113"></Activity_Tag><Room name="B113"></Room>
+      <Teacher name="Sudeepto  Bhattacharya[20500090]"></Teacher><Subject name="MAT240"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
     </Hour>
     <Hour name="16:30">
-      <Teacher name="Lal Mohan Saha[20500014]"></Teacher><Subject name="MAT280"></Subject><Activity_Tag name="B113"></Activity_Tag><Room name="B113"></Room>
+      <Teacher name="Sudeepto  Bhattacharya[20500090]"></Teacher><Subject name="MAT240"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
     </Hour>
     <Hour name="17:00">
      
@@ -12122,10 +12122,10 @@
       <Teacher name="Pooja  Malik[20500448]"></Teacher><Subject name="CSD101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag>
     </Hour>
     <Hour name="10:30">
-      <Teacher name="Lal Mohan Saha[20500014]"></Teacher><Subject name="MAT280"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Satyanarayana  Reddy[20500099]"></Teacher><Subject name="MAT440"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="Lal Mohan Saha[20500014]"></Teacher><Subject name="MAT280"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Satyanarayana  Reddy[20500099]"></Teacher><Subject name="MAT440"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="11:30">
       <Teacher name="Sanjeev  Agrawal[20500033]"></Teacher><Subject name="MAT220"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
@@ -12143,25 +12143,25 @@
       <Teacher name="LunchMAT2"></Teacher><Subject name="Lunch"></Subject>
     </Hour>
     <Hour name="14:00">
-      <Teacher name="Satyanarayana  Reddy[20500099]"></Teacher><Subject name="MAT440"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Lal Mohan Saha[20500014]"></Teacher><Subject name="MAT280"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="14:30">
-      <Teacher name="Satyanarayana  Reddy[20500099]"></Teacher><Subject name="MAT440"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Lal Mohan Saha[20500014]"></Teacher><Subject name="MAT280"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="15:00">
-      <Teacher name="Sudeepto  Bhattacharya[20500090]"></Teacher><Subject name="MAT240"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
+      <Teacher name="Sudeepto  Bhattacharya[20500090]"></Teacher><Subject name="MAT240"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="15:30">
-      <Teacher name="Sudeepto  Bhattacharya[20500090]"></Teacher><Subject name="MAT240"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
+      <Teacher name="Sudeepto  Bhattacharya[20500090]"></Teacher><Subject name="MAT240"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="16:00">
-      <Teacher name="Debashish   Bose[20500200]"></Teacher><Subject name="MAT184"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Sudeepto  Bhattacharya[20500090]"></Teacher><Subject name="MAT240"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="16:30">
-      <Teacher name="Debashish   Bose[20500200]"></Teacher><Subject name="MAT184"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="17:00">
-      <Teacher name="Debashish   Bose[20500200]"></Teacher><Subject name="MAT184"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="17:30">
      
@@ -17490,43 +17490,43 @@
      
     </Hour>
     <Hour name="10:30">
-     
+      <Teacher name="Amber  Habib[20500009]"></Teacher><Subject name="MAT390"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="ECO301Instructor"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
+      <Teacher name="Amber  Habib[20500009]"></Teacher><Subject name="MAT390"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="11:30">
       <Teacher name="ECO301Instructor"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
     </Hour>
     <Hour name="12:00">
-      <Teacher name="Neha  Gupta[20500087]"></Teacher><Subject name="MAT360"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="ECO301Instructor"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
     </Hour>
     <Hour name="12:30">
-      <Teacher name="Neha  Gupta[20500087]"></Teacher><Subject name="MAT360"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="LunchMAT3"></Teacher><Subject name="Lunch"></Subject>
     </Hour>
     <Hour name="13:00">
       <Teacher name="LunchMAT3"></Teacher><Subject name="Lunch"></Subject>
     </Hour>
     <Hour name="13:30">
-      <Teacher name="LunchMAT3"></Teacher><Subject name="Lunch"></Subject>
+     
     </Hour>
     <Hour name="14:00">
-      <Teacher name="Amber  Habib[20500009]"></Teacher><Subject name="MAT390"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Neha  Gupta[20500087]"></Teacher><Subject name="MAT360"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="14:30">
-      <Teacher name="Amber  Habib[20500009]"></Teacher><Subject name="MAT390"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Neha  Gupta[20500087]"></Teacher><Subject name="MAT360"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="15:00">
-      <Teacher name="Amber  Habib[20500009]"></Teacher><Subject name="MAT390"></Subject><Activity_Tag name="B113"></Activity_Tag><Room name="B113"></Room>
+     
     </Hour>
     <Hour name="15:30">
-      <Teacher name="Amber  Habib[20500009]"></Teacher><Subject name="MAT390"></Subject><Activity_Tag name="B113"></Activity_Tag><Room name="B113"></Room>
+      <Teacher name="Neha  Gupta[20500087]"></Teacher><Subject name="MAT360"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
     </Hour>
     <Hour name="16:00">
-      <Teacher name="Amber  Habib[20500009]"></Teacher><Subject name="MAT390"></Subject><Activity_Tag name="B113"></Activity_Tag><Room name="B113"></Room>
+      <Teacher name="Neha  Gupta[20500087]"></Teacher><Subject name="MAT360"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
     </Hour>
     <Hour name="16:30">
-      <Teacher name="Amber  Habib[20500009]"></Teacher><Subject name="MAT390"></Subject><Activity_Tag name="B113"></Activity_Tag><Room name="B113"></Room>
+     
     </Hour>
     <Hour name="17:00">
      
@@ -17552,34 +17552,34 @@
       <Teacher name="Aakash  Kishore Sinha[20500738]"></Teacher> <Teacher name="Meera  visvanathan[20500357]"></Teacher> <Teacher name="Sudeshna  Guha[20500519]"></Teacher> <Teacher name="Anita  Sharma[20501003]"></Teacher> <Teacher name="Sailesh Narayan Behera[20500422]"></Teacher> <Teacher name="Jagabandhu  Dixit[20500135]"></Teacher> <Teacher name="Debopam  Acharya[20500192]"></Teacher> <Teacher name="Charu  Sharma[20500010]"></Teacher> <Teacher name="Neha  Gupta[20500087]"></Teacher> <Teacher name="Jyoti Singh Kirar[20500802]"></Teacher> <Teacher name="Deepak  Sehgal[20500085]"></Teacher> <Teacher name="Soumya   Pati[20500398]"></Teacher> <Teacher name="Naga Suresh Veerapu[20500209]"></Teacher> <Teacher name="Richa  Priyadarshini[20500150]"></Teacher> <Teacher name="Susanta Sinha Roy[20500095]"></Teacher> <Teacher name="Jyoti Shharma"></Teacher><Subject name="CCC515"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="CCC"></Activity_Tag>
     </Hour>
     <Hour name="10:30">
-      <Teacher name="Niteesh  Sahni[20500011]"></Teacher><Subject name="MAT494"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Priyanka  Grover[20500411]"></Teacher><Subject name="MAT399"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="Niteesh  Sahni[20500011]"></Teacher><Subject name="MAT494"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Priyanka  Grover[20500411]"></Teacher><Subject name="MAT399"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="11:30">
-      <Teacher name="Niteesh  Sahni[20500011]"></Teacher><Subject name="MAT494"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Priyanka  Grover[20500411]"></Teacher><Subject name="MAT399"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="12:00">
      
     </Hour>
     <Hour name="12:30">
-     
+      <Teacher name="Sudeepto  Bhattacharya[20500090]"></Teacher><Subject name="MAT442"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
     </Hour>
     <Hour name="13:00">
-      <Teacher name="LunchMAT3"></Teacher><Subject name="Lunch"></Subject>
+      <Teacher name="Sudeepto  Bhattacharya[20500090]"></Teacher><Subject name="MAT442"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
     </Hour>
     <Hour name="13:30">
-      <Teacher name="LunchMAT3"></Teacher><Subject name="Lunch"></Subject>
+     
     </Hour>
     <Hour name="14:00">
-      <Teacher name="Sudeepto  Bhattacharya[20500090]"></Teacher><Subject name="MAT442"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="LunchMAT3"></Teacher><Subject name="Lunch"></Subject>
     </Hour>
     <Hour name="14:30">
-      <Teacher name="Sudeepto  Bhattacharya[20500090]"></Teacher><Subject name="MAT442"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="LunchMAT3"></Teacher><Subject name="Lunch"></Subject>
     </Hour>
     <Hour name="15:00">
-      <Teacher name="Sudeepto  Bhattacharya[20500090]"></Teacher><Subject name="MAT442"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="15:30">
      
@@ -17611,22 +17611,22 @@
       <Teacher name="Samit   Bhattacharyya[20500432]"></Teacher><Subject name="MAT330"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="Niteesh  Sahni[20500011]"></Teacher><Subject name="MAT494"></Subject><Activity_Tag name="D313"></Activity_Tag><Room name="D313"></Room>
+     
     </Hour>
     <Hour name="10:30">
-      <Teacher name="Niteesh  Sahni[20500011]"></Teacher><Subject name="MAT494"></Subject><Activity_Tag name="D313"></Activity_Tag><Room name="D313"></Room>
+      <Teacher name="Amber  Habib[20500009]"></Teacher><Subject name="MAT390"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="Niteesh  Sahni[20500011]"></Teacher><Subject name="MAT494"></Subject><Activity_Tag name="D313"></Activity_Tag><Room name="D313"></Room>
+      <Teacher name="Amber  Habib[20500009]"></Teacher><Subject name="MAT390"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="11:30">
-      <Teacher name="Niteesh  Sahni[20500011]"></Teacher><Subject name="MAT494"></Subject><Activity_Tag name="D313"></Activity_Tag><Room name="D313"></Room>
+     
     </Hour>
     <Hour name="12:00">
-      <Teacher name="Neha  Gupta[20500087]"></Teacher><Subject name="MAT360"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="12:30">
-      <Teacher name="Neha  Gupta[20500087]"></Teacher><Subject name="MAT360"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="13:00">
       <Teacher name="LunchMAT3"></Teacher><Subject name="Lunch"></Subject>
@@ -17635,10 +17635,10 @@
       <Teacher name="LunchMAT3"></Teacher><Subject name="Lunch"></Subject>
     </Hour>
     <Hour name="14:00">
-      <Teacher name="Amber  Habib[20500009]"></Teacher><Subject name="MAT390"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Neha  Gupta[20500087]"></Teacher><Subject name="MAT360"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="14:30">
-      <Teacher name="Amber  Habib[20500009]"></Teacher><Subject name="MAT390"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Neha  Gupta[20500087]"></Teacher><Subject name="MAT360"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="15:00">
      
@@ -17676,13 +17676,13 @@
       <Teacher name="Aakash  Kishore Sinha[20500738]"></Teacher> <Teacher name="Meera  visvanathan[20500357]"></Teacher> <Teacher name="Sudeshna  Guha[20500519]"></Teacher> <Teacher name="Anita  Sharma[20501003]"></Teacher> <Teacher name="Sailesh Narayan Behera[20500422]"></Teacher> <Teacher name="Jagabandhu  Dixit[20500135]"></Teacher> <Teacher name="Debopam  Acharya[20500192]"></Teacher> <Teacher name="Charu  Sharma[20500010]"></Teacher> <Teacher name="Neha  Gupta[20500087]"></Teacher> <Teacher name="Jyoti Singh Kirar[20500802]"></Teacher> <Teacher name="Deepak  Sehgal[20500085]"></Teacher> <Teacher name="Soumya   Pati[20500398]"></Teacher> <Teacher name="Naga Suresh Veerapu[20500209]"></Teacher> <Teacher name="Richa  Priyadarshini[20500150]"></Teacher> <Teacher name="Susanta Sinha Roy[20500095]"></Teacher> <Teacher name="Jyoti Shharma"></Teacher><Subject name="CCC515"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="CCC"></Activity_Tag>
     </Hour>
     <Hour name="10:30">
-      <Teacher name="Niteesh  Sahni[20500011]"></Teacher><Subject name="MAT494"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Priyanka  Grover[20500411]"></Teacher><Subject name="MAT399"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="Niteesh  Sahni[20500011]"></Teacher><Subject name="MAT494"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Priyanka  Grover[20500411]"></Teacher><Subject name="MAT399"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="11:30">
-      <Teacher name="Niteesh  Sahni[20500011]"></Teacher><Subject name="MAT494"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Priyanka  Grover[20500411]"></Teacher><Subject name="MAT399"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="12:00">
      
@@ -17697,22 +17697,22 @@
      
     </Hour>
     <Hour name="14:00">
-      <Teacher name="Sudeepto  Bhattacharya[20500090]"></Teacher><Subject name="MAT442"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Samit   Bhattacharyya[20500432]"></Teacher><Subject name="MAT330"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
     </Hour>
     <Hour name="14:30">
-      <Teacher name="Sudeepto  Bhattacharya[20500090]"></Teacher><Subject name="MAT442"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Samit   Bhattacharyya[20500432]"></Teacher><Subject name="MAT330"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
     </Hour>
     <Hour name="15:00">
-      <Teacher name="Sudeepto  Bhattacharya[20500090]"></Teacher><Subject name="MAT442"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Amber  Habib[20500009]"></Teacher><Subject name="MAT390"></Subject><Activity_Tag name="B113"></Activity_Tag><Room name="B113"></Room>
     </Hour>
     <Hour name="15:30">
-      <Teacher name="Sudeepto  Bhattacharya[20500090]"></Teacher><Subject name="MAT442"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
+      <Teacher name="Amber  Habib[20500009]"></Teacher><Subject name="MAT390"></Subject><Activity_Tag name="B113"></Activity_Tag><Room name="B113"></Room>
     </Hour>
     <Hour name="16:00">
-      <Teacher name="Sudeepto  Bhattacharya[20500090]"></Teacher><Subject name="MAT442"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
+      <Teacher name="Amber  Habib[20500009]"></Teacher><Subject name="MAT390"></Subject><Activity_Tag name="B113"></Activity_Tag><Room name="B113"></Room>
     </Hour>
     <Hour name="16:30">
-     
+      <Teacher name="Amber  Habib[20500009]"></Teacher><Subject name="MAT390"></Subject><Activity_Tag name="B113"></Activity_Tag><Room name="B113"></Room>
     </Hour>
     <Hour name="17:00">
      
@@ -17735,22 +17735,22 @@
       <Teacher name="Samit   Bhattacharyya[20500432]"></Teacher><Subject name="MAT330"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="Samit   Bhattacharyya[20500432]"></Teacher><Subject name="MAT330"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:30">
-      <Teacher name="Samit   Bhattacharyya[20500432]"></Teacher><Subject name="MAT330"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
+      <Teacher name="Amber  Habib[20500009]"></Teacher><Subject name="MAT390"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="Neha  Gupta[20500087]"></Teacher><Subject name="MAT360"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
+      <Teacher name="Amber  Habib[20500009]"></Teacher><Subject name="MAT390"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="11:30">
-      <Teacher name="Neha  Gupta[20500087]"></Teacher><Subject name="MAT360"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
+     
     </Hour>
     <Hour name="12:00">
-      <Teacher name="Neha  Gupta[20500087]"></Teacher><Subject name="MAT360"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="12:30">
-      <Teacher name="Neha  Gupta[20500087]"></Teacher><Subject name="MAT360"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="13:00">
       <Teacher name="LunchMAT3"></Teacher><Subject name="Lunch"></Subject>
@@ -17759,10 +17759,10 @@
       <Teacher name="LunchMAT3"></Teacher><Subject name="Lunch"></Subject>
     </Hour>
     <Hour name="14:00">
-      <Teacher name="Amber  Habib[20500009]"></Teacher><Subject name="MAT390"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Neha  Gupta[20500087]"></Teacher><Subject name="MAT360"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="14:30">
-      <Teacher name="Amber  Habib[20500009]"></Teacher><Subject name="MAT390"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Neha  Gupta[20500087]"></Teacher><Subject name="MAT360"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="15:00">
      
@@ -17805,13 +17805,13 @@
      
     </Hour>
     <Hour name="11:00">
-      <Teacher name="ECO301Instructor"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:30">
       <Teacher name="ECO301Instructor"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
     </Hour>
     <Hour name="12:00">
-     
+      <Teacher name="ECO301Instructor"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
     </Hour>
     <Hour name="12:30">
       <Teacher name="LunchMED31"></Teacher><Subject name="Lunch"></Subject>
@@ -18117,13 +18117,13 @@
      
     </Hour>
     <Hour name="11:00">
-      <Teacher name="ECO301Instructor"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:30">
       <Teacher name="ECO301Instructor"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
     </Hour>
     <Hour name="12:00">
-     
+      <Teacher name="ECO301Instructor"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
     </Hour>
     <Hour name="12:30">
      
@@ -18417,13 +18417,13 @@
      
     </Hour>
     <Hour name="09:00">
-     
+      <Teacher name="Pradip  Kumar[20500271]"></Teacher><Subject name="MAT160"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="09:30">
       <Teacher name="Pradip  Kumar[20500271]"></Teacher><Subject name="MAT160"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="Pradip  Kumar[20500271]"></Teacher><Subject name="MAT160"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:30">
       <Teacher name="Santosh  Kumar[20500193]"></Teacher><Subject name="PHY303"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
@@ -18541,13 +18541,13 @@
      
     </Hour>
     <Hour name="09:00">
-     
+      <Teacher name="Pradip  Kumar[20500271]"></Teacher><Subject name="MAT160"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="09:30">
       <Teacher name="Pradip  Kumar[20500271]"></Teacher><Subject name="MAT160"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="Pradip  Kumar[20500271]"></Teacher><Subject name="MAT160"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:30">
       <Teacher name="Pradip  Kumar[20500271]"></Teacher><Subject name="MAT160"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
@@ -18665,13 +18665,13 @@
      
     </Hour>
     <Hour name="09:00">
-     
+      <Teacher name="Pradip  Kumar[20500271]"></Teacher><Subject name="MAT160"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="09:30">
       <Teacher name="Pradip  Kumar[20500271]"></Teacher><Subject name="MAT160"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="Pradip  Kumar[20500271]"></Teacher><Subject name="MAT160"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:30">
       <Teacher name="Santosh  Kumar[20500193]"></Teacher><Subject name="PHY303"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
@@ -19677,13 +19677,13 @@
       <Teacher name="Sailesh Narayan Behera[20500422]"></Teacher><Subject name="CED307"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="ECO301Instructor"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:30">
       <Teacher name="ECO301Instructor"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
     </Hour>
     <Hour name="12:00">
-     
+      <Teacher name="ECO301Instructor"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
     </Hour>
     <Hour name="12:30">
      
@@ -22797,28 +22797,28 @@
      
     </Hour>
     <Hour name="11:00">
-      <Teacher name="ECO301Instructor"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:30">
       <Teacher name="ECO301Instructor"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
     </Hour>
     <Hour name="12:00">
-     
+      <Teacher name="ECO301Instructor"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
     </Hour>
     <Hour name="12:30">
      
     </Hour>
     <Hour name="13:00">
-     
+      <Teacher name="LunchMAT4"></Teacher><Subject name="Lunch"></Subject>
     </Hour>
     <Hour name="13:30">
-     
+      <Teacher name="LunchMAT4"></Teacher><Subject name="Lunch"></Subject>
     </Hour>
     <Hour name="14:00">
-      <Teacher name="LunchMAT4"></Teacher><Subject name="Lunch"></Subject>
+     
     </Hour>
     <Hour name="14:30">
-      <Teacher name="LunchMAT4"></Teacher><Subject name="Lunch"></Subject>
+     
     </Hour>
     <Hour name="15:00">
      
@@ -22868,13 +22868,13 @@
      
     </Hour>
     <Hour name="12:30">
-     
+      <Teacher name="LunchMAT4"></Teacher><Subject name="Lunch"></Subject>
     </Hour>
     <Hour name="13:00">
       <Teacher name="LunchMAT4"></Teacher><Subject name="Lunch"></Subject>
     </Hour>
     <Hour name="13:30">
-      <Teacher name="LunchMAT4"></Teacher><Subject name="Lunch"></Subject>
+     
     </Hour>
     <Hour name="14:00">
      
@@ -22933,13 +22933,13 @@
      
     </Hour>
     <Hour name="13:00">
-      <Teacher name="LunchMAT4"></Teacher><Subject name="Lunch"></Subject>
+     
     </Hour>
     <Hour name="13:30">
       <Teacher name="LunchMAT4"></Teacher><Subject name="Lunch"></Subject>
     </Hour>
     <Hour name="14:00">
-     
+      <Teacher name="LunchMAT4"></Teacher><Subject name="Lunch"></Subject>
     </Hour>
     <Hour name="14:30">
      
@@ -23054,19 +23054,19 @@
      
     </Hour>
     <Hour name="12:30">
-     
+      <Teacher name="LunchMAT4"></Teacher><Subject name="Lunch"></Subject>
     </Hour>
     <Hour name="13:00">
-     
+      <Teacher name="LunchMAT4"></Teacher><Subject name="Lunch"></Subject>
     </Hour>
     <Hour name="13:30">
      
     </Hour>
     <Hour name="14:00">
-      <Teacher name="LunchMAT4"></Teacher><Subject name="Lunch"></Subject>
+     
     </Hour>
     <Hour name="14:30">
-      <Teacher name="LunchMAT4"></Teacher><Subject name="Lunch"></Subject>
+     
     </Hour>
     <Hour name="15:00">
      
