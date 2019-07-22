@@ -4198,10 +4198,10 @@
       <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="10:30">
-      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:00">
-      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:30">
      
@@ -4346,10 +4346,10 @@
      
     </Hour>
     <Hour name="14:30">
-     
+      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
     </Hour>
     <Hour name="15:00">
-     
+      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
     </Hour>
     <Hour name="15:30">
      
@@ -5199,10 +5199,10 @@
      
     </Hour>
     <Hour name="11:00">
-     
+      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="TUT2"></Activity_Tag>
     </Hour>
     <Hour name="11:30">
-     
+      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="TUT2"></Activity_Tag>
     </Hour>
     <Hour name="12:00">
      
@@ -5255,10 +5255,10 @@
      
     </Hour>
     <Hour name="10:00">
-      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="TUT2"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:30">
-      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="TUT2"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:00">
      
@@ -7383,10 +7383,10 @@
      
     </Hour>
     <Hour name="11:00">
-     
+      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="TUT2"></Activity_Tag>
     </Hour>
     <Hour name="11:30">
-     
+      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="TUT2"></Activity_Tag>
     </Hour>
     <Hour name="12:00">
      
@@ -7439,10 +7439,10 @@
      
     </Hour>
     <Hour name="10:00">
-      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="TUT2"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:30">
-      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="TUT2"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:00">
      
@@ -10317,13 +10317,13 @@
      
     </Hour>
     <Hour name="11:00">
-      <Teacher name="ECO301Instructor"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:30">
-      <Teacher name="ECO301Instructor"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="12:00">
-      <Teacher name="ECO301Instructor"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="12:30">
      
@@ -10423,10 +10423,10 @@
    </Day>
    <Day name="W">
     <Hour name="08:00">
-     
+      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
     </Hour>
     <Hour name="08:30">
-     
+      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
     </Hour>
     <Hour name="09:00">
       <Teacher name="Pradip  Kumar[20500271]"></Teacher><Subject name="MAT160"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
@@ -10465,16 +10465,16 @@
      
     </Hour>
     <Hour name="15:00">
-      <Teacher name="ECO301Instructor"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
+     
     </Hour>
     <Hour name="15:30">
-      <Teacher name="ECO301Instructor"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
+      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="16:00">
-     
+      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="16:30">
-     
+      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="17:00">
      
@@ -10565,13 +10565,13 @@
      
     </Hour>
     <Hour name="11:00">
-      <Teacher name="ECO301Instructor"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:30">
-      <Teacher name="ECO301Instructor"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="12:00">
-      <Teacher name="ECO301Instructor"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="12:30">
      
@@ -10592,13 +10592,13 @@
      
     </Hour>
     <Hour name="15:30">
-     
+      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="16:00">
-     
+      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="16:30">
-     
+      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="17:00">
      
@@ -15495,10 +15495,10 @@
      
     </Hour>
     <Hour name="11:00">
-     
+      <Teacher name="ECO213Instructor"></Teacher><Subject name="ECO213"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
     </Hour>
     <Hour name="11:30">
-     
+      <Teacher name="ECO213Instructor"></Teacher><Subject name="ECO213"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
     </Hour>
     <Hour name="12:00">
      
@@ -15513,10 +15513,10 @@
      
     </Hour>
     <Hour name="14:00">
-      <Teacher name="ECO213Instructor"></Teacher><Subject name="ECO213"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
+     
     </Hour>
     <Hour name="14:30">
-      <Teacher name="ECO213Instructor"></Teacher><Subject name="ECO213"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
+     
     </Hour>
     <Hour name="15:00">
       <Teacher name="Prem Chand  Jain[20500148]"></Teacher><Subject name="EED304"></Subject><Activity_Tag name="C209"></Activity_Tag>
@@ -15807,10 +15807,10 @@
      
     </Hour>
     <Hour name="11:00">
-     
+      <Teacher name="ECO213Instructor"></Teacher><Subject name="ECO213"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
     </Hour>
     <Hour name="11:30">
-     
+      <Teacher name="ECO213Instructor"></Teacher><Subject name="ECO213"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
     </Hour>
     <Hour name="12:00">
      
@@ -15825,10 +15825,10 @@
      
     </Hour>
     <Hour name="14:00">
-      <Teacher name="ECO213Instructor"></Teacher><Subject name="ECO213"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
+     
     </Hour>
     <Hour name="14:30">
-      <Teacher name="ECO213Instructor"></Teacher><Subject name="ECO213"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
+     
     </Hour>
     <Hour name="15:00">
      
@@ -15924,13 +15924,13 @@
      
     </Hour>
     <Hour name="09:30">
-      <Teacher name="ECO415Instructor"></Teacher><Subject name="ECO415"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="ECO213Instructor"></Teacher><Subject name="ECO415"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="ECO415Instructor"></Teacher><Subject name="ECO415"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="ECO213Instructor"></Teacher><Subject name="ECO415"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="10:30">
-      <Teacher name="ECO415Instructor"></Teacher><Subject name="ECO415"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="ECO213Instructor"></Teacher><Subject name="ECO415"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="11:00">
      
@@ -15939,13 +15939,13 @@
      
     </Hour>
     <Hour name="12:00">
-     
+      <Teacher name="Kurt Horner"></Teacher><Subject name="ECO422"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="12:30">
-      <Teacher name="Amrita Ghosh Dastidar[20500943]"></Teacher><Subject name="ECO367"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Kurt Horner"></Teacher><Subject name="ECO422"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="13:00">
-      <Teacher name="Amrita Ghosh Dastidar[20500943]"></Teacher><Subject name="ECO367"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Kurt Horner"></Teacher><Subject name="ECO422"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="13:30">
      
@@ -15957,13 +15957,13 @@
       <Teacher name="LunchECO3"></Teacher><Subject name="Lunch"></Subject>
     </Hour>
     <Hour name="15:00">
-      <Teacher name="Kurt Horner"></Teacher><Subject name="ECO402"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Amrita Ghosh Dastidar[20500943]"></Teacher><Subject name="ECO367"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="15:30">
-      <Teacher name="Kurt Horner"></Teacher><Subject name="ECO402"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Amrita Ghosh Dastidar[20500943]"></Teacher><Subject name="ECO367"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="16:00">
-      <Teacher name="Kurt Horner"></Teacher><Subject name="ECO402"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="16:30">
      
@@ -16001,13 +16001,13 @@
       <Teacher name="Sanjeev  Agrawal[20500033]"></Teacher><Subject name="MAT422"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="12:00">
-     
+      <Teacher name="Arka Roy Chaudhuri"></Teacher><Subject name="ECO403"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="12:30">
-     
+      <Teacher name="Arka Roy Chaudhuri"></Teacher><Subject name="ECO403"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="13:00">
-     
+      <Teacher name="Arka Roy Chaudhuri"></Teacher><Subject name="ECO403"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="13:30">
       <Teacher name="LunchECO3"></Teacher><Subject name="Lunch"></Subject>
@@ -16016,16 +16016,16 @@
       <Teacher name="LunchECO3"></Teacher><Subject name="Lunch"></Subject>
     </Hour>
     <Hour name="14:30">
-      <Teacher name="Kurt Horner"></Teacher><Subject name="ECO422"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="15:00">
-      <Teacher name="Kurt Horner"></Teacher><Subject name="ECO422"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Kurt Horner"></Teacher> <Teacher name="Partha  Chatterjee[20500194]"></Teacher><Subject name="ECO402"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="15:30">
-      <Teacher name="Kurt Horner"></Teacher><Subject name="ECO422"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Kurt Horner"></Teacher> <Teacher name="Partha  Chatterjee[20500194]"></Teacher><Subject name="ECO402"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="16:00">
-     
+      <Teacher name="Kurt Horner"></Teacher> <Teacher name="Partha  Chatterjee[20500194]"></Teacher><Subject name="ECO402"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="16:30">
       <Teacher name="Iman Kumar Mitra[20501006]"></Teacher><Subject name="HIS314"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
@@ -16057,19 +16057,19 @@
       <Teacher name="Sanjeev  Agrawal[20500033]"></Teacher><Subject name="MAT422"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="Arka Roy Chaudhuri"></Teacher><Subject name="ECO403"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:30">
-      <Teacher name="Arka Roy Chaudhuri"></Teacher><Subject name="ECO403"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="12:00">
-      <Teacher name="Arka Roy Chaudhuri"></Teacher><Subject name="ECO403"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Kurt Horner"></Teacher><Subject name="ECO422"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="12:30">
-      <Teacher name="Amrita Ghosh Dastidar[20500943]"></Teacher><Subject name="ECO367"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Kurt Horner"></Teacher><Subject name="ECO422"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="13:00">
-      <Teacher name="Amrita Ghosh Dastidar[20500943]"></Teacher><Subject name="ECO367"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Kurt Horner"></Teacher><Subject name="ECO422"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="13:30">
       <Teacher name="LunchECO3"></Teacher><Subject name="Lunch"></Subject>
@@ -16081,10 +16081,10 @@
      
     </Hour>
     <Hour name="15:00">
-     
+      <Teacher name="Amrita Ghosh Dastidar[20500943]"></Teacher><Subject name="ECO367"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="15:30">
-     
+      <Teacher name="Amrita Ghosh Dastidar[20500943]"></Teacher><Subject name="ECO367"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="16:00">
       <Teacher name="Iman Kumar Mitra[20501006]"></Teacher><Subject name="HIS314"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
@@ -16140,16 +16140,16 @@
      
     </Hour>
     <Hour name="14:30">
-      <Teacher name="Kurt Horner"></Teacher><Subject name="ECO422"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="15:00">
-      <Teacher name="Kurt Horner"></Teacher><Subject name="ECO422"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Kurt Horner"></Teacher> <Teacher name="Partha  Chatterjee[20500194]"></Teacher><Subject name="ECO402"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="15:30">
-      <Teacher name="Kurt Horner"></Teacher><Subject name="ECO422"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Kurt Horner"></Teacher> <Teacher name="Partha  Chatterjee[20500194]"></Teacher><Subject name="ECO402"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="16:00">
-     
+      <Teacher name="Kurt Horner"></Teacher> <Teacher name="Partha  Chatterjee[20500194]"></Teacher><Subject name="ECO402"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="16:30">
       <Teacher name="Iman Kumar Mitra[20501006]"></Teacher><Subject name="HIS314"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
@@ -16172,28 +16172,28 @@
      
     </Hour>
     <Hour name="09:30">
-      <Teacher name="ECO415Instructor"></Teacher><Subject name="ECO415"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="ECO213Instructor"></Teacher><Subject name="ECO415"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="ECO415Instructor"></Teacher><Subject name="ECO415"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="ECO213Instructor"></Teacher><Subject name="ECO415"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="10:30">
-      <Teacher name="ECO415Instructor"></Teacher><Subject name="ECO415"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="ECO213Instructor"></Teacher><Subject name="ECO415"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="Arka Roy Chaudhuri"></Teacher><Subject name="ECO403"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:30">
-      <Teacher name="Arka Roy Chaudhuri"></Teacher><Subject name="ECO403"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="12:00">
       <Teacher name="Arka Roy Chaudhuri"></Teacher><Subject name="ECO403"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="12:30">
-      <Teacher name="Amrita Ghosh Dastidar[20500943]"></Teacher><Subject name="ECO367"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Arka Roy Chaudhuri"></Teacher><Subject name="ECO403"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="13:00">
-      <Teacher name="Amrita Ghosh Dastidar[20500943]"></Teacher><Subject name="ECO367"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Arka Roy Chaudhuri"></Teacher><Subject name="ECO403"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="13:30">
      
@@ -16205,13 +16205,13 @@
       <Teacher name="LunchECO3"></Teacher><Subject name="Lunch"></Subject>
     </Hour>
     <Hour name="15:00">
-      <Teacher name="Kurt Horner"></Teacher><Subject name="ECO402"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Amrita Ghosh Dastidar[20500943]"></Teacher><Subject name="ECO367"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="15:30">
-      <Teacher name="Kurt Horner"></Teacher><Subject name="ECO402"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Amrita Ghosh Dastidar[20500943]"></Teacher><Subject name="ECO367"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="16:00">
-      <Teacher name="Kurt Horner"></Teacher><Subject name="ECO402"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="16:30">
      
@@ -17599,10 +17599,10 @@
    </Day>
    <Day name="W">
     <Hour name="08:00">
-     
+      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
     </Hour>
     <Hour name="08:30">
-     
+      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
     </Hour>
     <Hour name="09:00">
       <Teacher name="Samit   Bhattacharyya[20500432]"></Teacher><Subject name="MAT330"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
@@ -17641,10 +17641,10 @@
       <Teacher name="Amber  Habib[20500009]"></Teacher><Subject name="MAT390"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="15:00">
-      <Teacher name="ECO301Instructor"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
+     
     </Hour>
     <Hour name="15:30">
-      <Teacher name="ECO301Instructor"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
+     
     </Hour>
     <Hour name="16:00">
      
@@ -17805,13 +17805,13 @@
      
     </Hour>
     <Hour name="11:00">
-      <Teacher name="ECO301Instructor"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:30">
-      <Teacher name="ECO301Instructor"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="12:00">
-      <Teacher name="ECO301Instructor"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="12:30">
       <Teacher name="LunchMED31"></Teacher><Subject name="Lunch"></Subject>
@@ -17911,10 +17911,10 @@
    </Day>
    <Day name="W">
     <Hour name="08:00">
-     
+      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
     </Hour>
     <Hour name="08:30">
-     
+      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
     </Hour>
     <Hour name="09:00">
       <Teacher name="Ankit  Gupta[20501013]"></Teacher> <Teacher name="Ganeshthangaraj  Ponniah[20500265]"></Teacher><Subject name="MED314"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
@@ -17953,16 +17953,16 @@
      
     </Hour>
     <Hour name="15:00">
-      <Teacher name="ECO301Instructor"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
+     
     </Hour>
     <Hour name="15:30">
-      <Teacher name="ECO301Instructor"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
+      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="16:00">
-     
+      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="16:30">
-     
+      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="17:00">
       <Teacher name="Abhishek  Tewari[20501061]"></Teacher><Subject name="MED303"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
@@ -18053,13 +18053,13 @@
      
     </Hour>
     <Hour name="11:00">
-      <Teacher name="ECO301Instructor"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:30">
-      <Teacher name="ECO301Instructor"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="12:00">
-      <Teacher name="ECO301Instructor"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="12:30">
       <Teacher name="LunchMED31"></Teacher><Subject name="Lunch"></Subject>
@@ -18080,13 +18080,13 @@
       <Teacher name="Ankit  Gupta[20501013]"></Teacher> <Teacher name="Ganeshthangaraj  Ponniah[20500265]"></Teacher><Subject name="MED314"></Subject><Activity_Tag name="D018"></Activity_Tag><Room name="D018"></Room>
     </Hour>
     <Hour name="15:30">
-     
+      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="16:00">
-     
+      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="16:30">
-     
+      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="17:00">
       <Teacher name="Abhishek  Tewari[20501061]"></Teacher><Subject name="MED303"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
@@ -18117,13 +18117,13 @@
      
     </Hour>
     <Hour name="11:00">
-      <Teacher name="ECO301Instructor"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:30">
-      <Teacher name="ECO301Instructor"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="12:00">
-      <Teacher name="ECO301Instructor"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="12:30">
      
@@ -18223,10 +18223,10 @@
    </Day>
    <Day name="W">
     <Hour name="08:00">
-     
+      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
     </Hour>
     <Hour name="08:30">
-     
+      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
     </Hour>
     <Hour name="09:00">
       <Teacher name="Ankit  Gupta[20501013]"></Teacher> <Teacher name="Ganeshthangaraj  Ponniah[20500265]"></Teacher><Subject name="MED314"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
@@ -18265,16 +18265,16 @@
      
     </Hour>
     <Hour name="15:00">
-      <Teacher name="ECO301Instructor"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
+     
     </Hour>
     <Hour name="15:30">
-      <Teacher name="ECO301Instructor"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
+      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="16:00">
-     
+      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="16:30">
-     
+      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="17:00">
       <Teacher name="Abhishek  Tewari[20501061]"></Teacher><Subject name="MED303"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
@@ -18365,13 +18365,13 @@
      
     </Hour>
     <Hour name="11:00">
-      <Teacher name="ECO301Instructor"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:30">
-      <Teacher name="ECO301Instructor"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="12:00">
-      <Teacher name="ECO301Instructor"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="12:30">
       <Teacher name="LunchMED32"></Teacher><Subject name="Lunch"></Subject>
@@ -18392,13 +18392,13 @@
      
     </Hour>
     <Hour name="15:30">
-     
+      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="16:00">
-     
+      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="16:30">
-     
+      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="17:00">
       <Teacher name="Abhishek  Tewari[20501061]"></Teacher><Subject name="MED303"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
@@ -19677,13 +19677,13 @@
       <Teacher name="Sailesh Narayan Behera[20500422]"></Teacher><Subject name="CED307"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="ECO301Instructor"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:30">
-      <Teacher name="ECO301Instructor"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="12:00">
-      <Teacher name="ECO301Instructor"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="12:30">
      
@@ -19783,10 +19783,10 @@
    </Day>
    <Day name="W">
     <Hour name="08:00">
-     
+      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
     </Hour>
     <Hour name="08:30">
-     
+      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
     </Hour>
     <Hour name="09:00">
      
@@ -19825,16 +19825,16 @@
      
     </Hour>
     <Hour name="15:00">
-      <Teacher name="ECO301Instructor"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
+     
     </Hour>
     <Hour name="15:30">
-      <Teacher name="ECO301Instructor"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
+      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="16:00">
-     
+      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="16:30">
-     
+      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="17:00">
      
@@ -19925,13 +19925,13 @@
      
     </Hour>
     <Hour name="11:00">
-      <Teacher name="ECO301Instructor"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:30">
-      <Teacher name="ECO301Instructor"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="12:00">
-      <Teacher name="ECO301Instructor"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="12:30">
      
@@ -19952,13 +19952,13 @@
      
     </Hour>
     <Hour name="15:30">
-     
+      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="16:00">
-     
+      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="16:30">
-     
+      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="17:00">
      
@@ -21555,13 +21555,13 @@
      
     </Hour>
     <Hour name="12:00">
-     
+      <Teacher name="Kurt Horner"></Teacher><Subject name="ECO422"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="12:30">
-      <Teacher name="Amrita Ghosh Dastidar[20500943]"></Teacher><Subject name="ECO367"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Kurt Horner"></Teacher><Subject name="ECO422"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="13:00">
-      <Teacher name="Amrita Ghosh Dastidar[20500943]"></Teacher><Subject name="ECO367"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Kurt Horner"></Teacher><Subject name="ECO422"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="13:30">
       <Teacher name="LunchECO4"></Teacher><Subject name="Lunch"></Subject>
@@ -21573,13 +21573,13 @@
      
     </Hour>
     <Hour name="15:00">
-      <Teacher name="Kurt Horner"></Teacher><Subject name="ECO402"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Amrita Ghosh Dastidar[20500943]"></Teacher><Subject name="ECO367"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="15:30">
-      <Teacher name="Kurt Horner"></Teacher><Subject name="ECO402"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Amrita Ghosh Dastidar[20500943]"></Teacher><Subject name="ECO367"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="16:00">
-      <Teacher name="Kurt Horner"></Teacher><Subject name="ECO402"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="16:30">
      
@@ -21617,13 +21617,13 @@
      
     </Hour>
     <Hour name="12:00">
-     
+      <Teacher name="Arka Roy Chaudhuri"></Teacher><Subject name="ECO403"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="12:30">
-     
+      <Teacher name="Arka Roy Chaudhuri"></Teacher><Subject name="ECO403"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="13:00">
-     
+      <Teacher name="Arka Roy Chaudhuri"></Teacher><Subject name="ECO403"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="13:30">
       <Teacher name="LunchECO4"></Teacher><Subject name="Lunch"></Subject>
@@ -21632,16 +21632,16 @@
       <Teacher name="LunchECO4"></Teacher><Subject name="Lunch"></Subject>
     </Hour>
     <Hour name="14:30">
-      <Teacher name="Kurt Horner"></Teacher><Subject name="ECO422"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="15:00">
-      <Teacher name="Kurt Horner"></Teacher><Subject name="ECO422"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Kurt Horner"></Teacher> <Teacher name="Partha  Chatterjee[20500194]"></Teacher><Subject name="ECO402"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="15:30">
-      <Teacher name="Kurt Horner"></Teacher><Subject name="ECO422"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Kurt Horner"></Teacher> <Teacher name="Partha  Chatterjee[20500194]"></Teacher><Subject name="ECO402"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="16:00">
-     
+      <Teacher name="Kurt Horner"></Teacher> <Teacher name="Partha  Chatterjee[20500194]"></Teacher><Subject name="ECO402"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="16:30">
       <Teacher name="Iman Kumar Mitra[20501006]"></Teacher><Subject name="HIS314"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
@@ -21673,19 +21673,19 @@
      
     </Hour>
     <Hour name="11:00">
-      <Teacher name="Arka Roy Chaudhuri"></Teacher><Subject name="ECO403"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:30">
-      <Teacher name="Arka Roy Chaudhuri"></Teacher><Subject name="ECO403"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="12:00">
-      <Teacher name="Arka Roy Chaudhuri"></Teacher><Subject name="ECO403"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Kurt Horner"></Teacher><Subject name="ECO422"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="12:30">
-      <Teacher name="Amrita Ghosh Dastidar[20500943]"></Teacher><Subject name="ECO367"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Kurt Horner"></Teacher><Subject name="ECO422"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="13:00">
-      <Teacher name="Amrita Ghosh Dastidar[20500943]"></Teacher><Subject name="ECO367"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Kurt Horner"></Teacher><Subject name="ECO422"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="13:30">
       <Teacher name="LunchECO4"></Teacher><Subject name="Lunch"></Subject>
@@ -21697,10 +21697,10 @@
      
     </Hour>
     <Hour name="15:00">
-     
+      <Teacher name="Amrita Ghosh Dastidar[20500943]"></Teacher><Subject name="ECO367"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="15:30">
-     
+      <Teacher name="Amrita Ghosh Dastidar[20500943]"></Teacher><Subject name="ECO367"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="16:00">
       <Teacher name="Iman Kumar Mitra[20501006]"></Teacher><Subject name="HIS314"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
@@ -21756,16 +21756,16 @@
      
     </Hour>
     <Hour name="14:30">
-      <Teacher name="Kurt Horner"></Teacher><Subject name="ECO422"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="15:00">
-      <Teacher name="Kurt Horner"></Teacher><Subject name="ECO422"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Kurt Horner"></Teacher> <Teacher name="Partha  Chatterjee[20500194]"></Teacher><Subject name="ECO402"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="15:30">
-      <Teacher name="Kurt Horner"></Teacher><Subject name="ECO422"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Kurt Horner"></Teacher> <Teacher name="Partha  Chatterjee[20500194]"></Teacher><Subject name="ECO402"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="16:00">
-     
+      <Teacher name="Kurt Horner"></Teacher> <Teacher name="Partha  Chatterjee[20500194]"></Teacher><Subject name="ECO402"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="16:30">
       <Teacher name="Iman Kumar Mitra[20501006]"></Teacher><Subject name="HIS314"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
@@ -21797,19 +21797,19 @@
      
     </Hour>
     <Hour name="11:00">
-      <Teacher name="Arka Roy Chaudhuri"></Teacher><Subject name="ECO403"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:30">
-      <Teacher name="Arka Roy Chaudhuri"></Teacher><Subject name="ECO403"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="12:00">
       <Teacher name="Arka Roy Chaudhuri"></Teacher><Subject name="ECO403"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="12:30">
-      <Teacher name="Amrita Ghosh Dastidar[20500943]"></Teacher><Subject name="ECO367"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Arka Roy Chaudhuri"></Teacher><Subject name="ECO403"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="13:00">
-      <Teacher name="Amrita Ghosh Dastidar[20500943]"></Teacher><Subject name="ECO367"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Arka Roy Chaudhuri"></Teacher><Subject name="ECO403"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="13:30">
      
@@ -21821,13 +21821,13 @@
       <Teacher name="LunchECO4"></Teacher><Subject name="Lunch"></Subject>
     </Hour>
     <Hour name="15:00">
-      <Teacher name="Kurt Horner"></Teacher><Subject name="ECO402"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Amrita Ghosh Dastidar[20500943]"></Teacher><Subject name="ECO367"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="15:30">
-      <Teacher name="Kurt Horner"></Teacher><Subject name="ECO402"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Amrita Ghosh Dastidar[20500943]"></Teacher><Subject name="ECO367"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="16:00">
-      <Teacher name="Kurt Horner"></Teacher><Subject name="ECO402"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="16:30">
      
@@ -22797,13 +22797,13 @@
      
     </Hour>
     <Hour name="11:00">
-      <Teacher name="ECO301Instructor"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:30">
-      <Teacher name="ECO301Instructor"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="12:00">
-      <Teacher name="ECO301Instructor"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="12:30">
      
@@ -22903,10 +22903,10 @@
    </Day>
    <Day name="W">
     <Hour name="08:00">
-     
+      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
     </Hour>
     <Hour name="08:30">
-     
+      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
     </Hour>
     <Hour name="09:00">
      
@@ -22945,16 +22945,16 @@
      
     </Hour>
     <Hour name="15:00">
-      <Teacher name="ECO301Instructor"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
+     
     </Hour>
     <Hour name="15:30">
-      <Teacher name="ECO301Instructor"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
+      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="16:00">
-     
+      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="16:30">
-     
+      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="17:00">
      
@@ -23045,13 +23045,13 @@
      
     </Hour>
     <Hour name="11:00">
-      <Teacher name="ECO301Instructor"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:30">
-      <Teacher name="ECO301Instructor"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="12:00">
-      <Teacher name="ECO301Instructor"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="12:30">
      
@@ -23072,13 +23072,13 @@
      
     </Hour>
     <Hour name="15:30">
-     
+      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="16:00">
-     
+      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="16:30">
-     
+      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="17:00">
      

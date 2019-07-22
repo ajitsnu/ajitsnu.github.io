@@ -3462,10 +3462,10 @@
      
     </Hour>
     <Hour name="12:30">
-     <Subject name="ECO367"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students><Students name="ECO4"></Students>
+     
     </Hour>
     <Hour name="13:00">
-     <Subject name="ECO367"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students><Students name="ECO4"></Students>
+     
     </Hour>
     <Hour name="13:30">
      
@@ -3477,10 +3477,10 @@
      
     </Hour>
     <Hour name="15:00">
-     
+     <Subject name="ECO367"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students><Students name="ECO4"></Students>
     </Hour>
     <Hour name="15:30">
-     
+     <Subject name="ECO367"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students><Students name="ECO4"></Students>
     </Hour>
     <Hour name="16:00">
      
@@ -3586,10 +3586,10 @@
      
     </Hour>
     <Hour name="12:30">
-     <Subject name="ECO367"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students><Students name="ECO4"></Students>
+     
     </Hour>
     <Hour name="13:00">
-     <Subject name="ECO367"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students><Students name="ECO4"></Students>
+     
     </Hour>
     <Hour name="13:30">
      
@@ -3601,10 +3601,10 @@
      
     </Hour>
     <Hour name="15:00">
-     
+     <Subject name="ECO367"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students><Students name="ECO4"></Students>
     </Hour>
     <Hour name="15:30">
-     
+     <Subject name="ECO367"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students><Students name="ECO4"></Students>
     </Hour>
     <Hour name="16:00">
      
@@ -3710,10 +3710,10 @@
      
     </Hour>
     <Hour name="12:30">
-     <Subject name="ECO367"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students><Students name="ECO4"></Students>
+     
     </Hour>
     <Hour name="13:00">
-     <Subject name="ECO367"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students><Students name="ECO4"></Students>
+     
     </Hour>
     <Hour name="13:30">
      
@@ -3725,10 +3725,10 @@
      
     </Hour>
     <Hour name="15:00">
-     
+     <Subject name="ECO367"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students><Students name="ECO4"></Students>
     </Hour>
     <Hour name="15:30">
-     
+     <Subject name="ECO367"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students><Students name="ECO4"></Students>
     </Hour>
     <Hour name="16:00">
      
@@ -5667,13 +5667,13 @@
      
     </Hour>
     <Hour name="16:00">
-     <Subject name="ECO221"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="16:30">
-     <Subject name="ECO221"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="17:00">
-     <Subject name="ECO221"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="17:30">
      
@@ -5699,10 +5699,10 @@
      
     </Hour>
     <Hour name="11:00">
-     <Subject name="ECO221"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:30">
-     <Subject name="ECO221"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
+     
     </Hour>
     <Hour name="12:00">
      
@@ -5720,13 +5720,13 @@
      
     </Hour>
     <Hour name="14:30">
-     
+     <Subject name="ECO221"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="15:00">
-     
+     <Subject name="ECO221"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="15:30">
-     
+     <Subject name="ECO221"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="16:00">
      
@@ -5785,10 +5785,10 @@
      
     </Hour>
     <Hour name="15:00">
-     
+     <Subject name="ECO221"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
     </Hour>
     <Hour name="15:30">
-     
+     <Subject name="ECO221"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
     </Hour>
     <Hour name="16:00">
      
@@ -5844,13 +5844,13 @@
      
     </Hour>
     <Hour name="14:30">
-     
+     <Subject name="ECO221"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="15:00">
-     
+     <Subject name="ECO221"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="15:30">
-     
+     <Subject name="ECO221"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="16:00">
      
@@ -5915,13 +5915,13 @@
      
     </Hour>
     <Hour name="16:00">
-     <Subject name="ECO221"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="16:30">
-     <Subject name="ECO221"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="17:00">
-     <Subject name="ECO221"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="17:30">
      
@@ -6017,13 +6017,13 @@
      
     </Hour>
     <Hour name="12:00">
-     
+     <Subject name="ECO403"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students><Students name="ECO4"></Students>
     </Hour>
     <Hour name="12:30">
-     
+     <Subject name="ECO403"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students><Students name="ECO4"></Students>
     </Hour>
     <Hour name="13:00">
-     
+     <Subject name="ECO403"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students><Students name="ECO4"></Students>
     </Hour>
     <Hour name="13:30">
      
@@ -6073,13 +6073,13 @@
      
     </Hour>
     <Hour name="11:00">
-     <Subject name="ECO403"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students><Students name="ECO4"></Students>
+     
     </Hour>
     <Hour name="11:30">
-     <Subject name="ECO403"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students><Students name="ECO4"></Students>
+     
     </Hour>
     <Hour name="12:00">
-     <Subject name="ECO403"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students><Students name="ECO4"></Students>
+     
     </Hour>
     <Hour name="12:30">
      
@@ -6197,19 +6197,19 @@
      
     </Hour>
     <Hour name="11:00">
-     <Subject name="ECO403"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students><Students name="ECO4"></Students>
+     
     </Hour>
     <Hour name="11:30">
-     <Subject name="ECO403"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students><Students name="ECO4"></Students>
+     
     </Hour>
     <Hour name="12:00">
      <Subject name="ECO403"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students><Students name="ECO4"></Students>
     </Hour>
     <Hour name="12:30">
-     
+     <Subject name="ECO403"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students><Students name="ECO4"></Students>
     </Hour>
     <Hour name="13:00">
-     
+     <Subject name="ECO403"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students><Students name="ECO4"></Students>
     </Hour>
     <Hour name="13:30">
      
@@ -14709,13 +14709,13 @@
      
     </Hour>
     <Hour name="15:00">
-     <Subject name="ECO102"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="15:30">
-     <Subject name="ECO102"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="16:00">
-     <Subject name="ECO102"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="16:30">
      
@@ -14895,13 +14895,13 @@
      
     </Hour>
     <Hour name="15:00">
-     <Subject name="ECO102"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="15:30">
-     <Subject name="ECO102"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="16:00">
-     <Subject name="ECO102"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+     
     </Hour>
     <Hour name="16:30">
      
@@ -14927,10 +14927,10 @@
      
     </Hour>
     <Hour name="10:00">
-     <Subject name="ECO102"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:30">
-     <Subject name="ECO102"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:00">
      
@@ -15118,10 +15118,10 @@
      <Subject name="ECO108"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO1"></Students><Students name="SOC1"></Students><Students name="ENG1"></Students><Students name="INT1"></Students><Students name="HIS1"></Students>
     </Hour>
     <Hour name="10:30">
-     <Subject name="ECO108"></Subject><Activity_Tag name="TUT1"></Activity_Tag><Students name="ECO1"></Students>
+     
     </Hour>
     <Hour name="11:00">
-     <Subject name="ECO108"></Subject><Activity_Tag name="TUT1"></Activity_Tag><Students name="ECO1"></Students>
+     
     </Hour>
     <Hour name="11:30">
      
@@ -15183,10 +15183,10 @@
      
     </Hour>
     <Hour name="11:00">
-     
+     <Subject name="ECO108"></Subject><Activity_Tag name="TUT2"></Activity_Tag><Students name="SOC1"></Students><Students name="ENG1"></Students>
     </Hour>
     <Hour name="11:30">
-     
+     <Subject name="ECO108"></Subject><Activity_Tag name="TUT2"></Activity_Tag><Students name="SOC1"></Students><Students name="ENG1"></Students>
     </Hour>
     <Hour name="12:00">
      
@@ -15239,10 +15239,10 @@
      
     </Hour>
     <Hour name="10:00">
-     <Subject name="ECO108"></Subject><Activity_Tag name="TUT2"></Activity_Tag><Students name="SOC1"></Students><Students name="ENG1"></Students>
+     
     </Hour>
     <Hour name="10:30">
-     <Subject name="ECO108"></Subject><Activity_Tag name="TUT2"></Activity_Tag><Students name="SOC1"></Students><Students name="ENG1"></Students>
+     
     </Hour>
     <Hour name="11:00">
      
@@ -15266,10 +15266,10 @@
      
     </Hour>
     <Hour name="14:30">
-     
+     <Subject name="ECO108"></Subject><Activity_Tag name="TUT1"></Activity_Tag><Students name="ECO1"></Students>
     </Hour>
     <Hour name="15:00">
-     
+     <Subject name="ECO108"></Subject><Activity_Tag name="TUT1"></Activity_Tag><Students name="ECO1"></Students>
     </Hour>
     <Hour name="15:30">
      
@@ -15300,13 +15300,13 @@
      
     </Hour>
     <Hour name="09:30">
-     
+     <Subject name="ECO415"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students>
     </Hour>
     <Hour name="10:00">
-     
+     <Subject name="ECO415"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students>
     </Hour>
     <Hour name="10:30">
-     
+     <Subject name="ECO415"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students>
     </Hour>
     <Hour name="11:00">
      
@@ -15389,10 +15389,10 @@
      
     </Hour>
     <Hour name="14:00">
-     <Subject name="ECO213"></Subject><Activity_Tag name="TUT2"></Activity_Tag>
+     
     </Hour>
     <Hour name="14:30">
-     <Subject name="ECO213"></Subject><Activity_Tag name="TUT2"></Activity_Tag>
+     
     </Hour>
     <Hour name="15:00">
      
@@ -15439,10 +15439,10 @@
      
     </Hour>
     <Hour name="12:00">
-     
+     <Subject name="ECO213"></Subject><Activity_Tag name="TUT2"></Activity_Tag>
     </Hour>
     <Hour name="12:30">
-     
+     <Subject name="ECO213"></Subject><Activity_Tag name="TUT2"></Activity_Tag>
     </Hour>
     <Hour name="13:00">
      
@@ -15495,10 +15495,10 @@
      
     </Hour>
     <Hour name="11:00">
-     
+     <Subject name="ECO213"></Subject><Activity_Tag name="TUT1"></Activity_Tag><Students name="ECE31"></Students><Students name="ECE32"></Students>
     </Hour>
     <Hour name="11:30">
-     
+     <Subject name="ECO213"></Subject><Activity_Tag name="TUT1"></Activity_Tag><Students name="ECE31"></Students><Students name="ECE32"></Students>
     </Hour>
     <Hour name="12:00">
      
@@ -15513,10 +15513,10 @@
      
     </Hour>
     <Hour name="14:00">
-     <Subject name="ECO213"></Subject><Activity_Tag name="TUT1"></Activity_Tag><Students name="ECE31"></Students><Students name="ECE32"></Students>
+     
     </Hour>
     <Hour name="14:30">
-     <Subject name="ECO213"></Subject><Activity_Tag name="TUT1"></Activity_Tag><Students name="ECE31"></Students><Students name="ECE32"></Students>
+     
     </Hour>
     <Hour name="15:00">
      
@@ -15548,13 +15548,13 @@
      
     </Hour>
     <Hour name="09:30">
-     
+     <Subject name="ECO415"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students>
     </Hour>
     <Hour name="10:00">
-     
+     <Subject name="ECO415"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students>
     </Hour>
     <Hour name="10:30">
-     
+     <Subject name="ECO415"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students>
     </Hour>
     <Hour name="11:00">
      
@@ -15621,13 +15621,13 @@
      
     </Hour>
     <Hour name="11:00">
-     <Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO2"></Students><Students name="MAT4"></Students><Students name="MED32"></Students><Students name="CED4"></Students><Students name="MED31"></Students>
+     
     </Hour>
     <Hour name="11:30">
-     <Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO2"></Students><Students name="MAT4"></Students><Students name="MED32"></Students><Students name="CED4"></Students><Students name="MED31"></Students>
+     
     </Hour>
     <Hour name="12:00">
-     <Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO2"></Students><Students name="MAT4"></Students><Students name="MED32"></Students><Students name="CED4"></Students><Students name="MED31"></Students>
+     
     </Hour>
     <Hour name="12:30">
      
@@ -15769,10 +15769,10 @@
      
     </Hour>
     <Hour name="15:00">
-     <Subject name="ECO301"></Subject><Activity_Tag name="TUT1"></Activity_Tag><Students name="MAT3"></Students><Students name="ECO2"></Students><Students name="MAT4"></Students><Students name="MED32"></Students><Students name="CED4"></Students><Students name="MED31"></Students>
+     
     </Hour>
     <Hour name="15:30">
-     <Subject name="ECO301"></Subject><Activity_Tag name="TUT1"></Activity_Tag><Students name="MAT3"></Students><Students name="ECO2"></Students><Students name="MAT4"></Students><Students name="MED32"></Students><Students name="CED4"></Students><Students name="MED31"></Students>
+     
     </Hour>
     <Hour name="16:00">
      
@@ -15869,13 +15869,13 @@
      
     </Hour>
     <Hour name="11:00">
-     <Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO2"></Students><Students name="MAT4"></Students><Students name="MED32"></Students><Students name="CED4"></Students><Students name="MED31"></Students>
+     
     </Hour>
     <Hour name="11:30">
-     <Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO2"></Students><Students name="MAT4"></Students><Students name="MED32"></Students><Students name="CED4"></Students><Students name="MED31"></Students>
+     
     </Hour>
     <Hour name="12:00">
-     <Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO2"></Students><Students name="MAT4"></Students><Students name="MED32"></Students><Students name="CED4"></Students><Students name="MED31"></Students>
+     
     </Hour>
     <Hour name="12:30">
      
@@ -15924,13 +15924,13 @@
      
     </Hour>
     <Hour name="09:30">
-     <Subject name="ECO415"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students>
+     
     </Hour>
     <Hour name="10:00">
-     <Subject name="ECO415"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students>
+     
     </Hour>
     <Hour name="10:30">
-     <Subject name="ECO415"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students>
+     
     </Hour>
     <Hour name="11:00">
      
@@ -16172,13 +16172,13 @@
      
     </Hour>
     <Hour name="09:30">
-     <Subject name="ECO415"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students>
+     
     </Hour>
     <Hour name="10:00">
-     <Subject name="ECO415"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students>
+     
     </Hour>
     <Hour name="10:30">
-     <Subject name="ECO415"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students>
+     
     </Hour>
     <Hour name="11:00">
      
@@ -27795,13 +27795,13 @@
      
     </Hour>
     <Hour name="12:00">
-     
+     <Subject name="ECO422"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students><Students name="ECO4"></Students>
     </Hour>
     <Hour name="12:30">
-     
+     <Subject name="ECO422"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students><Students name="ECO4"></Students>
     </Hour>
     <Hour name="13:00">
-     
+     <Subject name="ECO422"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students><Students name="ECO4"></Students>
     </Hour>
     <Hour name="13:30">
      
@@ -27813,13 +27813,13 @@
      
     </Hour>
     <Hour name="15:00">
-     <Subject name="ECO402"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students><Students name="ECO4"></Students>
+     
     </Hour>
     <Hour name="15:30">
-     <Subject name="ECO402"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students><Students name="ECO4"></Students>
+     
     </Hour>
     <Hour name="16:00">
-     <Subject name="ECO402"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students><Students name="ECO4"></Students>
+     
     </Hour>
     <Hour name="16:30">
      
@@ -27872,16 +27872,16 @@
      
     </Hour>
     <Hour name="14:30">
-     <Subject name="ECO422"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students><Students name="ECO4"></Students>
+     
     </Hour>
     <Hour name="15:00">
-     <Subject name="ECO422"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students><Students name="ECO4"></Students>
+     <Subject name="ECO402"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students><Students name="ECO4"></Students>
     </Hour>
     <Hour name="15:30">
-     <Subject name="ECO422"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students><Students name="ECO4"></Students>
+     <Subject name="ECO402"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students><Students name="ECO4"></Students>
     </Hour>
     <Hour name="16:00">
-     
+     <Subject name="ECO402"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students><Students name="ECO4"></Students>
     </Hour>
     <Hour name="16:30">
      
@@ -27919,13 +27919,13 @@
      
     </Hour>
     <Hour name="12:00">
-     
+     <Subject name="ECO422"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students><Students name="ECO4"></Students>
     </Hour>
     <Hour name="12:30">
-     
+     <Subject name="ECO422"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students><Students name="ECO4"></Students>
     </Hour>
     <Hour name="13:00">
-     
+     <Subject name="ECO422"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students><Students name="ECO4"></Students>
     </Hour>
     <Hour name="13:30">
      
@@ -27996,16 +27996,16 @@
      
     </Hour>
     <Hour name="14:30">
-     <Subject name="ECO422"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students><Students name="ECO4"></Students>
+     
     </Hour>
     <Hour name="15:00">
-     <Subject name="ECO422"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students><Students name="ECO4"></Students>
+     <Subject name="ECO402"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students><Students name="ECO4"></Students>
     </Hour>
     <Hour name="15:30">
-     <Subject name="ECO422"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students><Students name="ECO4"></Students>
+     <Subject name="ECO402"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students><Students name="ECO4"></Students>
     </Hour>
     <Hour name="16:00">
-     
+     <Subject name="ECO402"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students><Students name="ECO4"></Students>
     </Hour>
     <Hour name="16:30">
      
@@ -28061,13 +28061,13 @@
      
     </Hour>
     <Hour name="15:00">
-     <Subject name="ECO402"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students><Students name="ECO4"></Students>
+     
     </Hour>
     <Hour name="15:30">
-     <Subject name="ECO402"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students><Students name="ECO4"></Students>
+     
     </Hour>
     <Hour name="16:00">
-     <Subject name="ECO402"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students><Students name="ECO4"></Students>
+     
     </Hour>
     <Hour name="16:30">
      
@@ -87663,6 +87663,1566 @@
     </Hour>
     <Hour name="16:30">
      <Subject name="CSD402"></Subject><Activity_Tag name="D313"></Activity_Tag><Students name="CSE4"></Students><Room name="D313"></Room>
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="ECO101TA4">
+   <Day name="M">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="08:30">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="09:30">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="11:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="14:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="15:30">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="16:30">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+   </Day>
+   <Day name="T">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="08:30">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="09:30">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="11:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="14:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="15:30">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="16:30">
+     
+    </Hour>
+    <Hour name="17:00">
+     <Subject name="ECO101"></Subject><Activity_Tag name="TUT4"></Activity_Tag>
+    </Hour>
+    <Hour name="17:30">
+     <Subject name="ECO101"></Subject><Activity_Tag name="TUT4"></Activity_Tag>
+    </Hour>
+   </Day>
+   <Day name="W">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="08:30">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="09:30">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="11:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="14:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="15:30">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="16:30">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Th">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="08:30">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="09:30">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="11:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="14:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="15:30">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="16:30">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+   </Day>
+   <Day name="F">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="08:30">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="09:30">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="11:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="14:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="15:30">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="16:30">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="ECO101TA5">
+   <Day name="M">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="08:30">
+     <Subject name="ECO101"></Subject><Activity_Tag name="TUT5"></Activity_Tag>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="ECO101"></Subject><Activity_Tag name="TUT5"></Activity_Tag>
+    </Hour>
+    <Hour name="09:30">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="11:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="14:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="15:30">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="16:30">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+   </Day>
+   <Day name="T">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="08:30">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="09:30">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="11:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="14:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="15:30">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="16:30">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+   </Day>
+   <Day name="W">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="08:30">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="09:30">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="11:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="14:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="15:30">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="16:30">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Th">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="08:30">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="09:30">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="11:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="14:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="15:30">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="16:30">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+   </Day>
+   <Day name="F">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="08:30">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="09:30">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="11:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="14:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="15:30">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="16:30">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Dhritiman Gupta">
+   <Day name="M">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="08:30">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="09:30">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="11:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="14:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="15:30">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="16:30">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+   </Day>
+   <Day name="T">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="08:30">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="09:30">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="11:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="14:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="15:30">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="16:30">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+   </Day>
+   <Day name="W">
+    <Hour name="08:00">
+     <Subject name="ECO301"></Subject><Activity_Tag name="TUT1"></Activity_Tag><Students name="MAT3"></Students><Students name="ECO2"></Students><Students name="MAT4"></Students><Students name="MED32"></Students><Students name="CED4"></Students><Students name="MED31"></Students>
+    </Hour>
+    <Hour name="08:30">
+     <Subject name="ECO301"></Subject><Activity_Tag name="TUT1"></Activity_Tag><Students name="MAT3"></Students><Students name="ECO2"></Students><Students name="MAT4"></Students><Students name="MED32"></Students><Students name="CED4"></Students><Students name="MED31"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="ECO101"></Subject><Activity_Tag name="LEC2"></Activity_Tag>
+    </Hour>
+    <Hour name="09:30">
+     <Subject name="ECO101"></Subject><Activity_Tag name="LEC2"></Activity_Tag>
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="ECO101"></Subject><Activity_Tag name="LEC2"></Activity_Tag>
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="11:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="14:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="15:30">
+     <Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO2"></Students><Students name="MAT4"></Students><Students name="MED32"></Students><Students name="CED4"></Students><Students name="MED31"></Students>
+    </Hour>
+    <Hour name="16:00">
+     <Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO2"></Students><Students name="MAT4"></Students><Students name="MED32"></Students><Students name="CED4"></Students><Students name="MED31"></Students>
+    </Hour>
+    <Hour name="16:30">
+     <Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO2"></Students><Students name="MAT4"></Students><Students name="MED32"></Students><Students name="CED4"></Students><Students name="MED31"></Students>
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Th">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="08:30">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="09:30">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="11:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="14:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="15:30">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="16:30">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+   </Day>
+   <Day name="F">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="08:30">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="09:30">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="11:30">
+     <Subject name="ECO101"></Subject><Activity_Tag name="LEC2"></Activity_Tag>
+    </Hour>
+    <Hour name="12:00">
+     <Subject name="ECO101"></Subject><Activity_Tag name="LEC2"></Activity_Tag>
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="ECO101"></Subject><Activity_Tag name="LEC2"></Activity_Tag>
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="14:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="15:30">
+     <Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO2"></Students><Students name="MAT4"></Students><Students name="MED32"></Students><Students name="CED4"></Students><Students name="MED31"></Students>
+    </Hour>
+    <Hour name="16:00">
+     <Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO2"></Students><Students name="MAT4"></Students><Students name="MED32"></Students><Students name="CED4"></Students><Students name="MED31"></Students>
+    </Hour>
+    <Hour name="16:30">
+     <Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO2"></Students><Students name="MAT4"></Students><Students name="MED32"></Students><Students name="CED4"></Students><Students name="MED31"></Students>
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Kshitiz Mishra">
+   <Day name="M">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="08:30">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="09:30">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="11:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="ECO102"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
+    </Hour>
+    <Hour name="13:00">
+     <Subject name="ECO102"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="14:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="15:30">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="16:30">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+   </Day>
+   <Day name="T">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="08:30">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="09:30">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="11:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="14:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="15:30">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="16:30">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+   </Day>
+   <Day name="W">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="08:30">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="09:30">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="ECO102"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+    </Hour>
+    <Hour name="11:30">
+     <Subject name="ECO102"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+    </Hour>
+    <Hour name="12:00">
+     <Subject name="ECO102"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="14:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="15:30">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="16:30">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Th">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="08:30">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="09:30">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="11:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="14:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="15:30">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="16:30">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+   </Day>
+   <Day name="F">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="08:30">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="09:30">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="ECO102"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+    </Hour>
+    <Hour name="11:30">
+     <Subject name="ECO102"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+    </Hour>
+    <Hour name="12:00">
+     <Subject name="ECO102"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="14:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="15:30">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="16:30">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Partha  Chatterjee[20500194]">
+   <Day name="M">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="08:30">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="09:30">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="11:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="14:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="15:30">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="16:30">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+   </Day>
+   <Day name="T">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="08:30">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="09:30">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="11:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="14:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="ECO402"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students><Students name="ECO4"></Students>
+    </Hour>
+    <Hour name="15:30">
+     <Subject name="ECO402"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students><Students name="ECO4"></Students>
+    </Hour>
+    <Hour name="16:00">
+     <Subject name="ECO402"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students><Students name="ECO4"></Students>
+    </Hour>
+    <Hour name="16:30">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+   </Day>
+   <Day name="W">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="08:30">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="09:30">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="11:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="14:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="15:30">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="16:30">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Th">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="08:30">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="09:30">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="11:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="14:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="ECO402"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students><Students name="ECO4"></Students>
+    </Hour>
+    <Hour name="15:30">
+     <Subject name="ECO402"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students><Students name="ECO4"></Students>
+    </Hour>
+    <Hour name="16:00">
+     <Subject name="ECO402"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Students name="ECO3"></Students><Students name="ECO4"></Students>
+    </Hour>
+    <Hour name="16:30">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+   </Day>
+   <Day name="F">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="08:30">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="09:30">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="11:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="14:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="15:30">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="16:30">
+     
     </Hour>
     <Hour name="17:00">
      
