@@ -4065,13 +4065,13 @@
      
     </Hour>
     <Hour name="09:00">
-      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="09:30">
-      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="10:30">
      
@@ -4136,13 +4136,13 @@
       <Teacher name="Aakash  Kishore Sinha[20500738]"></Teacher> <Teacher name="Sudeshna  Guha[20500519]"></Teacher> <Teacher name="Anita  Sharma[20501003]"></Teacher> <Teacher name="Sailesh Narayan Behera[20500422]"></Teacher> <Teacher name="Jagabandhu  Dixit[20500135]"></Teacher> <Teacher name="Debopam  Acharya[20500192]"></Teacher> <Teacher name="Charu  Sharma[20500010]"></Teacher> <Teacher name="Neha  Gupta[20500087]"></Teacher> <Teacher name="Jyoti Singh Kirar[20500802]"></Teacher> <Teacher name="Deepak  Sehgal[20500085]"></Teacher> <Teacher name="Soumya   Pati[20500398]"></Teacher> <Teacher name="Naga Suresh Veerapu[20500209]"></Teacher> <Teacher name="Richa  Priyadarshini[20500150]"></Teacher> <Teacher name="Susanta Sinha Roy[20500095]"></Teacher> <Teacher name="Jyoti Shharma"></Teacher><Subject name="CCC515"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="CCC"></Activity_Tag>
     </Hour>
     <Hour name="10:30">
-      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag>
+      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag>
+      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="11:30">
-      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag>
+      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="12:00">
      
@@ -4189,13 +4189,13 @@
      
     </Hour>
     <Hour name="09:00">
-      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="09:30">
-      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="10:30">
      
@@ -4260,13 +4260,13 @@
       <Teacher name="Aakash  Kishore Sinha[20500738]"></Teacher> <Teacher name="Sudeshna  Guha[20500519]"></Teacher> <Teacher name="Anita  Sharma[20501003]"></Teacher> <Teacher name="Sailesh Narayan Behera[20500422]"></Teacher> <Teacher name="Jagabandhu  Dixit[20500135]"></Teacher> <Teacher name="Debopam  Acharya[20500192]"></Teacher> <Teacher name="Charu  Sharma[20500010]"></Teacher> <Teacher name="Neha  Gupta[20500087]"></Teacher> <Teacher name="Jyoti Singh Kirar[20500802]"></Teacher> <Teacher name="Deepak  Sehgal[20500085]"></Teacher> <Teacher name="Soumya   Pati[20500398]"></Teacher> <Teacher name="Naga Suresh Veerapu[20500209]"></Teacher> <Teacher name="Richa  Priyadarshini[20500150]"></Teacher> <Teacher name="Susanta Sinha Roy[20500095]"></Teacher> <Teacher name="Jyoti Shharma"></Teacher><Subject name="CCC515"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="CCC"></Activity_Tag>
     </Hour>
     <Hour name="10:30">
-      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag>
+      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag>
+      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="11:30">
-      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag>
+      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="12:00">
      
@@ -4316,10 +4316,10 @@
      
     </Hour>
     <Hour name="09:30">
-      <Teacher name="Eco101TA1"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
+      <Teacher name="Eco101TA1"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="TUT1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="Eco101TA1"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
+      <Teacher name="Eco101TA1"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="TUT1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="10:30">
      
@@ -4346,10 +4346,10 @@
      
     </Hour>
     <Hour name="14:30">
-      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
+      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="TUT1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="15:00">
-      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
+      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="TUT1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="15:30">
      
@@ -5001,13 +5001,13 @@
      
     </Hour>
     <Hour name="09:00">
-      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="09:30">
-      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="10:30">
      
@@ -5125,13 +5125,13 @@
      
     </Hour>
     <Hour name="09:00">
-      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="09:30">
-      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="10:30">
       <Teacher name="Siddharth  Mallavarapu[20500876]"></Teacher><Subject name="INT254"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
@@ -5199,10 +5199,10 @@
      
     </Hour>
     <Hour name="11:00">
-      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="TUT2"></Activity_Tag>
+      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="TUT2"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="11:30">
-      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="TUT2"></Activity_Tag>
+      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="TUT2"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="12:00">
      
@@ -5313,13 +5313,13 @@
      
     </Hour>
     <Hour name="09:00">
-      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="09:30">
-      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="10:30">
      
@@ -5437,13 +5437,13 @@
      
     </Hour>
     <Hour name="09:00">
-      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="09:30">
-      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="10:30">
      
@@ -5625,13 +5625,13 @@
      
     </Hour>
     <Hour name="09:00">
-      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="09:30">
-      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="10:30">
       <Teacher name="Atul  Mishra[20500723]"></Teacher><Subject name="INT101"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
@@ -5749,13 +5749,13 @@
      
     </Hour>
     <Hour name="09:00">
-      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="09:30">
-      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="10:30">
       <Teacher name="Atul  Mishra[20500723]"></Teacher><Subject name="INT101"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
@@ -7185,13 +7185,13 @@
      
     </Hour>
     <Hour name="09:00">
-      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="09:30">
-      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="10:30">
      
@@ -7309,13 +7309,13 @@
      
     </Hour>
     <Hour name="09:00">
-      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="09:30">
-      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="10:30">
      
@@ -7383,10 +7383,10 @@
      
     </Hour>
     <Hour name="11:00">
-      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="TUT2"></Activity_Tag>
+      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="TUT2"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="11:30">
-      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="TUT2"></Activity_Tag>
+      <Teacher name="ECO108Instructor"></Teacher><Subject name="ECO108"></Subject><Activity_Tag name="TUT2"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="12:00">
      
@@ -8504,13 +8504,13 @@
       <Teacher name="Aakash  Kishore Sinha[20500738]"></Teacher> <Teacher name="Sudeshna  Guha[20500519]"></Teacher> <Teacher name="Anita  Sharma[20501003]"></Teacher> <Teacher name="Sailesh Narayan Behera[20500422]"></Teacher> <Teacher name="Jagabandhu  Dixit[20500135]"></Teacher> <Teacher name="Debopam  Acharya[20500192]"></Teacher> <Teacher name="Charu  Sharma[20500010]"></Teacher> <Teacher name="Neha  Gupta[20500087]"></Teacher> <Teacher name="Jyoti Singh Kirar[20500802]"></Teacher> <Teacher name="Deepak  Sehgal[20500085]"></Teacher> <Teacher name="Soumya   Pati[20500398]"></Teacher> <Teacher name="Naga Suresh Veerapu[20500209]"></Teacher> <Teacher name="Richa  Priyadarshini[20500150]"></Teacher> <Teacher name="Susanta Sinha Roy[20500095]"></Teacher> <Teacher name="Jyoti Shharma"></Teacher><Subject name="CCC515"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="CCC"></Activity_Tag>
     </Hour>
     <Hour name="10:30">
-      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag>
+      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag>
+      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="11:30">
-      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag>
+      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="12:00">
      
@@ -8543,10 +8543,10 @@
      
     </Hour>
     <Hour name="17:00">
-      <Teacher name="Eco101TA2"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="TUT2"></Activity_Tag>
+      <Teacher name="Eco101TA2"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="TUT2"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="17:30">
-      <Teacher name="Eco101TA2"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="TUT2"></Activity_Tag>
+      <Teacher name="Eco101TA2"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="TUT2"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
    </Day>
    <Day name="W">
@@ -8628,13 +8628,13 @@
       <Teacher name="Aakash  Kishore Sinha[20500738]"></Teacher> <Teacher name="Sudeshna  Guha[20500519]"></Teacher> <Teacher name="Anita  Sharma[20501003]"></Teacher> <Teacher name="Sailesh Narayan Behera[20500422]"></Teacher> <Teacher name="Jagabandhu  Dixit[20500135]"></Teacher> <Teacher name="Debopam  Acharya[20500192]"></Teacher> <Teacher name="Charu  Sharma[20500010]"></Teacher> <Teacher name="Neha  Gupta[20500087]"></Teacher> <Teacher name="Jyoti Singh Kirar[20500802]"></Teacher> <Teacher name="Deepak  Sehgal[20500085]"></Teacher> <Teacher name="Soumya   Pati[20500398]"></Teacher> <Teacher name="Naga Suresh Veerapu[20500209]"></Teacher> <Teacher name="Richa  Priyadarshini[20500150]"></Teacher> <Teacher name="Susanta Sinha Roy[20500095]"></Teacher> <Teacher name="Jyoti Shharma"></Teacher><Subject name="CCC515"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="CCC"></Activity_Tag>
     </Hour>
     <Hour name="10:30">
-      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag>
+      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag>
+      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="11:30">
-      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag>
+      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="12:00">
      
@@ -10468,13 +10468,13 @@
      
     </Hour>
     <Hour name="15:30">
-      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="16:00">
-      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="16:30">
-      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="17:00">
      
@@ -10592,13 +10592,13 @@
      
     </Hour>
     <Hour name="15:30">
-      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="16:00">
-      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="16:30">
-      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="17:00">
      
@@ -12248,13 +12248,13 @@
       <Teacher name="Aakash  Kishore Sinha[20500738]"></Teacher> <Teacher name="Sudeshna  Guha[20500519]"></Teacher> <Teacher name="Anita  Sharma[20501003]"></Teacher> <Teacher name="Sailesh Narayan Behera[20500422]"></Teacher> <Teacher name="Jagabandhu  Dixit[20500135]"></Teacher> <Teacher name="Debopam  Acharya[20500192]"></Teacher> <Teacher name="Charu  Sharma[20500010]"></Teacher> <Teacher name="Neha  Gupta[20500087]"></Teacher> <Teacher name="Jyoti Singh Kirar[20500802]"></Teacher> <Teacher name="Deepak  Sehgal[20500085]"></Teacher> <Teacher name="Soumya   Pati[20500398]"></Teacher> <Teacher name="Naga Suresh Veerapu[20500209]"></Teacher> <Teacher name="Richa  Priyadarshini[20500150]"></Teacher> <Teacher name="Susanta Sinha Roy[20500095]"></Teacher> <Teacher name="Jyoti Shharma"></Teacher><Subject name="CCC515"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="CCC"></Activity_Tag>
     </Hour>
     <Hour name="10:30">
-      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag>
+      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag>
+      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="11:30">
-      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag>
+      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="12:00">
       <Teacher name="Harpreet Singh Arora[20500396]"></Teacher><Subject name="MED208"></Subject><Activity_Tag name="C005"></Activity_Tag>
@@ -12287,10 +12287,10 @@
       <Teacher name="Sathi Rajesh Reddy[20500731]"></Teacher><Subject name="MED211"></Subject><Activity_Tag name="C009"></Activity_Tag><Room name="C009"></Room>
     </Hour>
     <Hour name="17:00">
-      <Teacher name="Eco101TA2"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="TUT2"></Activity_Tag>
+      <Teacher name="Eco101TA2"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="TUT2"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="17:30">
-      <Teacher name="Eco101TA2"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="TUT2"></Activity_Tag>
+      <Teacher name="Eco101TA2"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="TUT2"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
    </Day>
    <Day name="W">
@@ -12372,13 +12372,13 @@
       <Teacher name="Aakash  Kishore Sinha[20500738]"></Teacher> <Teacher name="Sudeshna  Guha[20500519]"></Teacher> <Teacher name="Anita  Sharma[20501003]"></Teacher> <Teacher name="Sailesh Narayan Behera[20500422]"></Teacher> <Teacher name="Jagabandhu  Dixit[20500135]"></Teacher> <Teacher name="Debopam  Acharya[20500192]"></Teacher> <Teacher name="Charu  Sharma[20500010]"></Teacher> <Teacher name="Neha  Gupta[20500087]"></Teacher> <Teacher name="Jyoti Singh Kirar[20500802]"></Teacher> <Teacher name="Deepak  Sehgal[20500085]"></Teacher> <Teacher name="Soumya   Pati[20500398]"></Teacher> <Teacher name="Naga Suresh Veerapu[20500209]"></Teacher> <Teacher name="Richa  Priyadarshini[20500150]"></Teacher> <Teacher name="Susanta Sinha Roy[20500095]"></Teacher> <Teacher name="Jyoti Shharma"></Teacher><Subject name="CCC515"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="CCC"></Activity_Tag>
     </Hour>
     <Hour name="10:30">
-      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag>
+      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag>
+      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="11:30">
-      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag>
+      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="12:00">
      
@@ -14744,13 +14744,13 @@
       <Teacher name="Aakash  Kishore Sinha[20500738]"></Teacher> <Teacher name="Sudeshna  Guha[20500519]"></Teacher> <Teacher name="Anita  Sharma[20501003]"></Teacher> <Teacher name="Sailesh Narayan Behera[20500422]"></Teacher> <Teacher name="Jagabandhu  Dixit[20500135]"></Teacher> <Teacher name="Debopam  Acharya[20500192]"></Teacher> <Teacher name="Charu  Sharma[20500010]"></Teacher> <Teacher name="Neha  Gupta[20500087]"></Teacher> <Teacher name="Jyoti Singh Kirar[20500802]"></Teacher> <Teacher name="Deepak  Sehgal[20500085]"></Teacher> <Teacher name="Soumya   Pati[20500398]"></Teacher> <Teacher name="Naga Suresh Veerapu[20500209]"></Teacher> <Teacher name="Richa  Priyadarshini[20500150]"></Teacher> <Teacher name="Susanta Sinha Roy[20500095]"></Teacher> <Teacher name="Jyoti Shharma"></Teacher><Subject name="CCC515"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="CCC"></Activity_Tag>
     </Hour>
     <Hour name="10:30">
-      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag>
+      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag>
+      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="11:30">
-      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag>
+      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="12:00">
       <Teacher name="Pooja  Malik[20500448]"></Teacher><Subject name="CSD301"></Subject><Activity_Tag name="C309"></Activity_Tag>
@@ -14783,10 +14783,10 @@
       <Teacher name="Harish Chandra Karnick[20500537]"></Teacher><Subject name="CSD320"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="17:00">
-      <Teacher name="Eco101TA2"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="TUT2"></Activity_Tag>
+      <Teacher name="Eco101TA2"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="TUT2"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="17:30">
-      <Teacher name="Eco101TA2"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="TUT2"></Activity_Tag>
+      <Teacher name="Eco101TA2"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="TUT2"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
    </Day>
    <Day name="W">
@@ -14868,13 +14868,13 @@
       <Teacher name="Aakash  Kishore Sinha[20500738]"></Teacher> <Teacher name="Sudeshna  Guha[20500519]"></Teacher> <Teacher name="Anita  Sharma[20501003]"></Teacher> <Teacher name="Sailesh Narayan Behera[20500422]"></Teacher> <Teacher name="Jagabandhu  Dixit[20500135]"></Teacher> <Teacher name="Debopam  Acharya[20500192]"></Teacher> <Teacher name="Charu  Sharma[20500010]"></Teacher> <Teacher name="Neha  Gupta[20500087]"></Teacher> <Teacher name="Jyoti Singh Kirar[20500802]"></Teacher> <Teacher name="Deepak  Sehgal[20500085]"></Teacher> <Teacher name="Soumya   Pati[20500398]"></Teacher> <Teacher name="Naga Suresh Veerapu[20500209]"></Teacher> <Teacher name="Richa  Priyadarshini[20500150]"></Teacher> <Teacher name="Susanta Sinha Roy[20500095]"></Teacher> <Teacher name="Jyoti Shharma"></Teacher><Subject name="CCC515"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="CCC"></Activity_Tag>
     </Hour>
     <Hour name="10:30">
-      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag>
+      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag>
+      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="11:30">
-      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag>
+      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="12:00">
      
@@ -15056,13 +15056,13 @@
       <Teacher name="Aakash  Kishore Sinha[20500738]"></Teacher> <Teacher name="Sudeshna  Guha[20500519]"></Teacher> <Teacher name="Anita  Sharma[20501003]"></Teacher> <Teacher name="Sailesh Narayan Behera[20500422]"></Teacher> <Teacher name="Jagabandhu  Dixit[20500135]"></Teacher> <Teacher name="Debopam  Acharya[20500192]"></Teacher> <Teacher name="Charu  Sharma[20500010]"></Teacher> <Teacher name="Neha  Gupta[20500087]"></Teacher> <Teacher name="Jyoti Singh Kirar[20500802]"></Teacher> <Teacher name="Deepak  Sehgal[20500085]"></Teacher> <Teacher name="Soumya   Pati[20500398]"></Teacher> <Teacher name="Naga Suresh Veerapu[20500209]"></Teacher> <Teacher name="Richa  Priyadarshini[20500150]"></Teacher> <Teacher name="Susanta Sinha Roy[20500095]"></Teacher> <Teacher name="Jyoti Shharma"></Teacher><Subject name="CCC515"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="CCC"></Activity_Tag>
     </Hour>
     <Hour name="10:30">
-      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag>
+      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag>
+      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="11:30">
-      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag>
+      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="12:00">
       <Teacher name="Pooja  Malik[20500448]"></Teacher><Subject name="CSD301"></Subject><Activity_Tag name="C309"></Activity_Tag>
@@ -15095,10 +15095,10 @@
       <Teacher name="Harish Chandra Karnick[20500537]"></Teacher><Subject name="CSD320"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="17:00">
-      <Teacher name="Eco101TA2"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="TUT2"></Activity_Tag>
+      <Teacher name="Eco101TA2"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="TUT2"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="17:30">
-      <Teacher name="Eco101TA2"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="TUT2"></Activity_Tag>
+      <Teacher name="Eco101TA2"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="TUT2"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
    </Day>
    <Day name="W">
@@ -15180,13 +15180,13 @@
       <Teacher name="Aakash  Kishore Sinha[20500738]"></Teacher> <Teacher name="Sudeshna  Guha[20500519]"></Teacher> <Teacher name="Anita  Sharma[20501003]"></Teacher> <Teacher name="Sailesh Narayan Behera[20500422]"></Teacher> <Teacher name="Jagabandhu  Dixit[20500135]"></Teacher> <Teacher name="Debopam  Acharya[20500192]"></Teacher> <Teacher name="Charu  Sharma[20500010]"></Teacher> <Teacher name="Neha  Gupta[20500087]"></Teacher> <Teacher name="Jyoti Singh Kirar[20500802]"></Teacher> <Teacher name="Deepak  Sehgal[20500085]"></Teacher> <Teacher name="Soumya   Pati[20500398]"></Teacher> <Teacher name="Naga Suresh Veerapu[20500209]"></Teacher> <Teacher name="Richa  Priyadarshini[20500150]"></Teacher> <Teacher name="Susanta Sinha Roy[20500095]"></Teacher> <Teacher name="Jyoti Shharma"></Teacher><Subject name="CCC515"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="CCC"></Activity_Tag>
     </Hour>
     <Hour name="10:30">
-      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag>
+      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag>
+      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="11:30">
-      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag>
+      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="12:00">
      
@@ -15315,13 +15315,13 @@
       <Teacher name="Madan  Gopal[20500044]"></Teacher><Subject name="EED302"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag>
     </Hour>
     <Hour name="12:00">
-      <Teacher name="ECO213Instructor"></Teacher><Subject name="ECO213"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="ECO213Instructor"></Teacher><Subject name="ECO213"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="12:30">
-      <Teacher name="ECO213Instructor"></Teacher><Subject name="ECO213"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="ECO213Instructor"></Teacher><Subject name="ECO213"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="13:00">
-      <Teacher name="ECO213Instructor"></Teacher><Subject name="ECO213"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="ECO213Instructor"></Teacher><Subject name="ECO213"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="13:30">
       <Teacher name="LunchECE31"></Teacher><Subject name="Lunch"></Subject>
@@ -15495,10 +15495,10 @@
      
     </Hour>
     <Hour name="11:00">
-      <Teacher name="ECO213Instructor"></Teacher><Subject name="ECO213"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
+      <Teacher name="ECO213Instructor"></Teacher><Subject name="ECO213"></Subject><Activity_Tag name="TUT1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="11:30">
-      <Teacher name="ECO213Instructor"></Teacher><Subject name="ECO213"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
+      <Teacher name="ECO213Instructor"></Teacher><Subject name="ECO213"></Subject><Activity_Tag name="TUT1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="12:00">
      
@@ -15563,13 +15563,13 @@
       <Teacher name="Madan  Gopal[20500044]"></Teacher><Subject name="EED302"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag>
     </Hour>
     <Hour name="12:00">
-      <Teacher name="ECO213Instructor"></Teacher><Subject name="ECO213"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="ECO213Instructor"></Teacher><Subject name="ECO213"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="12:30">
-      <Teacher name="ECO213Instructor"></Teacher><Subject name="ECO213"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="ECO213Instructor"></Teacher><Subject name="ECO213"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="13:00">
-      <Teacher name="ECO213Instructor"></Teacher><Subject name="ECO213"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="ECO213Instructor"></Teacher><Subject name="ECO213"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="13:30">
      
@@ -15627,13 +15627,13 @@
       <Teacher name="Madan  Gopal[20500044]"></Teacher><Subject name="EED302"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag>
     </Hour>
     <Hour name="12:00">
-      <Teacher name="ECO213Instructor"></Teacher><Subject name="ECO213"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="ECO213Instructor"></Teacher><Subject name="ECO213"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="12:30">
-      <Teacher name="ECO213Instructor"></Teacher><Subject name="ECO213"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="ECO213Instructor"></Teacher><Subject name="ECO213"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="13:00">
-      <Teacher name="ECO213Instructor"></Teacher><Subject name="ECO213"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="ECO213Instructor"></Teacher><Subject name="ECO213"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="13:30">
       <Teacher name="LunchECE32"></Teacher><Subject name="Lunch"></Subject>
@@ -15807,10 +15807,10 @@
      
     </Hour>
     <Hour name="11:00">
-      <Teacher name="ECO213Instructor"></Teacher><Subject name="ECO213"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
+      <Teacher name="ECO213Instructor"></Teacher><Subject name="ECO213"></Subject><Activity_Tag name="TUT1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="11:30">
-      <Teacher name="ECO213Instructor"></Teacher><Subject name="ECO213"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
+      <Teacher name="ECO213Instructor"></Teacher><Subject name="ECO213"></Subject><Activity_Tag name="TUT1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="12:00">
      
@@ -15875,13 +15875,13 @@
       <Teacher name="Madan  Gopal[20500044]"></Teacher><Subject name="EED302"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag>
     </Hour>
     <Hour name="12:00">
-      <Teacher name="ECO213Instructor"></Teacher><Subject name="ECO213"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="ECO213Instructor"></Teacher><Subject name="ECO213"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="12:30">
-      <Teacher name="ECO213Instructor"></Teacher><Subject name="ECO213"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="ECO213Instructor"></Teacher><Subject name="ECO213"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="13:00">
-      <Teacher name="ECO213Instructor"></Teacher><Subject name="ECO213"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="ECO213Instructor"></Teacher><Subject name="ECO213"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="13:30">
       <Teacher name="LunchECE32"></Teacher><Subject name="Lunch"></Subject>
@@ -15924,13 +15924,13 @@
      
     </Hour>
     <Hour name="09:30">
-      <Teacher name="ECO213Instructor"></Teacher><Subject name="ECO415"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="ECO213Instructor"></Teacher><Subject name="ECO415"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="ECO213Instructor"></Teacher><Subject name="ECO415"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="ECO213Instructor"></Teacher><Subject name="ECO415"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="10:30">
-      <Teacher name="ECO213Instructor"></Teacher><Subject name="ECO415"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="ECO213Instructor"></Teacher><Subject name="ECO415"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="11:00">
      
@@ -15939,13 +15939,13 @@
      
     </Hour>
     <Hour name="12:00">
-      <Teacher name="Kurt Horner"></Teacher><Subject name="ECO422"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Kurt Horner"></Teacher><Subject name="ECO422"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="12:30">
-      <Teacher name="Kurt Horner"></Teacher><Subject name="ECO422"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Kurt Horner"></Teacher><Subject name="ECO422"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="13:00">
-      <Teacher name="Kurt Horner"></Teacher><Subject name="ECO422"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Kurt Horner"></Teacher><Subject name="ECO422"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="13:30">
      
@@ -16001,13 +16001,13 @@
       <Teacher name="Sanjeev  Agrawal[20500033]"></Teacher><Subject name="MAT422"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="12:00">
-      <Teacher name="Arka Roy Chaudhuri"></Teacher><Subject name="ECO403"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Arka Roy Chaudhuri"></Teacher><Subject name="ECO403"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="12:30">
-      <Teacher name="Arka Roy Chaudhuri"></Teacher><Subject name="ECO403"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Arka Roy Chaudhuri"></Teacher><Subject name="ECO403"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="13:00">
-      <Teacher name="Arka Roy Chaudhuri"></Teacher><Subject name="ECO403"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Arka Roy Chaudhuri"></Teacher><Subject name="ECO403"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="13:30">
       <Teacher name="LunchECO3"></Teacher><Subject name="Lunch"></Subject>
@@ -16019,13 +16019,13 @@
      
     </Hour>
     <Hour name="15:00">
-      <Teacher name="Kurt Horner"></Teacher> <Teacher name="Partha  Chatterjee[20500194]"></Teacher><Subject name="ECO402"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Kurt Horner"></Teacher> <Teacher name="Partha  Chatterjee[20500194]"></Teacher><Subject name="ECO402"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="15:30">
-      <Teacher name="Kurt Horner"></Teacher> <Teacher name="Partha  Chatterjee[20500194]"></Teacher><Subject name="ECO402"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Kurt Horner"></Teacher> <Teacher name="Partha  Chatterjee[20500194]"></Teacher><Subject name="ECO402"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="16:00">
-      <Teacher name="Kurt Horner"></Teacher> <Teacher name="Partha  Chatterjee[20500194]"></Teacher><Subject name="ECO402"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Kurt Horner"></Teacher> <Teacher name="Partha  Chatterjee[20500194]"></Teacher><Subject name="ECO402"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="16:30">
       <Teacher name="Iman Kumar Mitra[20501006]"></Teacher><Subject name="HIS314"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
@@ -16063,13 +16063,13 @@
      
     </Hour>
     <Hour name="12:00">
-      <Teacher name="Kurt Horner"></Teacher><Subject name="ECO422"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Kurt Horner"></Teacher><Subject name="ECO422"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="12:30">
-      <Teacher name="Kurt Horner"></Teacher><Subject name="ECO422"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Kurt Horner"></Teacher><Subject name="ECO422"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="13:00">
-      <Teacher name="Kurt Horner"></Teacher><Subject name="ECO422"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Kurt Horner"></Teacher><Subject name="ECO422"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="13:30">
       <Teacher name="LunchECO3"></Teacher><Subject name="Lunch"></Subject>
@@ -16143,13 +16143,13 @@
      
     </Hour>
     <Hour name="15:00">
-      <Teacher name="Kurt Horner"></Teacher> <Teacher name="Partha  Chatterjee[20500194]"></Teacher><Subject name="ECO402"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Kurt Horner"></Teacher> <Teacher name="Partha  Chatterjee[20500194]"></Teacher><Subject name="ECO402"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="15:30">
-      <Teacher name="Kurt Horner"></Teacher> <Teacher name="Partha  Chatterjee[20500194]"></Teacher><Subject name="ECO402"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Kurt Horner"></Teacher> <Teacher name="Partha  Chatterjee[20500194]"></Teacher><Subject name="ECO402"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="16:00">
-      <Teacher name="Kurt Horner"></Teacher> <Teacher name="Partha  Chatterjee[20500194]"></Teacher><Subject name="ECO402"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Kurt Horner"></Teacher> <Teacher name="Partha  Chatterjee[20500194]"></Teacher><Subject name="ECO402"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="16:30">
       <Teacher name="Iman Kumar Mitra[20501006]"></Teacher><Subject name="HIS314"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
@@ -16172,13 +16172,13 @@
      
     </Hour>
     <Hour name="09:30">
-      <Teacher name="ECO213Instructor"></Teacher><Subject name="ECO415"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="ECO213Instructor"></Teacher><Subject name="ECO415"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="ECO213Instructor"></Teacher><Subject name="ECO415"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="ECO213Instructor"></Teacher><Subject name="ECO415"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="10:30">
-      <Teacher name="ECO213Instructor"></Teacher><Subject name="ECO415"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="ECO213Instructor"></Teacher><Subject name="ECO415"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="11:00">
      
@@ -16187,13 +16187,13 @@
      
     </Hour>
     <Hour name="12:00">
-      <Teacher name="Arka Roy Chaudhuri"></Teacher><Subject name="ECO403"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Arka Roy Chaudhuri"></Teacher><Subject name="ECO403"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="12:30">
-      <Teacher name="Arka Roy Chaudhuri"></Teacher><Subject name="ECO403"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Arka Roy Chaudhuri"></Teacher><Subject name="ECO403"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="13:00">
-      <Teacher name="Arka Roy Chaudhuri"></Teacher><Subject name="ECO403"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Arka Roy Chaudhuri"></Teacher><Subject name="ECO403"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="13:30">
      
@@ -17956,13 +17956,13 @@
      
     </Hour>
     <Hour name="15:30">
-      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="16:00">
-      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="16:30">
-      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="17:00">
       <Teacher name="Abhishek  Tewari[20501061]"></Teacher><Subject name="MED303"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
@@ -18080,13 +18080,13 @@
       <Teacher name="Ankit  Gupta[20501013]"></Teacher> <Teacher name="Ganeshthangaraj  Ponniah[20500265]"></Teacher><Subject name="MED314"></Subject><Activity_Tag name="D018"></Activity_Tag><Room name="D018"></Room>
     </Hour>
     <Hour name="15:30">
-      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="16:00">
-      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="16:30">
-      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="17:00">
       <Teacher name="Abhishek  Tewari[20501061]"></Teacher><Subject name="MED303"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
@@ -18268,13 +18268,13 @@
      
     </Hour>
     <Hour name="15:30">
-      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="16:00">
-      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="16:30">
-      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="17:00">
       <Teacher name="Abhishek  Tewari[20501061]"></Teacher><Subject name="MED303"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
@@ -18392,13 +18392,13 @@
      
     </Hour>
     <Hour name="15:30">
-      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="16:00">
-      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="16:30">
-      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="17:00">
       <Teacher name="Abhishek  Tewari[20501061]"></Teacher><Subject name="MED303"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
@@ -19828,13 +19828,13 @@
      
     </Hour>
     <Hour name="15:30">
-      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="16:00">
-      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="16:30">
-      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="17:00">
      
@@ -19952,13 +19952,13 @@
      
     </Hour>
     <Hour name="15:30">
-      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="16:00">
-      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="16:30">
-      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="17:00">
      
@@ -21555,13 +21555,13 @@
      
     </Hour>
     <Hour name="12:00">
-      <Teacher name="Kurt Horner"></Teacher><Subject name="ECO422"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Kurt Horner"></Teacher><Subject name="ECO422"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="12:30">
-      <Teacher name="Kurt Horner"></Teacher><Subject name="ECO422"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Kurt Horner"></Teacher><Subject name="ECO422"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="13:00">
-      <Teacher name="Kurt Horner"></Teacher><Subject name="ECO422"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Kurt Horner"></Teacher><Subject name="ECO422"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="13:30">
       <Teacher name="LunchECO4"></Teacher><Subject name="Lunch"></Subject>
@@ -21617,13 +21617,13 @@
      
     </Hour>
     <Hour name="12:00">
-      <Teacher name="Arka Roy Chaudhuri"></Teacher><Subject name="ECO403"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Arka Roy Chaudhuri"></Teacher><Subject name="ECO403"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="12:30">
-      <Teacher name="Arka Roy Chaudhuri"></Teacher><Subject name="ECO403"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Arka Roy Chaudhuri"></Teacher><Subject name="ECO403"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="13:00">
-      <Teacher name="Arka Roy Chaudhuri"></Teacher><Subject name="ECO403"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Arka Roy Chaudhuri"></Teacher><Subject name="ECO403"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="13:30">
       <Teacher name="LunchECO4"></Teacher><Subject name="Lunch"></Subject>
@@ -21635,13 +21635,13 @@
      
     </Hour>
     <Hour name="15:00">
-      <Teacher name="Kurt Horner"></Teacher> <Teacher name="Partha  Chatterjee[20500194]"></Teacher><Subject name="ECO402"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Kurt Horner"></Teacher> <Teacher name="Partha  Chatterjee[20500194]"></Teacher><Subject name="ECO402"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="15:30">
-      <Teacher name="Kurt Horner"></Teacher> <Teacher name="Partha  Chatterjee[20500194]"></Teacher><Subject name="ECO402"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Kurt Horner"></Teacher> <Teacher name="Partha  Chatterjee[20500194]"></Teacher><Subject name="ECO402"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="16:00">
-      <Teacher name="Kurt Horner"></Teacher> <Teacher name="Partha  Chatterjee[20500194]"></Teacher><Subject name="ECO402"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Kurt Horner"></Teacher> <Teacher name="Partha  Chatterjee[20500194]"></Teacher><Subject name="ECO402"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="16:30">
       <Teacher name="Iman Kumar Mitra[20501006]"></Teacher><Subject name="HIS314"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
@@ -21679,13 +21679,13 @@
      
     </Hour>
     <Hour name="12:00">
-      <Teacher name="Kurt Horner"></Teacher><Subject name="ECO422"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Kurt Horner"></Teacher><Subject name="ECO422"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="12:30">
-      <Teacher name="Kurt Horner"></Teacher><Subject name="ECO422"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Kurt Horner"></Teacher><Subject name="ECO422"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="13:00">
-      <Teacher name="Kurt Horner"></Teacher><Subject name="ECO422"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Kurt Horner"></Teacher><Subject name="ECO422"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="13:30">
       <Teacher name="LunchECO4"></Teacher><Subject name="Lunch"></Subject>
@@ -21759,13 +21759,13 @@
      
     </Hour>
     <Hour name="15:00">
-      <Teacher name="Kurt Horner"></Teacher> <Teacher name="Partha  Chatterjee[20500194]"></Teacher><Subject name="ECO402"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Kurt Horner"></Teacher> <Teacher name="Partha  Chatterjee[20500194]"></Teacher><Subject name="ECO402"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="15:30">
-      <Teacher name="Kurt Horner"></Teacher> <Teacher name="Partha  Chatterjee[20500194]"></Teacher><Subject name="ECO402"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Kurt Horner"></Teacher> <Teacher name="Partha  Chatterjee[20500194]"></Teacher><Subject name="ECO402"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="16:00">
-      <Teacher name="Kurt Horner"></Teacher> <Teacher name="Partha  Chatterjee[20500194]"></Teacher><Subject name="ECO402"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Kurt Horner"></Teacher> <Teacher name="Partha  Chatterjee[20500194]"></Teacher><Subject name="ECO402"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="16:30">
       <Teacher name="Iman Kumar Mitra[20501006]"></Teacher><Subject name="HIS314"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
@@ -21803,13 +21803,13 @@
      
     </Hour>
     <Hour name="12:00">
-      <Teacher name="Arka Roy Chaudhuri"></Teacher><Subject name="ECO403"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Arka Roy Chaudhuri"></Teacher><Subject name="ECO403"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="12:30">
-      <Teacher name="Arka Roy Chaudhuri"></Teacher><Subject name="ECO403"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Arka Roy Chaudhuri"></Teacher><Subject name="ECO403"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="13:00">
-      <Teacher name="Arka Roy Chaudhuri"></Teacher><Subject name="ECO403"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Arka Roy Chaudhuri"></Teacher><Subject name="ECO403"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="13:30">
      
@@ -21846,10 +21846,10 @@
      
     </Hour>
     <Hour name="08:30">
-      <Teacher name="Eco101TA3"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="TUT3"></Activity_Tag>
+      <Teacher name="Eco101TA3"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="TUT3"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="09:00">
-      <Teacher name="Eco101TA3"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="TUT3"></Activity_Tag>
+      <Teacher name="Eco101TA3"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="TUT3"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="09:30">
      
@@ -21920,13 +21920,13 @@
       <Teacher name="Aakash  Kishore Sinha[20500738]"></Teacher> <Teacher name="Sudeshna  Guha[20500519]"></Teacher> <Teacher name="Anita  Sharma[20501003]"></Teacher> <Teacher name="Sailesh Narayan Behera[20500422]"></Teacher> <Teacher name="Jagabandhu  Dixit[20500135]"></Teacher> <Teacher name="Debopam  Acharya[20500192]"></Teacher> <Teacher name="Charu  Sharma[20500010]"></Teacher> <Teacher name="Neha  Gupta[20500087]"></Teacher> <Teacher name="Jyoti Singh Kirar[20500802]"></Teacher> <Teacher name="Deepak  Sehgal[20500085]"></Teacher> <Teacher name="Soumya   Pati[20500398]"></Teacher> <Teacher name="Naga Suresh Veerapu[20500209]"></Teacher> <Teacher name="Richa  Priyadarshini[20500150]"></Teacher> <Teacher name="Susanta Sinha Roy[20500095]"></Teacher> <Teacher name="Jyoti Shharma"></Teacher><Subject name="CCC515"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="CCC"></Activity_Tag>
     </Hour>
     <Hour name="10:30">
-      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag>
+      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag>
+      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="11:30">
-      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag>
+      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="12:00">
      
@@ -22044,13 +22044,13 @@
       <Teacher name="Aakash  Kishore Sinha[20500738]"></Teacher> <Teacher name="Sudeshna  Guha[20500519]"></Teacher> <Teacher name="Anita  Sharma[20501003]"></Teacher> <Teacher name="Sailesh Narayan Behera[20500422]"></Teacher> <Teacher name="Jagabandhu  Dixit[20500135]"></Teacher> <Teacher name="Debopam  Acharya[20500192]"></Teacher> <Teacher name="Charu  Sharma[20500010]"></Teacher> <Teacher name="Neha  Gupta[20500087]"></Teacher> <Teacher name="Jyoti Singh Kirar[20500802]"></Teacher> <Teacher name="Deepak  Sehgal[20500085]"></Teacher> <Teacher name="Soumya   Pati[20500398]"></Teacher> <Teacher name="Naga Suresh Veerapu[20500209]"></Teacher> <Teacher name="Richa  Priyadarshini[20500150]"></Teacher> <Teacher name="Susanta Sinha Roy[20500095]"></Teacher> <Teacher name="Jyoti Shharma"></Teacher><Subject name="CCC515"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="CCC"></Activity_Tag>
     </Hour>
     <Hour name="10:30">
-      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag>
+      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag>
+      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="11:30">
-      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag>
+      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="12:00">
      
@@ -22948,13 +22948,13 @@
      
     </Hour>
     <Hour name="15:30">
-      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="16:00">
-      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="16:30">
-      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="17:00">
      
@@ -23072,13 +23072,13 @@
      
     </Hour>
     <Hour name="15:30">
-      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="16:00">
-      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="16:30">
-      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Dhritiman Gupta"></Teacher><Subject name="ECO301"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="17:00">
      
@@ -23094,10 +23094,10 @@
      
     </Hour>
     <Hour name="08:30">
-      <Teacher name="Eco101TA3"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="TUT3"></Activity_Tag>
+      <Teacher name="Eco101TA3"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="TUT3"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="09:00">
-      <Teacher name="Eco101TA3"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="TUT3"></Activity_Tag>
+      <Teacher name="Eco101TA3"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="TUT3"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="09:30">
       <Teacher name="Sumit Tiwari"></Teacher><Subject name="MED315"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag>
@@ -23168,13 +23168,13 @@
       <Teacher name="Aakash  Kishore Sinha[20500738]"></Teacher> <Teacher name="Sudeshna  Guha[20500519]"></Teacher> <Teacher name="Anita  Sharma[20501003]"></Teacher> <Teacher name="Sailesh Narayan Behera[20500422]"></Teacher> <Teacher name="Jagabandhu  Dixit[20500135]"></Teacher> <Teacher name="Debopam  Acharya[20500192]"></Teacher> <Teacher name="Charu  Sharma[20500010]"></Teacher> <Teacher name="Neha  Gupta[20500087]"></Teacher> <Teacher name="Jyoti Singh Kirar[20500802]"></Teacher> <Teacher name="Deepak  Sehgal[20500085]"></Teacher> <Teacher name="Soumya   Pati[20500398]"></Teacher> <Teacher name="Naga Suresh Veerapu[20500209]"></Teacher> <Teacher name="Richa  Priyadarshini[20500150]"></Teacher> <Teacher name="Susanta Sinha Roy[20500095]"></Teacher> <Teacher name="Jyoti Shharma"></Teacher><Subject name="CCC515"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="CCC"></Activity_Tag>
     </Hour>
     <Hour name="10:30">
-      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag>
+      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag>
+      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="11:30">
-      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag>
+      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="12:00">
      
@@ -23292,13 +23292,13 @@
       <Teacher name="Aakash  Kishore Sinha[20500738]"></Teacher> <Teacher name="Sudeshna  Guha[20500519]"></Teacher> <Teacher name="Anita  Sharma[20501003]"></Teacher> <Teacher name="Sailesh Narayan Behera[20500422]"></Teacher> <Teacher name="Jagabandhu  Dixit[20500135]"></Teacher> <Teacher name="Debopam  Acharya[20500192]"></Teacher> <Teacher name="Charu  Sharma[20500010]"></Teacher> <Teacher name="Neha  Gupta[20500087]"></Teacher> <Teacher name="Jyoti Singh Kirar[20500802]"></Teacher> <Teacher name="Deepak  Sehgal[20500085]"></Teacher> <Teacher name="Soumya   Pati[20500398]"></Teacher> <Teacher name="Naga Suresh Veerapu[20500209]"></Teacher> <Teacher name="Richa  Priyadarshini[20500150]"></Teacher> <Teacher name="Susanta Sinha Roy[20500095]"></Teacher> <Teacher name="Jyoti Shharma"></Teacher><Subject name="CCC515"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="CCC"></Activity_Tag>
     </Hour>
     <Hour name="10:30">
-      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag>
+      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag>
+      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="11:30">
-      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag>
+      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="12:00">
      
@@ -23406,10 +23406,10 @@
      
     </Hour>
     <Hour name="08:30">
-      <Teacher name="Eco101TA3"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="TUT3"></Activity_Tag>
+      <Teacher name="Eco101TA3"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="TUT3"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="09:00">
-      <Teacher name="Eco101TA3"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="TUT3"></Activity_Tag>
+      <Teacher name="Eco101TA3"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="TUT3"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="09:30">
       <Teacher name="Sumit Tiwari"></Teacher><Subject name="MED315"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag>
@@ -23480,13 +23480,13 @@
       <Teacher name="Aakash  Kishore Sinha[20500738]"></Teacher> <Teacher name="Sudeshna  Guha[20500519]"></Teacher> <Teacher name="Anita  Sharma[20501003]"></Teacher> <Teacher name="Sailesh Narayan Behera[20500422]"></Teacher> <Teacher name="Jagabandhu  Dixit[20500135]"></Teacher> <Teacher name="Debopam  Acharya[20500192]"></Teacher> <Teacher name="Charu  Sharma[20500010]"></Teacher> <Teacher name="Neha  Gupta[20500087]"></Teacher> <Teacher name="Jyoti Singh Kirar[20500802]"></Teacher> <Teacher name="Deepak  Sehgal[20500085]"></Teacher> <Teacher name="Soumya   Pati[20500398]"></Teacher> <Teacher name="Naga Suresh Veerapu[20500209]"></Teacher> <Teacher name="Richa  Priyadarshini[20500150]"></Teacher> <Teacher name="Susanta Sinha Roy[20500095]"></Teacher> <Teacher name="Jyoti Shharma"></Teacher><Subject name="CCC515"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="CCC"></Activity_Tag>
     </Hour>
     <Hour name="10:30">
-      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag>
+      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag>
+      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="11:30">
-      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag>
+      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="12:00">
      
@@ -23604,13 +23604,13 @@
       <Teacher name="Aakash  Kishore Sinha[20500738]"></Teacher> <Teacher name="Sudeshna  Guha[20500519]"></Teacher> <Teacher name="Anita  Sharma[20501003]"></Teacher> <Teacher name="Sailesh Narayan Behera[20500422]"></Teacher> <Teacher name="Jagabandhu  Dixit[20500135]"></Teacher> <Teacher name="Debopam  Acharya[20500192]"></Teacher> <Teacher name="Charu  Sharma[20500010]"></Teacher> <Teacher name="Neha  Gupta[20500087]"></Teacher> <Teacher name="Jyoti Singh Kirar[20500802]"></Teacher> <Teacher name="Deepak  Sehgal[20500085]"></Teacher> <Teacher name="Soumya   Pati[20500398]"></Teacher> <Teacher name="Naga Suresh Veerapu[20500209]"></Teacher> <Teacher name="Richa  Priyadarshini[20500150]"></Teacher> <Teacher name="Susanta Sinha Roy[20500095]"></Teacher> <Teacher name="Jyoti Shharma"></Teacher><Subject name="CCC515"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="CCC"></Activity_Tag>
     </Hour>
     <Hour name="10:30">
-      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag>
+      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag>
+      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="11:30">
-      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag>
+      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="12:00">
      
@@ -23718,10 +23718,10 @@
      
     </Hour>
     <Hour name="08:30">
-      <Teacher name="Eco101TA3"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="TUT3"></Activity_Tag>
+      <Teacher name="Eco101TA3"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="TUT3"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="09:00">
-      <Teacher name="Eco101TA3"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="TUT3"></Activity_Tag>
+      <Teacher name="Eco101TA3"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="TUT3"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="09:30">
       <Teacher name="Sumit Tiwari"></Teacher><Subject name="MED315"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag>
@@ -23792,13 +23792,13 @@
       <Teacher name="Aakash  Kishore Sinha[20500738]"></Teacher> <Teacher name="Sudeshna  Guha[20500519]"></Teacher> <Teacher name="Anita  Sharma[20501003]"></Teacher> <Teacher name="Sailesh Narayan Behera[20500422]"></Teacher> <Teacher name="Jagabandhu  Dixit[20500135]"></Teacher> <Teacher name="Debopam  Acharya[20500192]"></Teacher> <Teacher name="Charu  Sharma[20500010]"></Teacher> <Teacher name="Neha  Gupta[20500087]"></Teacher> <Teacher name="Jyoti Singh Kirar[20500802]"></Teacher> <Teacher name="Deepak  Sehgal[20500085]"></Teacher> <Teacher name="Soumya   Pati[20500398]"></Teacher> <Teacher name="Naga Suresh Veerapu[20500209]"></Teacher> <Teacher name="Richa  Priyadarshini[20500150]"></Teacher> <Teacher name="Susanta Sinha Roy[20500095]"></Teacher> <Teacher name="Jyoti Shharma"></Teacher><Subject name="CCC515"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="CCC"></Activity_Tag>
     </Hour>
     <Hour name="10:30">
-      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag>
+      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag>
+      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="11:30">
-      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag>
+      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="12:00">
      
@@ -23916,13 +23916,13 @@
       <Teacher name="Aakash  Kishore Sinha[20500738]"></Teacher> <Teacher name="Sudeshna  Guha[20500519]"></Teacher> <Teacher name="Anita  Sharma[20501003]"></Teacher> <Teacher name="Sailesh Narayan Behera[20500422]"></Teacher> <Teacher name="Jagabandhu  Dixit[20500135]"></Teacher> <Teacher name="Debopam  Acharya[20500192]"></Teacher> <Teacher name="Charu  Sharma[20500010]"></Teacher> <Teacher name="Neha  Gupta[20500087]"></Teacher> <Teacher name="Jyoti Singh Kirar[20500802]"></Teacher> <Teacher name="Deepak  Sehgal[20500085]"></Teacher> <Teacher name="Soumya   Pati[20500398]"></Teacher> <Teacher name="Naga Suresh Veerapu[20500209]"></Teacher> <Teacher name="Richa  Priyadarshini[20500150]"></Teacher> <Teacher name="Susanta Sinha Roy[20500095]"></Teacher> <Teacher name="Jyoti Shharma"></Teacher><Subject name="CCC515"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="CCC"></Activity_Tag>
     </Hour>
     <Hour name="10:30">
-      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag>
+      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag>
+      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="11:30">
-      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag>
+      <Teacher name="Subhra K Bhattacharya[20500089]"></Teacher><Subject name="ECO101"></Subject><Activity_Tag name="LEC1"></Activity_Tag><Activity_Tag name="LargeClass"></Activity_Tag><Activity_Tag name="ECOclass"></Activity_Tag>
     </Hour>
     <Hour name="12:00">
      

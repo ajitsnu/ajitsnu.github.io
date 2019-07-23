@@ -1201,6 +1201,11 @@
 	<Printable>true</Printable>
 	<Comments></Comments>
 </Activity_Tag>
+<Activity_Tag>
+	<Name>ECOclass</Name>
+	<Printable>true</Printable>
+	<Comments></Comments>
+</Activity_Tag>
 </Activity_Tags_List>
 
 <Teachers_List>
@@ -7149,6 +7154,7 @@
 	<Teacher>ECO213Instructor</Teacher>
 	<Subject>ECO415</Subject>
 	<Activity_Tag>LEC1</Activity_Tag>
+	<Activity_Tag>ECOclass</Activity_Tag>
 	<Students>ECO3</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -7161,6 +7167,7 @@
 	<Teacher>ECO213Instructor</Teacher>
 	<Subject>ECO415</Subject>
 	<Activity_Tag>LEC1</Activity_Tag>
+	<Activity_Tag>ECOclass</Activity_Tag>
 	<Students>ECO3</Students>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
@@ -7173,6 +7180,7 @@
 	<Teacher>Dhritiman Gupta</Teacher>
 	<Subject>ECO301</Subject>
 	<Activity_Tag>LEC1</Activity_Tag>
+	<Activity_Tag>ECOclass</Activity_Tag>
 	<Students>ECO2</Students>
 	<Students>MAT4</Students>
 	<Students>MED32</Students>
@@ -7189,6 +7197,7 @@
 	<Teacher>Dhritiman Gupta</Teacher>
 	<Subject>ECO301</Subject>
 	<Activity_Tag>LEC1</Activity_Tag>
+	<Activity_Tag>ECOclass</Activity_Tag>
 	<Students>ECO2</Students>
 	<Students>MAT4</Students>
 	<Students>MED32</Students>
@@ -7222,6 +7231,7 @@
 	<Teacher>ECO213Instructor</Teacher>
 	<Subject>ECO213</Subject>
 	<Activity_Tag>LEC1</Activity_Tag>
+	<Activity_Tag>ECOclass</Activity_Tag>
 	<Students>ECE31</Students>
 	<Students>ECE32</Students>
 	<Duration>3</Duration>
@@ -7235,6 +7245,7 @@
 	<Teacher>ECO213Instructor</Teacher>
 	<Subject>ECO213</Subject>
 	<Activity_Tag>LEC1</Activity_Tag>
+	<Activity_Tag>ECOclass</Activity_Tag>
 	<Students>ECE31</Students>
 	<Students>ECE32</Students>
 	<Duration>3</Duration>
@@ -7248,6 +7259,7 @@
 	<Teacher>ECO213Instructor</Teacher>
 	<Subject>ECO213</Subject>
 	<Activity_Tag>TUT1</Activity_Tag>
+	<Activity_Tag>ECOclass</Activity_Tag>
 	<Students>ECE31</Students>
 	<Students>ECE32</Students>
 	<Duration>2</Duration>
@@ -7261,6 +7273,7 @@
 	<Teacher>ECO213Instructor</Teacher>
 	<Subject>ECO213</Subject>
 	<Activity_Tag>TUT2</Activity_Tag>
+	<Activity_Tag>ECOclass</Activity_Tag>
 	<Duration>2</Duration>
 	<Total_Duration>2</Total_Duration>
 	<Id>286</Id>
@@ -7272,6 +7285,7 @@
 	<Teacher>ECO108Instructor</Teacher>
 	<Subject>ECO108</Subject>
 	<Activity_Tag>LEC1</Activity_Tag>
+	<Activity_Tag>ECOclass</Activity_Tag>
 	<Students>ECO1</Students>
 	<Students>SOC1</Students>
 	<Students>ENG1</Students>
@@ -7288,6 +7302,7 @@
 	<Teacher>ECO108Instructor</Teacher>
 	<Subject>ECO108</Subject>
 	<Activity_Tag>LEC1</Activity_Tag>
+	<Activity_Tag>ECOclass</Activity_Tag>
 	<Students>ECO1</Students>
 	<Students>SOC1</Students>
 	<Students>ENG1</Students>
@@ -7304,6 +7319,7 @@
 	<Teacher>ECO108Instructor</Teacher>
 	<Subject>ECO108</Subject>
 	<Activity_Tag>TUT1</Activity_Tag>
+	<Activity_Tag>ECOclass</Activity_Tag>
 	<Students>ECO1</Students>
 	<Duration>2</Duration>
 	<Total_Duration>2</Total_Duration>
@@ -7316,6 +7332,7 @@
 	<Teacher>ECO108Instructor</Teacher>
 	<Subject>ECO108</Subject>
 	<Activity_Tag>TUT2</Activity_Tag>
+	<Activity_Tag>ECOclass</Activity_Tag>
 	<Students>SOC1</Students>
 	<Students>ENG1</Students>
 	<Duration>2</Duration>
@@ -7388,6 +7405,7 @@
 	<Teacher>Kshitiz Mishra</Teacher>
 	<Subject>ECO102</Subject>
 	<Activity_Tag>LEC1</Activity_Tag>
+	<Activity_Tag>ECOclass</Activity_Tag>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
 	<Id>296</Id>
@@ -7399,6 +7417,7 @@
 	<Teacher>Kshitiz Mishra</Teacher>
 	<Subject>ECO102</Subject>
 	<Activity_Tag>LEC1</Activity_Tag>
+	<Activity_Tag>ECOclass</Activity_Tag>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
 	<Id>297</Id>
@@ -7410,6 +7429,7 @@
 	<Teacher>Kshitiz Mishra</Teacher>
 	<Subject>ECO102</Subject>
 	<Activity_Tag>TUT1</Activity_Tag>
+	<Activity_Tag>ECOclass</Activity_Tag>
 	<Duration>2</Duration>
 	<Total_Duration>2</Total_Duration>
 	<Id>298</Id>
@@ -7505,6 +7525,7 @@
 	<Subject>ECO101</Subject>
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>LargeClass</Activity_Tag>
+	<Activity_Tag>ECOclass</Activity_Tag>
 	<Students>EEE4</Students>
 	<Students>CHD2</Students>
 	<Students>MED43</Students>
@@ -7526,6 +7547,7 @@
 	<Subject>ECO101</Subject>
 	<Activity_Tag>LEC1</Activity_Tag>
 	<Activity_Tag>LargeClass</Activity_Tag>
+	<Activity_Tag>ECOclass</Activity_Tag>
 	<Students>EEE4</Students>
 	<Students>CHD2</Students>
 	<Students>MED43</Students>
@@ -7546,6 +7568,7 @@
 	<Teacher>Eco101TA1</Teacher>
 	<Subject>ECO101</Subject>
 	<Activity_Tag>TUT1</Activity_Tag>
+	<Activity_Tag>ECOclass</Activity_Tag>
 	<Students>ECO1</Students>
 	<Duration>2</Duration>
 	<Total_Duration>2</Total_Duration>
@@ -7558,6 +7581,7 @@
 	<Teacher>Eco101TA2</Teacher>
 	<Subject>ECO101</Subject>
 	<Activity_Tag>TUT2</Activity_Tag>
+	<Activity_Tag>ECOclass</Activity_Tag>
 	<Students>CSE32</Students>
 	<Students>MED2</Students>
 	<Students>CSE31</Students>
@@ -7573,6 +7597,7 @@
 	<Teacher>Eco101TA3</Teacher>
 	<Subject>ECO101</Subject>
 	<Activity_Tag>TUT3</Activity_Tag>
+	<Activity_Tag>ECOclass</Activity_Tag>
 	<Students>MED41</Students>
 	<Students>MED42</Students>
 	<Students>EEE4</Students>
@@ -11984,6 +12009,7 @@
 	<Teacher>Anup Pramanik[20501062]</Teacher>
 	<Subject>ECO221</Subject>
 	<Activity_Tag>LEC1</Activity_Tag>
+	<Activity_Tag>ECOclass</Activity_Tag>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
 	<Id>660</Id>
@@ -11995,6 +12021,7 @@
 	<Teacher>Anup Pramanik[20501062]</Teacher>
 	<Subject>ECO221</Subject>
 	<Activity_Tag>LEC1</Activity_Tag>
+	<Activity_Tag>ECOclass</Activity_Tag>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
 	<Id>661</Id>
@@ -12006,6 +12033,7 @@
 	<Teacher>Anup Pramanik[20501062]</Teacher>
 	<Subject>ECO221</Subject>
 	<Activity_Tag>TUT1</Activity_Tag>
+	<Activity_Tag>ECOclass</Activity_Tag>
 	<Duration>2</Duration>
 	<Total_Duration>2</Total_Duration>
 	<Id>662</Id>
@@ -12018,6 +12046,7 @@
 	<Teacher>Partha  Chatterjee[20500194]</Teacher>
 	<Subject>ECO402</Subject>
 	<Activity_Tag>LEC1</Activity_Tag>
+	<Activity_Tag>ECOclass</Activity_Tag>
 	<Students>ECO3</Students>
 	<Students>ECO4</Students>
 	<Duration>3</Duration>
@@ -12032,6 +12061,7 @@
 	<Teacher>Partha  Chatterjee[20500194]</Teacher>
 	<Subject>ECO402</Subject>
 	<Activity_Tag>LEC1</Activity_Tag>
+	<Activity_Tag>ECOclass</Activity_Tag>
 	<Students>ECO3</Students>
 	<Students>ECO4</Students>
 	<Duration>3</Duration>
@@ -12045,6 +12075,7 @@
 	<Teacher>Arka Roy Chaudhuri</Teacher>
 	<Subject>ECO403</Subject>
 	<Activity_Tag>LEC1</Activity_Tag>
+	<Activity_Tag>ECOclass</Activity_Tag>
 	<Students>ECO3</Students>
 	<Students>ECO4</Students>
 	<Duration>3</Duration>
@@ -12058,6 +12089,7 @@
 	<Teacher>Arka Roy Chaudhuri</Teacher>
 	<Subject>ECO403</Subject>
 	<Activity_Tag>LEC1</Activity_Tag>
+	<Activity_Tag>ECOclass</Activity_Tag>
 	<Students>ECO3</Students>
 	<Students>ECO4</Students>
 	<Duration>3</Duration>
@@ -12071,6 +12103,7 @@
 	<Teacher>Kurt Horner</Teacher>
 	<Subject>ECO422</Subject>
 	<Activity_Tag>LEC1</Activity_Tag>
+	<Activity_Tag>ECOclass</Activity_Tag>
 	<Students>ECO3</Students>
 	<Students>ECO4</Students>
 	<Duration>3</Duration>
@@ -12084,6 +12117,7 @@
 	<Teacher>Kurt Horner</Teacher>
 	<Subject>ECO422</Subject>
 	<Activity_Tag>LEC1</Activity_Tag>
+	<Activity_Tag>ECOclass</Activity_Tag>
 	<Students>ECO3</Students>
 	<Students>ECO4</Students>
 	<Duration>3</Duration>
@@ -15770,6 +15804,7 @@
 	<Teacher>Dhritiman Gupta</Teacher>
 	<Subject>ECO101</Subject>
 	<Activity_Tag>LEC2</Activity_Tag>
+	<Activity_Tag>ECOclass</Activity_Tag>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
 	<Id>1002</Id>
@@ -15781,6 +15816,7 @@
 	<Teacher>Dhritiman Gupta</Teacher>
 	<Subject>ECO101</Subject>
 	<Activity_Tag>LEC2</Activity_Tag>
+	<Activity_Tag>ECOclass</Activity_Tag>
 	<Duration>3</Duration>
 	<Total_Duration>6</Total_Duration>
 	<Id>1003</Id>
