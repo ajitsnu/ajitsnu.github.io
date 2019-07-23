@@ -11247,10 +11247,10 @@
       <Teacher name="Meera  visvanathan[20500357]"></Teacher><Subject name="HIS203"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="10:00">
-     
+      <Teacher name="Jaya  Menon[20500223]"></Teacher><Subject name="HIS201"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
     </Hour>
     <Hour name="10:30">
-     
+      <Teacher name="Jaya  Menon[20500223]"></Teacher><Subject name="HIS201"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
     </Hour>
     <Hour name="11:00">
       <Teacher name="Jaya  Menon[20500223]"></Teacher><Subject name="HIS201"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
@@ -11259,10 +11259,10 @@
       <Teacher name="Jaya  Menon[20500223]"></Teacher><Subject name="HIS201"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="12:00">
-      <Teacher name="HIS204Instructor"></Teacher><Subject name="HIS204"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Anubhuti Maurya"></Teacher><Subject name="HIS204"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="12:30">
-      <Teacher name="HIS204Instructor"></Teacher><Subject name="HIS204"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Anubhuti Maurya"></Teacher><Subject name="HIS204"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="13:00">
       <Teacher name="LunchHIS2"></Teacher><Subject name="Lunch"></Subject>
@@ -11383,10 +11383,10 @@
       <Teacher name="Jaya  Menon[20500223]"></Teacher><Subject name="HIS201"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="12:00">
-      <Teacher name="HIS204Instructor"></Teacher><Subject name="HIS204"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Anubhuti Maurya"></Teacher><Subject name="HIS204"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="12:30">
-      <Teacher name="HIS204Instructor"></Teacher><Subject name="HIS204"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Anubhuti Maurya"></Teacher><Subject name="HIS204"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="13:00">
      
@@ -11439,10 +11439,10 @@
      
     </Hour>
     <Hour name="11:00">
-      <Teacher name="HIS204Instructor"></Teacher><Subject name="HIS204"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:30">
-      <Teacher name="HIS204Instructor"></Teacher><Subject name="HIS204"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
+     
     </Hour>
     <Hour name="12:00">
      
@@ -11466,10 +11466,10 @@
      
     </Hour>
     <Hour name="15:30">
-      <Teacher name="Jaya  Menon[20500223]"></Teacher><Subject name="HIS201"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
+     
     </Hour>
     <Hour name="16:00">
-      <Teacher name="Jaya  Menon[20500223]"></Teacher><Subject name="HIS201"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
+     
     </Hour>
     <Hour name="16:30">
      
@@ -11495,10 +11495,10 @@
       <Teacher name="Meera  visvanathan[20500357]"></Teacher><Subject name="HIS203"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="10:00">
-     
+      <Teacher name="Anubhuti Maurya"></Teacher><Subject name="HIS204"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
     </Hour>
     <Hour name="10:30">
-     
+      <Teacher name="Anubhuti Maurya"></Teacher><Subject name="HIS204"></Subject><Activity_Tag name="TUT1"></Activity_Tag>
     </Hour>
     <Hour name="11:00">
       <Teacher name="Jaya  Menon[20500223]"></Teacher><Subject name="HIS201"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
@@ -11507,10 +11507,10 @@
       <Teacher name="Jaya  Menon[20500223]"></Teacher><Subject name="HIS201"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="12:00">
-      <Teacher name="HIS204Instructor"></Teacher><Subject name="HIS204"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Anubhuti Maurya"></Teacher><Subject name="HIS204"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="12:30">
-      <Teacher name="HIS204Instructor"></Teacher><Subject name="HIS204"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
+      <Teacher name="Anubhuti Maurya"></Teacher><Subject name="HIS204"></Subject><Activity_Tag name="LEC1"></Activity_Tag>
     </Hour>
     <Hour name="13:00">
      
@@ -15769,16 +15769,16 @@
      
     </Hour>
     <Hour name="15:00">
-     <Subject name="EED306"></Subject><Activity_Tag name="C106"></Activity_Tag>
+      <Teacher name="Dinkar  Prasad[20500201]"></Teacher><Subject name="EED306"></Subject><Activity_Tag name="C106"></Activity_Tag>
     </Hour>
     <Hour name="15:30">
-     <Subject name="EED306"></Subject><Activity_Tag name="C106"></Activity_Tag>
+      <Teacher name="Dinkar  Prasad[20500201]"></Teacher><Subject name="EED306"></Subject><Activity_Tag name="C106"></Activity_Tag>
     </Hour>
     <Hour name="16:00">
-     <Subject name="EED306"></Subject><Activity_Tag name="C106"></Activity_Tag>
+      <Teacher name="Dinkar  Prasad[20500201]"></Teacher><Subject name="EED306"></Subject><Activity_Tag name="C106"></Activity_Tag>
     </Hour>
     <Hour name="16:30">
-     <Subject name="EED306"></Subject><Activity_Tag name="C106"></Activity_Tag>
+      <Teacher name="Dinkar  Prasad[20500201]"></Teacher><Subject name="EED306"></Subject><Activity_Tag name="C106"></Activity_Tag>
     </Hour>
     <Hour name="17:00">
      
@@ -16328,7 +16328,7 @@
       <Teacher name="LunchEEE3"></Teacher><Subject name="Lunch"></Subject>
     </Hour>
     <Hour name="14:30">
-      <Teacher name="Dinkar  Prasad[20500201]"></Teacher><Subject name="EED306"></Subject><Activity_Tag name="C106"></Activity_Tag>
+     
     </Hour>
     <Hour name="15:00">
       <Teacher name="Dinkar  Prasad[20500201]"></Teacher><Subject name="EED306"></Subject><Activity_Tag name="C106"></Activity_Tag>
@@ -16340,7 +16340,7 @@
       <Teacher name="Dinkar  Prasad[20500201]"></Teacher><Subject name="EED306"></Subject><Activity_Tag name="C106"></Activity_Tag>
     </Hour>
     <Hour name="16:30">
-     
+      <Teacher name="Dinkar  Prasad[20500201]"></Teacher><Subject name="EED306"></Subject><Activity_Tag name="C106"></Activity_Tag>
     </Hour>
     <Hour name="17:00">
      
