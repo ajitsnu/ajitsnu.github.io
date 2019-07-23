@@ -9556,40 +9556,6 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Pooja  Malik[20500448]</Teacher>
-	<Subject>CSD101</Subject>
-	<Activity_Tag>LEC1</Activity_Tag>
-	<Activity_Tag>LargeClass</Activity_Tag>
-	<Students>CSE11</Students>
-	<Students>CSE14</Students>
-	<Students>CSE12</Students>
-	<Students>MAT2</Students>
-	<Students>CSE13</Students>
-	<Duration>3</Duration>
-	<Total_Duration>6</Total_Duration>
-	<Id>467</Id>
-	<Activity_Group_Id>467</Activity_Group_Id>
-	<Active>true</Active>
-	<Comments></Comments>
-</Activity>
-<Activity>
-	<Teacher>Pooja  Malik[20500448]</Teacher>
-	<Subject>CSD101</Subject>
-	<Activity_Tag>LEC1</Activity_Tag>
-	<Activity_Tag>LargeClass</Activity_Tag>
-	<Students>CSE11</Students>
-	<Students>CSE14</Students>
-	<Students>CSE12</Students>
-	<Students>MAT2</Students>
-	<Students>CSE13</Students>
-	<Duration>3</Duration>
-	<Total_Duration>6</Total_Duration>
-	<Id>468</Id>
-	<Activity_Group_Id>467</Activity_Group_Id>
-	<Active>true</Active>
-	<Comments></Comments>
-</Activity>
-<Activity>
 	<Teacher>Sweta Mishra</Teacher>
 	<Subject>CSD101</Subject>
 	<Activity_Tag>LEC2</Activity_Tag>
@@ -9649,7 +9615,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Pooja  Malik[20500448]</Teacher>
+	<Teacher>Sweta Mishra</Teacher>
 	<Subject>CSD101</Subject>
 	<Activity_Tag>D317</Activity_Tag>
 	<Students>ECE11</Students>
@@ -9663,7 +9629,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Pooja  Malik[20500448]</Teacher>
+	<Teacher>Sweta Mishra</Teacher>
 	<Subject>CSD101</Subject>
 	<Activity_Tag>D317</Activity_Tag>
 	<Students>EEE12</Students>
@@ -15822,6 +15788,57 @@
 	<Active>true</Active>
 	<Comments></Comments>
 </Activity>
+<Activity>
+	<Teacher>Pooja  Malik[20500448]</Teacher>
+	<Subject>CSD101</Subject>
+	<Activity_Tag>LEC1</Activity_Tag>
+	<Activity_Tag>LargeClass</Activity_Tag>
+	<Students>CSE11</Students>
+	<Students>CSE12</Students>
+	<Students>CSE13</Students>
+	<Students>CSE14</Students>
+	<Students>MAT2</Students>
+	<Duration>2</Duration>
+	<Total_Duration>6</Total_Duration>
+	<Id>1004</Id>
+	<Activity_Group_Id>1004</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Pooja  Malik[20500448]</Teacher>
+	<Subject>CSD101</Subject>
+	<Activity_Tag>LEC1</Activity_Tag>
+	<Activity_Tag>LargeClass</Activity_Tag>
+	<Students>CSE11</Students>
+	<Students>CSE12</Students>
+	<Students>CSE13</Students>
+	<Students>CSE14</Students>
+	<Students>MAT2</Students>
+	<Duration>2</Duration>
+	<Total_Duration>6</Total_Duration>
+	<Id>1005</Id>
+	<Activity_Group_Id>1004</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Pooja  Malik[20500448]</Teacher>
+	<Subject>CSD101</Subject>
+	<Activity_Tag>LEC1</Activity_Tag>
+	<Activity_Tag>LargeClass</Activity_Tag>
+	<Students>CSE11</Students>
+	<Students>CSE12</Students>
+	<Students>CSE13</Students>
+	<Students>CSE14</Students>
+	<Students>MAT2</Students>
+	<Duration>2</Duration>
+	<Total_Duration>6</Total_Duration>
+	<Id>1006</Id>
+	<Activity_Group_Id>1004</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
 </Activities_List>
 
 <Buildings_List>
@@ -18691,24 +18708,6 @@
 	<Number_of_Activities>2</Number_of_Activities>
 	<Activity_Id>465</Activity_Id>
 	<Activity_Id>466</Activity_Id>
-	<MinDays>2</MinDays>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintMinDaysBetweenActivities>
-<ConstraintActivitiesSameStartingHour>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Number_of_Activities>2</Number_of_Activities>
-	<Activity_Id>467</Activity_Id>
-	<Activity_Id>468</Activity_Id>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivitiesSameStartingHour>
-<ConstraintMinDaysBetweenActivities>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
-	<Number_of_Activities>2</Number_of_Activities>
-	<Activity_Id>467</Activity_Id>
-	<Activity_Id>468</Activity_Id>
 	<MinDays>2</MinDays>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -21692,7 +21691,7 @@
 <ConstraintTeacherMaxGapsPerDay>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Teacher_Name>Pooja  Malik[20500448]</Teacher_Name>
-	<Max_Gaps>1</Max_Gaps>
+	<Max_Gaps>10</Max_Gaps>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintTeacherMaxGapsPerDay>
@@ -51579,15 +51578,6 @@
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>329</Activity_Id>
-	<Preferred_Day>W</Preferred_Day>
-	<Preferred_Hour>09:00</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>330</Activity_Id>
 	<Preferred_Day>F</Preferred_Day>
 	<Preferred_Hour>15:30</Preferred_Hour>
@@ -51636,42 +51626,6 @@
 	<Activity_Id>348</Activity_Id>
 	<Preferred_Day>W</Preferred_Day>
 	<Preferred_Hour>10:30</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>467</Activity_Id>
-	<Preferred_Day>F</Preferred_Day>
-	<Preferred_Hour>09:00</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>468</Activity_Id>
-	<Preferred_Day>M</Preferred_Day>
-	<Preferred_Hour>09:00</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>471</Activity_Id>
-	<Preferred_Day>T</Preferred_Day>
-	<Preferred_Hour>14:30</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>472</Activity_Id>
-	<Preferred_Day>W</Preferred_Day>
-	<Preferred_Hour>11:30</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -51960,24 +51914,6 @@
 	<Activity_Id>531</Activity_Id>
 	<Preferred_Day>M</Preferred_Day>
 	<Preferred_Hour>10:30</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>532</Activity_Id>
-	<Preferred_Day>T</Preferred_Day>
-	<Preferred_Hour>12:00</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>533</Activity_Id>
-	<Preferred_Day>T</Preferred_Day>
-	<Preferred_Hour>13:00</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -54283,6 +54219,98 @@
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintActivityPreferredStartingTime>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>3</Number_of_Activities>
+	<Activity_Id>1004</Activity_Id>
+	<Activity_Id>1005</Activity_Id>
+	<Activity_Id>1006</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintActivitiesSameStartingHour>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Number_of_Activities>3</Number_of_Activities>
+	<Activity_Id>1004</Activity_Id>
+	<Activity_Id>1005</Activity_Id>
+	<Activity_Id>1006</Activity_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivitiesSameStartingHour>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>1005</Activity_Id>
+	<Preferred_Day>M</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>1006</Activity_Id>
+	<Preferred_Day>F</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>1004</Activity_Id>
+	<Preferred_Day>W</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>329</Activity_Id>
+	<Preferred_Day>W</Preferred_Day>
+	<Preferred_Hour>14:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>472</Activity_Id>
+	<Preferred_Day>M</Preferred_Day>
+	<Preferred_Hour>15:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>471</Activity_Id>
+	<Preferred_Day>T</Preferred_Day>
+	<Preferred_Hour>15:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>532</Activity_Id>
+	<Preferred_Day>T</Preferred_Day>
+	<Preferred_Hour>12:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>533</Activity_Id>
+	<Preferred_Day>T</Preferred_Day>
+	<Preferred_Hour>13:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
 </Time_Constraints_List>
 
 <Space_Constraints_List>
@@ -55058,22 +55086,6 @@
 </ConstraintActivityPreferredRoom>
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>471</Activity_Id>
-	<Room>D317</Room>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRoom>
-<ConstraintActivityPreferredRoom>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>472</Activity_Id>
-	<Room>D317</Room>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRoom>
-<ConstraintActivityPreferredRoom>
-	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>473</Activity_Id>
 	<Room>D317</Room>
 	<Permanently_Locked>false</Permanently_Locked>
@@ -55100,6 +55112,22 @@
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>572</Activity_Id>
 	<Room>D313</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>471</Activity_Id>
+	<Room>D317</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>472</Activity_Id>
+	<Room>D317</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
