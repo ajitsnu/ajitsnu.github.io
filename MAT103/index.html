@@ -7,8 +7,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS"
-        crossorigin="anonymous">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css"
+        integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
 
     <!-- my custom style -->
     <link rel="stylesheet" href="css/styles.css">
@@ -19,11 +19,12 @@
       </script>
 
     <!-- math typing -->
-    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
+    <script type="text/javascript" async
+        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
     </script>
 
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/"
-        crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"
+        integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
 
 
 
@@ -31,37 +32,63 @@
 
 <body>
 
+    <div class="container">
 
-    <section id="header" class="container-fluid bg-dark">
 
-        <h1>MAT103 - Mathematical Methods I</h1>
-        <p>
-            Mostly multivariable Calculus, and some Matrix Algebra
-        </p>
-    </section>
+        <section id="header" class="container-fluid bg-dark">
+
+            <h1>MAT103 - Mathematical Methods I</h1>
+            <p>
+                Mostly multivariable Calculus, and some Matrix Algebra
+            </p>
+
+
+
+        </section>
+    </div>
+
 
     <div class="container">
-        <table class="table table-bordered">
+
+
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup"
+                aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                <div class="navbar-nav">
+                    <a class="nav-item nav-link" target="blank" href="https://forms.gle/dBGNTYtuAhu5jPWS8">Classroom Activity Form</a>
+                    <a class="nav-item nav-link" target="blank" href="https://docs.google.com/spreadsheets/d/1pgCfigmbQuS20eiY_0lHksrMVLDgrEbwvmfIL4M9AUw/edit#gid=0">Todays Seating Plan</a>
+                </div>
+            </div>
+        </nav>
+        <table class="table table-bordered" id="lectureVidTable">
             <thead>
                 <tr>
                     <th scope="col">Lecture Videos (Khan Academy)</th>
-                    <th scope="col">Practice Problems from the textbook: Essential Calculus by James Stewar</th>
+                    <th scope="col">Practice Problems from the textbook: Essential Calculus by James Stewart</th>
                 </tr>
             </thead>
             <tbody>
 
                 <tr>
-                    <td scope="row"> <a target="blank" href="https://www.youtube.com/watch?v=TrcCbdWwCBc&list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7&index=1">Introduction of Course</a> </td>
+                    <td scope="row"> <a target="blank"
+                            href="https://www.youtube.com/watch?v=TrcCbdWwCBc&list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7&index=1">Introduction
+                            of Course</a> </td>
                     <td></td>
                 </tr>
 
                 <tr>
-                    <td scope="row"> <a target="blank" href="https://www.youtube.com/watch?v=iBgOoaeLUcM&list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7&index=2">
-                        Representing points and vectors in 3D</a> </td>
+                    <td scope="row"> <a target="blank"
+                            href="https://www.youtube.com/watch?v=iBgOoaeLUcM&list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7&index=2">
+                            Representing points and vectors in 3D</a> </td>
                     <td>
-                        <em>Section 10.1</em>: All problems. Not every problem is disussed in video but they are easy. <br/> 
-                        <em>Section 10.2</em>: All problems. Easy <br/> 
-                        <em>Q.</em> What is a fundamental difference between a point $P = (1,2,3)$ and a  vector $\vec{P} = \mathbf{i} + 2\mathbf{j} + 3\mathbf{k}$?
+                        <em>Section 10.1</em>: All problems. Not every problem is disussed in video but they are easy.
+                        <br />
+                        <em>Section 10.2</em>: All problems. Easy <br />
+                        <em>Q.</em> What is a fundamental difference between a point $P = (1,2,3)$ and a vector $\vec{P}
+                        = \mathbf{i} + 2\mathbf{j} + 3\mathbf{k}$?
                     </td>
                 </tr>
 
@@ -76,12 +103,15 @@
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
-        crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut"
-        crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k"
-        crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous">
+    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js"
+        integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous">
+    </script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js"
+        integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous">
+    </script>
 </body>
 
 
