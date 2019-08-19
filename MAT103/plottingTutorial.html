@@ -107,6 +107,22 @@ surf(x,y,z,'EdgeColor','none')
 axis([-2 2 -2 2 0 7])</pre>
 
 
+<hr>
+<h5> Vector vields:2D </h5>
+Plot the vector field $\mathbf{F}(x,y) = -y \,\mathbf{i} + x \,\mathbf{j}$
+<pre class="prettyprint">
+[x,y]=meshgrid(-3:0.2:3, -3:0.2:3);
+quiver(x,y,-y,x,1)
+</pre>
+
+<hr>
+<h5> Vector vields:3D </h5>
+Plot the vector field $\mathbf{F}(x,y,z) = -y \,\mathbf{i} + x \,\mathbf{j} + z \,\mathbf{k}$
+<pre class="prettyprint">
+[x,y,z]=meshgrid(-3:0.5:3, -3:0.5:3,-3:0.5:3);
+quiver3(x,y,z,-y,x,z)        
+</pre>
+
     </div>
 
     <!-- Optional JavaScript -->
