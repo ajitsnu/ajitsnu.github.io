@@ -2,13 +2,13 @@ clc
 clear all
 
 % function and its gradient
-%f = @(x,y)(-x.^2 -y.^2);
-%fx = @(x,y)(-2*x);
-%fy = @(x,y)(-2*y.^1);
+f = @(x,y)(x.^2 +y.^2);
+fx = @(x,y)(2*x);
+fy = @(x,y)(2*y);
 
-f = @(x,y)(sin(x) + exp(x.*y));
-fx = @(x,y)(cos(x) + y.*exp(x.*y));
-fy = @(x,y)(x.*exp(x.*y));
+%f = @(x,y)(sin(x) + exp(x.*y));
+%fx = @(x,y)(cos(x) + y.*exp(x.*y));
+%fy = @(x,y)(x.*exp(x.*y));
 
 % point of evaluation of gradient (a,b)
 a = 0; b = 0;

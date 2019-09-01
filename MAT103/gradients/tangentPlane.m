@@ -2,12 +2,12 @@ clc
 clear all
 
 % function and its gradient
-f = @(x,y)(x.^2 +y.^2);
-fx = @(x,y)(2*x);
+f = @(x,y)(2*x.^2 +y.^2);
+fx = @(x,y)(4*x);
 fy = @(x,y)(2*y);
 
 % point of evaluation of gradient (a,b)
-a = 1; b = 2;
+a = 1; b = 1;
 
 % plot surface
 h = 2;
