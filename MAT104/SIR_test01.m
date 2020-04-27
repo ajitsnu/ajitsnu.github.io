@@ -1,27 +1,29 @@
 function main
 
 # set ODE parameters
-beta=0.1;
-mu=0.05;
+beta=0.1;  # interaction paramter
+gamma=0.05;   # the recovery rate
 
 function xdot = sir_eqn(x,t)
     % Define variables
-    s = x(1);
-    y = x(2);
-    r = x(3);
+    S = x(1);
+    I = x(2);
+    R = x(3);
 
     % Define ODEs
-    ds=-beta*s*y;
-    dy=beta*s*y-mu*y;
-    dr=mu*y;
+    dS=-beta*S*I;
+    dI=beta*S*I-gamma*I;
+    dR=gamma*I;
 
     % Return gradients
-    xdot = [ds,dy,dr];
+    xdot = [dS,dI,dR];
 endfunction
 
 
 % setup time and initial conditions
-t = linspace(0, 200, 2001)+.1;
+t = linspace(0, 200, 2001);#+.1;
+
+# initial population distribution in S, I, R
 x0=[0.99,0.01,0];
 
 % solve the ode
@@ -35,5 +37,6 @@ ylabel("Number","fontweight","bold")
 h = legend("S","I","R");
 legend(h,"show")
 
+hold on
 
 endfunction
