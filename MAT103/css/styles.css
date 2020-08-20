@@ -34,3 +34,7 @@
 #lectureVidTable{
     margin-top: 10px;
 }
+
+.table td{
+    vertical-align: middle;
+}
